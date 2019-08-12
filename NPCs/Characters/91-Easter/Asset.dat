@@ -1,0 +1,16 @@
+GUID a6efb7cc2ff5478d89ffb91a88599ea2
+Type NPC
+ID 32030
+
+Shirt 32094
+Pants 32080
+Vest 31017
+Backpack 31018
+
+Face 3
+Hair 17
+Beard 2
+Color_Skin #94764b
+Color_Hair #191919
+
+Dialogue 330181

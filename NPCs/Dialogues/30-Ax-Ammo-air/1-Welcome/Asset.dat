@@ -1,0 +1,13 @@
+GUID a5cb4937efe54f849a088a69812d3e69
+Type Dialogue
+ID 33085
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 33087
+Response_0_Vendor 32828
+
+Response_1_Dialogue 33086

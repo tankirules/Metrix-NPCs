@@ -1,0 +1,15 @@
+GUID 0934e325-f12c-4174-9d4e-b050de1cbc93
+Type Dialogue
+ID 33055
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33057
+Response_0_Vendor 32818
+
+//About
+Response_1_Dialogue 33056

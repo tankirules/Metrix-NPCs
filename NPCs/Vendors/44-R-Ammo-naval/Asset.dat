@@ -1,0 +1,37 @@
+GUID b4dcfed85c264e4dad0fd31cc0c471ed
+Type Vendor
+ID 32843
+
+Buying 6
+// 20mm-AP-Clip
+Buying_0_ID 40401
+Buying_0_Cost 50
+// 20mm-HE-Clip
+Buying_1_ID 40402
+Buying_1_Cost 60
+// Torpedo-4
+Buying_2_ID 41701
+Buying_2_Cost 200
+// 20mm-Bullet
+Buying_3_ID 41301
+Buying_3_Cost 100
+// 127mm-AP-Shell
+Buying_4_ID 41601
+Buying_4_Cost 30
+// 127mm-HE-Shell
+Buying_5_ID 41602
+Buying_5_Cost 40
+
+Selling 4
+// 20mm-Bullet
+Selling_0_ID 41301
+Selling_0_Cost 200
+// Torpedo-4
+Selling_1_ID 41701
+Selling_1_Cost 300
+// 127mm-AP-Shell
+Selling_2_ID 41601
+Selling_2_Cost 40
+// 127mm-HE-Shell
+Selling_3_ID 41602
+Selling_3_Cost 50

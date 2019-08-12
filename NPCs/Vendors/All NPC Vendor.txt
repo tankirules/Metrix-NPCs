@@ -1,0 +1,86 @@
+US Character/vendor
+US Ammo: 32814
+US Rifles: 32815
+US Machine gun: 32816
+US Explosives: 32817
+US Engineer: 32818
+US Medic: 32819
+US Supplies: 32820
+US Cars: 32821
+US Tank: 32822
+US Air: 32823
+US Naval: 32824
+US Chef: 32825
+US Bank: 32826
+US Ammo Naval: 32827
+US Ammo Air: 32829
+
+German Character/vendor
+German Ammo: 32800 
+German Rifles: 32801
+German Machine Gun: 32802
+German Explosives: 32803
+German Engineer: 32804
+German Medic: 32805
+German Supplies: 32806
+German Cars: 32807
+German Tank: 32808
+German Air: 32809
+German Naval: 32810
+German Chef: 32811
+German Bank: 32812
+German Ammo Naval: 32813
+German Ammo Air: 32828
+
+Russian Character/vendor
+Russian Ammo: 32830
+Russian Rifles: 32831
+Russian Machine Gun: 32832
+Russian Explosives: 32833
+Russian Engineer: 32834
+Russian Medic: 32835
+Russian Supplies: 32836
+Russian Cars: 32837
+Russian Tank: 32838
+Russian Air: 32839
+Russian Naval: 32840
+Russian Chef: 32841
+Russian Bank: 32842
+Russian Ammo Naval: 32843
+Russian Ammo Air: 32844
+
+Finnish Character/vendor
+Finnish Ammo: 32845
+Finnish Rifles: 32846
+Finnish Machine gun: 32847
+Finnish Explosives: 32848
+Finnish Engineer: 32849
+Finnish Medic: 32850
+Finnish Supplies: 32851
+Finnish Cars: 32852
+Finnish Tank: 32853
+Finnish Air: 32854
+Finnish Naval: 32855
+Finnish Chef: 32856
+Finnish Bank: 32857
+Finnish Ammo Naval: 32858
+Finnish Ammo Air: 32859
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 

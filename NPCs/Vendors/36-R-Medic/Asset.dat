@@ -1,0 +1,46 @@
+GUID d799062dffd44a86bfa63ef95d7b6465
+Type Vendor
+ID 32835
+
+Buying 3
+// Rag
+Buying_0_ID 393
+Buying_0_Cost 5
+// Bandage
+Buying_1_ID 95
+Buying_1_Cost 10
+// Bed-white
+Buying_2_ID 294
+Buying_2_Cost 10
+
+Selling 10
+// Dressing
+Selling_0_ID 394
+Selling_0_Cost 20
+// Splint
+Selling_1_ID 96
+Selling_1_Cost 15
+// Suturekit
+Selling_2_ID 403
+Selling_2_Cost 80
+// Medkit
+Selling_3_ID 15
+Selling_3_Cost 150
+// Bloodbag
+Selling_4_ID 395
+Selling_4_Cost 100
+// Cough Syrup
+Selling_5_ID 404
+Selling_5_Cost 20
+// Antibiotics
+Selling_6_ID 389
+Selling_6_Cost 35
+// Vaccine
+Selling_7_ID 269
+Selling_7_Cost 150
+// Morphine
+Selling_8_ID 388
+Selling_8_Cost 15
+// White-bed
+Selling_9_ID 294
+Selling_9_Cost 15

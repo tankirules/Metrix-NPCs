@@ -1,0 +1,24 @@
+GUID 969c4041-2ccb-45e9-9713-613069c8aed2
+Type NPC
+ID 32010
+
+Shirt 23093 
+Pants 23101 
+Hat 22835
+Vest 22836 
+
+Secondary 14414
+
+Face 5
+Hair 19
+Beard 6
+Color_Skin #f4e6d2
+Color_Hair #cdc08c
+
+Dialogue 33031
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

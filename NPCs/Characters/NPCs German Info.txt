@@ -1,0 +1,49 @@
+Axis Ammo:Corporal Emil Wal (Obergefreiter)			(Heer)
+Shirt: 23003 Pants: 23014 Vest: 22809 Backpack: 22814
+
+Axis Rifles:Lieutenant colonel Ralf Kiesel (Oberstleutnant)	(Heer)
+Shirt: 23011 Pants: 23015 Vest: 22812 Hat: 22807 
+
+Axis Machinegun:Sergeant Claus Nadelman (Unteroffizier)		(Panzer)
+Shirt: 23004 Pants: 23014 Vest: 22810
+
+Axis Explosives:Corporal Johannes Wentz (Obergefreiter)		(Para)
+Shirt: 23003 Pants: 23014 Vest: 22811 Hat: 22802
+
+Axis Engineer:Master sergeant Heinrich Basinger	(Oberfeldwebel)	(Panzer)
+Shirt: 23050 Pants: 23064 Vest: 22821
+
+Axis Medic:Sergeant Felix Schniffer (Unteroffizier)		(Medic)
+Shirt: 23017 Pants: 23014 Vest: 22809
+
+Axis Supplies:Second Lieutenant Henry Schanz (Leutnant)		(Para)
+Shirt: 23066 Pants: 23081 Vest: 22827 Hat: 22824 
+
+Axis Cars:Corporal Daniel Hönigberg (Obergefreiter)	(Heer)
+Shirt: 23003 Pants: 23014 Vest: 22809 
+
+Axis Tank:Major Christian schmetterling (Major)			(Panzer)
+Shirt: 23057 Pants: 23065 Vest: 22822 Hat: 22820
+
+Axis Air:First lieutenant Heinrich Kahler (Oberleutnant)	(Luft)
+Shirt: 23081 Pants: 23080 Vest: 22827  Hat: 22824   
+
+Axis Naval:Captain Jacob Raeder (Hauptmann)			(Krieg)
+Shirt: 23093 Pants: 23101 Vest: 22836 Hat: 22835
+
+Axis Chef:Corporal Olaf Holtzer (Obergefreiter)			(Chef)
+Shirt: 230 Pants: 231 Hat: 239
+
+Axis Bank:Michael Waxman 					(Banker)
+Shirt: 421 Pants: 422
+
+Axis Ammo Naval:Corporal Alex Daschner (Obergefreiter)		(Krieg)
+Shirt: 23086 Pants: 23100 Vest: 22834
+
+Axis Ammo Air:Sergeant Niclas Kracht(Unteroffizier)
+Shirt: 23066 Pants: 23080 Vest: 22827 Hat: 22824
+
+pvt-SG=Uncommon
+SG1-2LT=Rare
+1LT-Maj-Epic
+LC-BG=Legendary

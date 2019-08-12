@@ -1,0 +1,13 @@
+GUID 37ce4f0bedaa4b79968883eedf1adf22
+Type Vendor
+ID 30003
+
+Buying 0
+
+Selling 2
+// Zero
+Selling_0_ID 28930
+Selling_0_Cost 2000
+// Thora
+Selling_1_ID 28929
+Selling_1_Cost 2000

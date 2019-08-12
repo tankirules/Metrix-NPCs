@@ -1,0 +1,16 @@
+GUID d7dc0530eb244273b86f12a2748f5c8f
+Type NPC
+ID 32019
+
+Shirt 32303
+Pants 32315
+Hat 31045
+Vest 31042
+Backpack 31043
+
+Face 6
+Hair 19
+Color_Skin #f4e6d2
+Color_Hair #191919
+
+Dialogue 33058

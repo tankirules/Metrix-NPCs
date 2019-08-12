@@ -1,0 +1,15 @@
+GUID c14d5188-3425-4bb3-8ee0-954018320372
+Type Dialogue
+ID 33076
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33078
+Response_0_Vendor 32825
+
+//About
+Response_1_Dialogue 33077

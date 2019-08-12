@@ -1,0 +1,18 @@
+GUID 091288b3-6580-4385-843a-87ebe38acef8
+Type NPC
+ID 32017
+
+Shirt 32003
+Pants 32014
+Vest 31002 
+Backpack 31003
+
+Primary 14407
+Secondary 14412
+
+Face 9
+Hair 19
+Color_Skin #f4e6d2
+Color_Hair #352c22
+
+Dialogue 33052

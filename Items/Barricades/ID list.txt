@@ -1,0 +1,92 @@
+-Spawner ID-
+-German Ground-
+Kubelwagen - 29000
+Kubelwagen-mg - 29001
+Opel Blitz - 29002
+Sd.Kfz.6/2 - 29003
+Sd.Kfz 7 - 29004
+Pz.II C/F - 29005
+Pz.IV F2 - 29006
+Tiger 1 - 29007
+
+Flak38 - 29008
+Pak-36 - 29009
+BMW motorcycle - 29010
+^ but with sidecar - 29011
+
+sdkfz 251 - 29012
+Sd.Kfz.222 37mm - 29013
+pz.iii - 29014
+pziv winter - 29015
+hetzer - 29016
+
+
+-German Air-
+Bf-109 F - 29050
+Ju-87 - 29051
+Ju-88 - 29052
+
+BF110 - 29053
+JU-88P - 29054
+
+-German Naval-
+S-38 - 29100
+German 1934 Class Destroyer - 29101
+
+-Soviet Ground-
+Gaz-67 - 29200
+Gaz-67-mg - 29201
+ZIS-5 - 29202
+ZIS-42 - 29203
+Gaz-60 - 29204
+T-60 - 29205
+T-34 (1942) - 29206
+KV-1 (ZiS-5) - 29207
+
+61-K - 29208
+M1937 AT gun - 29209
+Harley Davidson - 29210
+^ with sidecar - 29211
+
+t-20 - 29212
+BA-10 - 29213
+t-26 29214
+t-34 winter 29215
+su-76 29216
+
+
+
+-Soviet Air-
+LaGG-3 - 29250
+IL-2 - 29251
+Tu-2 - 29252
+
+Pe-3 - 29253
+IL2 3M - 29254
+
+
+-Soviet Naval-
+G-5 - 29300
+Gnevny - 29301
+
+	-Spawner ID Organization-
+German Ground - 29000-29049
+German Air - 29050-29099
+German Naval - 29100-29149
+
+Soviet Ground - 29200-29249
+Soviet Air - 29250-29299
+Soviet Naval - 29300-29349
+
+
+
+
+
+
+
+
+
+
+
+
+

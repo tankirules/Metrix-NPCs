@@ -1,0 +1,22 @@
+GUID 1ebdde702bc6459fa55afb8f448f2f77
+Type NPC
+ID 32837
+
+Shirt 23507 
+Pants 23514 
+Hat 22906 
+Vest 22912 
+Backpack 22914
+
+Face 11
+Hair 12
+Color_Skin #d9cab4
+Color_Hair #191919
+
+Dialogue 33112
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True

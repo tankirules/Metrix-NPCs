@@ -1,0 +1,17 @@
+GUID 2be22ea9-d2cf-446c-bccb-54aa5127f7f2
+Type NPC
+ID 32000
+
+Shirt 23003 
+Pants 23014 
+Vest 22809 
+Backpack  22814
+
+Secondary 14416
+
+Face 11
+Hair 1
+Color_Skin #f4e6d2
+Color_Hair #473928
+
+Dialogue 33001

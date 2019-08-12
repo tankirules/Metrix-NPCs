@@ -1,0 +1,15 @@
+GUID 4e8da83c-032a-4aff-bc72-e9abfb4e96e5
+Type Dialogue
+ID 33046
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33048
+Response_0_Vendor 32815
+
+//About
+Response_1_Dialogue 33047

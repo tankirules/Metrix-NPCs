@@ -1,0 +1,15 @@
+GUID b72f7961-7551-4ea8-9991-349c2d041830
+Type Dialogue
+ID 33079
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33081
+Response_0_Vendor 32826
+
+//About
+Response_1_Dialogue 33080

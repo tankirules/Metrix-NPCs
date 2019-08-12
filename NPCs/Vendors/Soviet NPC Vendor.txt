@@ -1,0 +1,35 @@
+Russian Character/vendor
+Russian Ammo: 32830
+Russian Rifles: 32831
+Russian Machine Gun: 32832
+Russian Explosives: 32833
+Russian Engineer: 32834
+Russian Medic: 32835
+Russian Supplies: 32836
+Russian Cars: 32837
+Russian Tank: 32838
+Russian Air: 32839
+Russian Naval: 32840
+Russian Chef: 32841
+Russian Bank: 32842
+Russian Ammo Naval: 32843
+Russian Ammo Air: 32844
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 

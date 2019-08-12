@@ -1,0 +1,64 @@
+Finnish Ammo: Corporal Hemmo Honkala (Alikersantti)			(Army)
+Shirt:22002 Pants:22014 Vest:21900 Hat:21904 Backpack:21902 
+Sking-Color:f4e6d2 Hair-Color:cdc08c Face:9 Hair:20 Beard:3
+
+Finnish Rifles: 1st Lieutenant Ohto Terho (Yliluutnantti)		(Army)
+Shirt:22008 Pants:22015 Vest:21901 Hat:21905 Backpack:21902 
+Sking-Color:f4e6d2 Hair-Color:665037 Face:5 Hair:12 Beard:1
+
+Finnish Machinegun: Captain Raitis Niinistö (Kapteeni)			(Army)
+Shirt:22009 Pants:22015 Vest:21905 Hat:21903 Backpack:21902 
+Sking-Color:d9cab4 Hair-Color:cdc08c Face:22 Hair:18 Beard:0
+
+Finnish Explosives: Master Sergeant Osmo Mäki (Ylivääpeli)		(Tank)
+Shirt:22021 Pants:22030 Vest:21907 Hat:21909 Backpack:21908 
+Sking-Color:f4e6d2 Hair-Color:191919 Face:11 Hair:3 Beard:14
+
+Finnish Engineer: Major Karri Kemppainen (Majuri)           		(Army)
+Shirt:22010 Pants:22015 Vest:21901 Hat:21905 Backpack:21902 
+Sking-Color:d9cab4 Hair-Color:373737 Face:25 Hair:19 Beard:7
+
+Finnish Medic: Sergeant Risto Ruotsalainen (Kersantti)           	(Army)
+Shirt:22003 Pants:22014 Vest:21900 Hat: Backpack:21902 
+Sking-Color:f4e6d2 Hair-Color:473928 Face:3 Hair:2 Beard:5 
+
+Finnish Supplies: Sergeant 1st class Arvo Palo (Vääpeli)       		(Tank)
+Shirt:22020 Pants:22030 Vest:21907 Hat:21909 Backpack:21908 
+Sking-Color:f4e6d2 Hair-Color: Face:11 Hair:20 Beard:6 
+
+Finnish Cars: PVT Jukka Kari (Sotamies)                   		(Army)
+Shirt:22000 Pants:22014 Vest:21900 Hat: Backpack:21902 
+Sking-Color:d9cab4 Hair-Color: Face:9 Hair:18 Beard:0
+
+Finnish Tank: Colonel Into Laine (Eversti)               		(Tank)
+Shirt:22028 Pants:22030 Vest:21907 Hat:21909 Backpack:21908 
+Sking-Color:f4e6d2 Hair-Color: Face: Hair: Beard:
+
+Finnish Air: Sergeant Erno Alatalo (Kersantti)               		(Air)
+Shirt:22034 Pants:22045 Vest:21910 Hat:21912 Backpack:21911 
+Sking-Color:f4e6d2 Hair-Color: Face: Hair: Beard:
+
+Finnish Naval: Master Sergeant Kalevi Karvonen (Ylipursimies)      	(Naval)
+Shirt:22046 Pants:22048 Vest:21914 Hat:21916 Backpack: 
+Sking-Color:d9cab4 Hair-Color: Face: Hair: Beard:
+
+Finnish Chef: Sergeant Major Uolevi Virtanen (Sotilasmestari)       	(Chef)
+Shirt:230 Pants:231
+Sking-Color:d9cab4 Hair-Color: Face: Hair: Beard:
+
+Finnish Bank: Henri Viinanen                       			(Bank)
+Shirt:421 Pants:422 
+Sking-Color:f4e6d2 Hair-Color: Face: Hair: Beard:
+
+Finnish Ammo First Lieutenant Naval: Veli Haavisto (Yliluutnantti)   	(Naval)
+Shirt:22047 Pants:22048 Vest:21915 Hat:21917 
+Sking-Color:d9cab4 Hair-Color: Face: Hair: Beard: 
+
+Finnish Ammo Air: Second Lieutenant Ali Kulmala (Vänrikki)        	(Air)
+Shirt:22038 Pants:22045 Vest:21910 Hat:21912 Backpack:21911 
+Sking-Color:f4e6d2 Hair-Color: Face: Hair: Beard:
+
+pvt-SG= uncommon
+SG1-2LT= rare
+1LT-Maj= epic
+LC-BG= legendary

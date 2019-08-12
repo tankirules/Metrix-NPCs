@@ -1,0 +1,13 @@
+GUID 4afef84523c642008c354f9f91f8d4e4
+Type Dialogue
+ID 33091
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 33093
+Response_0_Vendor 32830
+
+Response_1_Dialogue 33092

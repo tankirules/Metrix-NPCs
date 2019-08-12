@@ -1,0 +1,13 @@
+GUID 88b6fda891fc4c879f936bf5c3a8f4c9
+Type Dialogue
+ID 33043
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 33045
+Response_0_Vendor 32814
+
+Response_1_Dialogue 33044

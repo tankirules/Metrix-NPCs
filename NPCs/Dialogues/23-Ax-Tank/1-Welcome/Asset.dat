@@ -1,0 +1,15 @@
+GUID a274cbdb-ade2-474c-b79d-e9c61b7691f8
+Type Dialogue
+ID 33025
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33027
+Response_0_Vendor 32808
+
+//About
+Response_1_Dialogue 33026

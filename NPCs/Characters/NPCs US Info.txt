@@ -1,0 +1,49 @@
+Allies Ammo:Second sergeant Clark Levy 				(Army)
+Shirt:32304 Pants:32315 Vest:31042 Hat:31044 Backpack:31043
+
+Allies Rifles:Lieutenant colonel Joseph Mills 			(Army)
+Shirt:32308 Pants:32315 Vest:31042 Backpack:31043
+
+Allies Machinegun:Second sergeant Lewis Kaur 			(Armor)
+Shirt:32229 Pants:32272 Vest:31026 Backpack:31027
+
+Allies Explosives:Sergeant Harrison Clarke 			(Para)
+Shirt:32003 Pants:32014 Vest:31002 Backpack:31003
+
+Allies Engineer:Master sergeant Javier Neal 			(Armor)
+Shirt:32006 Pants:32014 Vest:31002 Hat:31001 Backpack:31003 
+
+Allies Medic:Sergeant James Woods 				(Medic)
+Shirt:32303 Pants:32315 Vest:31042 Hat:31045 Backpack:31043
+
+Allies Supplies:First lieutenant Harley Thomas			(Para)
+Shirt:32007 Pants:32315 Vest:31042 Hat:31044 Mask: Backpack:
+
+Allies Cars:Second Lieutenant Terrence Mays 			(Army)
+Shirt:32308 Pants:32315 Vest:31042 Backpack:31043
+
+Allies Tank:Corporal Aidan Willis 				(Armor)
+Shirt:32227 Pants:32272 Vest:31026 Hat:31025 Backpack:31027
+
+Allies Air:Colonel David Moore 					(AF)
+Shirt:15160 Pants:15207 Vest:15209 Hat:15217 Backpack:19117
+
+Allies Naval:Captain Nicholas Baxter 				(USN)
+Shirt:15172 Pants:15046 Hat:15215 Backpack:
+
+Allies Chef:Corporal Ben Reid 					(Chef)
+Shirt:230 Pants:231
+
+Allies Bank:Aiden Chapman 					(Banker)
+Shirt:421 Pants:422 
+
+Allies Ammo Naval:Corporal Ben Webb				(USN)
+Shirt:15166 Pants:15044
+
+Allies Ammo Air: Major Edward Harris				(AF)
+Shirt:15159 Pants:15207 Vest:Vest:15209  Backpack:19117
+
+pvt-SG=Uncommon
+SG1-2LT=Rare
+1LT-Maj-Epic
+LC-BG=Legendary

@@ -1,0 +1,38 @@
+GUID 5f16ec428df24fe2986019354b8ccd93
+Type Vendor
+ID 32809
+
+Buying 5
+// LaGG-3
+Buying_0_ID 29250
+Buying_0_Cost 2000
+// IL-2
+Buying_1_ID 29251
+Buying_1_Cost 3500
+// Tu-2
+Buying_2_ID 29252
+Buying_2_Cost 5000
+//Pe-3 
+Buying_3_ID 29253
+Buying_3_Cost 5500
+//IL2 3M 
+Buying_4_ID 29254
+Buying_4_Cost 8000
+
+
+Selling 5
+// Bf-109 F
+Selling_0_ID 29050
+Selling_0_Cost 3000
+// Ju-87
+Selling_1_ID 29051
+Selling_1_Cost 4500
+// Ju-88
+Selling_2_ID 29052
+Selling_2_Cost 6000
+// Bf110
+Selling_3_ID 29053
+Selling_3_Cost 6500
+//Ju-88 P
+Selling_4_ID 29054
+Selling_4_Cost 12000

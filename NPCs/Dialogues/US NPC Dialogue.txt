@@ -1,0 +1,101 @@
+US Character/vendor
+US Ammo: 32814
+US Rifles: 32815
+US Machine gun: 32816
+US Explosives: 32817
+US Engineer: 32818
+US Medic: 32819
+US Supplies: 32820
+US Cars: 32821
+US Tank: 32822
+US Air: 32823
+US Naval: 32824
+US Chef: 32825
+US Bank: 32826
+US Ammo Naval: 32827
+US Ammo Air: 32829
+
+US Dialogue
+US Ammo:
+Welcome: 33043
+About: 33044
+Shop: 33045
+US Rifles:
+Welcome: 33046
+About: 33047
+Shop: 33048
+US Machine Gun:
+Welcome: 33049
+About: 33050
+Shop: 33051
+US Explosives:
+Welcome: 33052
+About: 33053
+Shop: 33054
+US Engineer:
+Welcome: 33055
+About: 33056
+Shop: 33057
+US Medic:
+Welcome: 33058
+About: 33059
+Shop: 33060
+US Supplies:
+Welcome: 33061
+About: 33062
+Shop: 33063
+US Cars:
+Welcome: 33064
+About: 33065
+Shop: 33066
+US Tank:
+Welcome: 33067
+About: 33068
+Shop: 33069
+US Air:
+Welcome: 33070
+About: 33071
+Shop: 33072
+US Naval:
+Welcome:  33073
+About: 33074
+Shop: 33075
+US Chef:
+Welcome: 33076
+About: 33077
+Shop: 33078
+US Bank:
+Welcome: 33079
+About: 33080
+Shop:  33081
+US Ammo Naval:
+Welcome: 33082
+About: 33083
+Shop: 33084
+US Ammo Air:
+Welcome: 33088
+About: 33089
+Shop: 33090
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 
+
+Welcome: 
+About: 
+Shop: 

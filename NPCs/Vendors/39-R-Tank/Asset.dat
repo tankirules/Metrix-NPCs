@@ -1,0 +1,40 @@
+GUID 74a43de4b8054c8984e393942fc59dd2
+Type Vendor
+ID 32838
+
+Buying 3
+// Pz.II C/F
+Buying_0_ID 29005
+Buying_0_Cost 1500
+// Pz.IV F2
+Buying_1_ID 29006
+Buying_1_Cost 2500
+// Tiger 1
+Buying_2_ID 29007
+Buying_2_Cost 3500
+
+Selling 8
+// T-60
+Selling_0_ID 29205
+Selling_0_Cost 2500
+// T-34 (1942)
+Selling_1_ID 29206
+Selling_1_Cost 3500
+// KV-1 (ZiS-5)
+Selling_2_ID 29207
+Selling_2_Cost 4500
+// T-20
+Selling_3_ID 29212
+Selling_3_Cost 1250
+//BA-10
+Selling_4_ID 29213
+Selling_4_Cost 750
+//t-26
+Selling_5_ID 29214
+Selling_5_Cost 1500
+//t-34 winter
+Selling_6_ID 29215
+Selling_6_Cost 3800
+//su76
+Selling_7_ID 29216
+Selling_7_Cost 2000

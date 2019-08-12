@@ -1,0 +1,20 @@
+GUID 25f91300bc6c4eec9c6389c2b6d6e7d6
+Type Dialogue
+ID 33185
+
+Messages 1
+Message_0_Pages 1	
+
+Responses 2
+
+//Axis
+Response_0_Dialogue 33186
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 503
+Response_0_Reward_0_Modification Assign
+Response_0_Reward_0_Value True
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 502
+Response_0_Reward_1_Modification Assign
+Response_0_Reward_1_Value True

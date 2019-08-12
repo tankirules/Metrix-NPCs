@@ -1,0 +1,19 @@
+GUID bc31e6f918fc47cc9fb9ba824016a2de
+Type NPC
+ID 32018
+
+Shirt 32006
+Pants 32014
+Hat 31001
+Vest 31002
+Backpack 31003
+
+Primary 14249
+Secondary 14412
+
+Face 5
+Hair 19
+Color_Skin #f4e6d2
+Color_Hair #352c22
+
+Dialogue 33055

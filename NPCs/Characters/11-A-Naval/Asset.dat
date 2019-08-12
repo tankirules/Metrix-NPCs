@@ -1,0 +1,15 @@
+GUID 623c046b-3209-4b0c-8d98-cbf5caf99b8c
+Type NPC
+ID 32024
+
+Shirt 15175
+Pants 15046
+Hat 15215
+
+Face 3
+Hair 19
+Beard 1
+Color_Skin #f4e6d2
+Color_Hair #191919
+
+Dialogue 33073

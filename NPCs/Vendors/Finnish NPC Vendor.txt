@@ -1,0 +1,35 @@
+Finnish Character/vendor
+Finnish Ammo: 32845
+Finnish Rifles: 32846
+Finnish Machine gun: 32847
+Finnish Explosives: 32848
+Finnish Engineer: 32849
+Finnish Medic: 32850
+Finnish Supplies: 32851
+Finnish Cars: 32852
+Finnish Tank: 32853
+Finnish Air: 32854
+Finnish Naval: 32855
+Finnish Chef: 32856
+Finnish Bank: 32857
+Finnish Ammo Naval: 32858
+Finnish Ammo Air: 32859
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 

@@ -1,0 +1,15 @@
+GUID c265aaee-9db4-4a3c-9150-f030baec44a1
+Type Dialogue
+ID 33019
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33021
+Response_0_Vendor 32806
+
+//About
+Response_1_Dialogue 33020

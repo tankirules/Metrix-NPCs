@@ -1,0 +1,20 @@
+GUID 586845ac-7ad1-412a-a0b7-71b1efec96f4
+Type NPC
+ID 32013
+
+Shirt 23086 
+Pants 23100 
+Vest 22834
+
+Face 25
+Hair 19
+Color_Skin #f4e6d2
+Color_Hair #cdc08c
+
+Dialogue 33040
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

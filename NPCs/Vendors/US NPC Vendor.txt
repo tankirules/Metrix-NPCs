@@ -1,0 +1,35 @@
+US Character/vendor
+US Ammo: 32814
+US Rifles: 32815
+US Machine gun: 32816
+US Explosives: 32817
+US Engineer: 32818
+US Medic: 32819
+US Supplies: 32820
+US Cars: 32821
+US Tank: 32822
+US Air: 32823
+US Naval: 32824
+US Chef: 32825
+US Bank: 32826
+US Ammo Naval: 32827
+US Ammo Air: 32829
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 

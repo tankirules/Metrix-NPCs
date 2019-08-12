@@ -1,0 +1,101 @@
+Finnish Character/vendor
+Finnish Ammo: 32845
+Finnish Rifles: 32846
+Finnish Machine gun: 32847
+Finnish Explosives: 32848
+Finnish Engineer: 32849
+Finnish Medic: 32850
+Finnish Supplies: 32851
+Finnish Cars: 32852
+Finnish Tank: 32853
+Finnish Air: 32854
+Finnish Naval: 32855
+Finnish Chef: 32856
+Finnish Bank: 32857
+Finnish Ammo Naval: 32858
+Finnish Ammo Air: 32859
+
+Finnish Dialogue
+Finnish Ammo: 
+Welcome: 33136
+About: 33137
+Shop: 33138
+Finnish Rifles: 
+Welcome: 33139
+About: 33140
+Shop: 33141
+Finnish Machine gun: 
+Welcome: 33142
+About: 33143
+Shop: 33144
+Finnish Explosives: 
+Welcome: 33145
+About: 33146
+Shop: 33147
+Finnish Engineer: 
+Welcome: 33148
+About: 33149
+Shop: 33150
+Finnish Medic: 
+Welcome: 33151
+About: 33152
+Shop: 33153
+Finnish Supplies: 
+Welcome: 33154
+About: 33155
+Shop: 33156
+Finnish Cars: 
+Welcome: 33157
+About: 33158
+Shop: 33159
+Finnish Tank: 
+Welcome: 33160
+About: 33161
+Shop: 33162
+Finnish Air: 
+Welcome: 33163
+About: 33164
+Shop: 33165
+Finnish Naval: 
+Welcome: 33166
+About: 33167
+Shop: 33168
+Finnish Chef: 
+Welcome: 33169
+About: 33170
+Shop: 33171
+Finnish Bank: 
+Welcome: 33172
+About: 33173
+Shop: 33174
+Finnish Ammo Naval: 
+Welcome: 33175
+About: 33176
+Shop: 33177
+Finnish Ammo Air: 
+Welcome: 33178
+About: 33179
+Shop: 33180
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 
+
+Welcome: 
+About: 
+Shop: 

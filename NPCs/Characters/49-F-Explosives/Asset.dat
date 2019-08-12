@@ -1,0 +1,16 @@
+GUID 10f03d86dff74f2eb9590d224320c05c
+Type NPC
+ID 32848
+
+Shirt 22021
+Pants 22030
+Hat 21909
+Vest 21907
+
+Face 11
+Hair 3
+Beard 14
+Color_Skin #f4e6d2
+Color_Hair #191919
+
+Dialogue 33145

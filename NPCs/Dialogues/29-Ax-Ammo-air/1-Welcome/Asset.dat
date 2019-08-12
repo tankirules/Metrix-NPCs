@@ -1,0 +1,13 @@
+GUID 166a48cde7954a5384a8d40ee0bc94b0
+Type Dialogue
+ID 33088
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 33090
+Response_0_Vendor 32829
+
+Response_1_Dialogue 33089

@@ -1,0 +1,15 @@
+GUID 61c6afd1-accf-498b-af28-25c25802664b
+Type Dialogue
+ID 33034
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33036
+Response_0_Vendor 32811
+
+//About
+Response_1_Dialogue 33035

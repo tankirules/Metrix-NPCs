@@ -1,0 +1,16 @@
+GUID 0eed99d8-208e-4cb5-8ddc-ecf172b7cdd2
+Type NPC
+ID 34999
+
+Shirt 14467 
+Pants 14468 
+Hat 14471 
+Vest 14469 
+
+Face 25
+Hair 3
+Beard 7
+Color_Skin #d9cab4
+Color_Hair #191919
+
+Dialogue 30000

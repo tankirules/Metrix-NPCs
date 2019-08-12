@@ -1,0 +1,18 @@
+GUID 3e243ded9bbf47849c2e97cc1bb0322a
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Vehicle
+ID 29002
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Range 8
+Radius 0.5
+Offset 1.25
+
+Explosion 21002
+
+Bypass_Hash_Verification

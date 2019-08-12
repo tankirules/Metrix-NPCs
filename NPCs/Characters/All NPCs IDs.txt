@@ -1,0 +1,425 @@
+NPC ID
+Template
+
+
+
+
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 
+
+Welcome: 
+About: 
+Shop: 
+
+
+US Character/vendor
+US Ammo: 32814
+US Rifles: 32815
+US Machine gun: 32816
+US Explosives: 32817
+US Engineer: 32818
+US Medic: 32819
+US Supplies: 32820
+US Cars: 32821
+US Tank: 32822
+US Air: 32823
+US Naval: 32824
+US Chef: 32825
+US Bank: 32826
+US Ammo Naval: 32827
+US Ammo Air: 32829
+
+US Ammo: 32814
+US Rifles: 32815
+US Machine gun: 32816
+US Explosives: 32817
+US Engineer: 32818
+US Medic: 32819
+US Supplies: 32820
+US Cars: 32821
+US Tank: 32822
+US Air: 32823
+US Naval: 32824
+US Chef: 32825
+US Bank: 32826
+US Ammo Naval: 32827
+US Ammo Air: 32829
+
+
+US Dialogue
+US Ammo:
+Welcome: 33043
+About: 33044
+Shop: 33045
+US Rifles:
+Welcome: 33046
+About: 33047
+Shop: 33048
+US Machinegun:
+Welcome: 33049
+About: 33050
+Shop: 33051
+US Explosives:
+Welcome: 33052
+About: 33053
+Shop: 33054
+US Engineer:
+Welcome: 33055
+About: 33056
+Shop: 33057
+US Medic:
+Welcome: 33058
+About: 33059
+Shop: 33060
+US Supplies:
+Welcome: 33061
+About: 33062
+Shop: 33063
+US Cars:
+Welcome: 33064
+About: 33065
+Shop: 33066
+US Tank:
+Welcome: 33067
+About: 33068
+Shop: 33069
+US Air:
+Welcome: 33070
+About: 33071
+Shop: 33072
+US Naval:
+Welcome:  33073
+About: 33074
+Shop: 33075
+US Chef:
+Welcome: 33076
+About: 33077
+Shop: 33078
+US Bank:
+Welcome: 33079
+About: 33080
+Shop:  33081
+US Ammo Naval:
+Welcome: 33082
+About: 33083
+Shop: 33084
+US Ammo Air:
+Welcome: 33088
+About: 33089
+Shop: 33090
+
+German Character/vendor
+German Ammo: 32800 
+German Rifles: 32801
+German Machinegun: 32802
+German Explosives: 32803
+German Engineer: 32804
+German Medic: 32805
+German Supplies: 32806
+German Cars: 32807
+German Tank: 32808
+German Air: 32809
+German Naval: 32810
+German Chef: 32811
+German Bank: 32812
+German Ammo Naval: 32813
+German Ammo Air: 32828
+
+German Ammo: 32800 
+German Rifles: 32801
+German Machinegun: 32802
+German Explosives: 32803
+German Engineer: 32804
+German Medic: 32805
+German Supplies: 32806
+German Cars: 32807
+German Tank: 32808
+German Air: 32809
+German Naval: 32810
+German Chef: 32811
+German Bank: 32812
+German Ammo Naval: 32813
+German Ammo Air: 32828
+
+German Dialogue
+German Ammo:
+Welcome: 33001
+About: 33002
+Shop: 33003
+German Rifles:
+Welcome: 33004
+About: 33005
+Shop: 33006
+German Machinegun:
+Welcome: 33007
+About: 33008
+Shop: 33009
+German Explosives:
+Welcome: 33010
+About: 33011
+Shop: 33012
+German Engineer:
+Welcome: 33013
+About: 33014
+Shop: 33015
+German Medic:
+Welcome: 33016
+About: 33017
+Shop: 33018
+German Supplies:
+Welcome: 33019
+About: 33020
+Shop: 33021
+German Cars:
+Welcome: 33022
+About: 33023
+Shop: 33024
+German Tank:
+Welcome: 33025
+About: 33026
+Shop: 33027
+German Air:
+Welcome: 33028
+About: 33029
+Shop: 33030
+German Naval:
+Welcome: 33031
+About: 33032
+Shop: 33033
+German Chef:
+Welcome: 33034
+About: 33035
+Shop: 33036
+German Bank:
+Welcome: 33037
+About: 33038
+Shop: 33039
+German Ammo Naval:
+Welcome: 33040
+About: 33041
+Shop: 33042
+German Ammo Air:
+Welcome: 33085
+About: 33086
+Shop: 33087
+
+Russian Character/vendor
+Russian Ammo: 32830
+Russian Rifles: 32831
+Russian Machine Gun: 32832
+Russian Explosives: 32833
+Russian Engineer: 32834
+Russian Medic: 32835
+Russian Supplies: 32836
+Russian Cars: 32837
+Russian Tank: 32838
+Russian Air: 32839
+Russian Naval: 32840
+Russian Chef: 32841
+Russian Bank: 32842
+Russian Ammo Naval: 32843
+Russian Ammo Air: 32844
+
+Russian Ammo: 32830
+Russian Rifles: 32831
+Russian Machine Gun: 32832
+Russian Explosives: 32833
+Russian Engineer: 32834
+Russian Medic: 32835
+Russian Supplies: 32836
+Russian Cars: 32837
+Russian Tank: 32838
+Russian Air: 32839
+Russian Naval: 32840
+Russian Chef: 32841
+Russian Bank: 32842
+Russian Ammo Naval: 32843
+Russian Ammo Air: 32844
+
+
+Russian Dialogue
+Russian Ammo: 
+Welcome: 33091
+About: 33092
+Shop: 33093
+
+
+
+Russian Rifles: 
+Welcome: 33094
+About: 33095
+Shop: 33096
+Russian Machine Gun: 
+Welcome: 33097
+About: 33098
+Shop:  33099
+Russian Explosives: 
+Welcome: 33100
+About: 33101
+Shop: 33102
+Russian Engineer: 
+Welcome: 33103
+About: 33104
+Shop: 33105
+Russian Medic: 
+Welcome: 33106
+About: 33107
+Shop: 33108
+Russian Supplies:
+Welcome: 33109
+About: 33110
+Shop: 33111
+Russian Cars: 
+Welcome: 33112
+About: 33113
+Shop: 33114
+Russian Tank: 
+Welcome: 33115
+About: 33116
+Shop: 33117
+Russian Air: 
+Welcome: 33118
+About: 33119
+Shop: 33120
+Russian Naval: 
+Welcome: 33121
+About: 33122
+Shop: 33123
+Russian Chef: 
+Welcome: 33124
+About: 33125
+Shop: 33126
+Russian Bank: 
+Welcome: 33127
+About: 33128
+Shop: 33129
+Russian Ammo Naval: 
+Welcome: 33130
+About: 33131
+Shop: 33132
+Russian Ammo Air:
+Welcome: 33133
+About: 33134
+Shop: 33135
+
+
+Finnish Character/vendor
+Finnish Ammo: 32845
+Finnish Rifles: 32846
+Finnish Machine gun: 32847
+Finnish Explosives: 32848
+Finnish Engineer: 32849
+Finnish Medic: 32850
+Finnish Supplies: 32851
+Finnish Cars: 32852
+Finnish Tank: 32853
+Finnish Air: 32854
+Finnish Naval: 32855
+Finnish Chef: 32856
+Finnish Bank: 32857
+Finnish Ammo Naval: 32858
+Finnish Ammo Air: 32859
+
+Finnish Ammo:32845 
+Finnish Rifles: 32846
+Finnish Machine gun: 32847
+Finnish Explosives: 32848
+Finnish Engineer: 32849
+Finnish Medic: 32850
+Finnish Supplies: 32851
+Finnish Cars: 32852
+Finnish Tank: 32853
+Finnish Air: 32854
+Finnish Naval: 32855
+Finnish Chef: 32856
+Finnish Bank: 32857
+Finnish Ammo Naval: 32858
+Finnish Ammo Air: 32859
+Finnish Dialogue
+Finnish Ammo: 
+Welcome: 33136
+About: 33137
+Shop: 33138
+Finnish Rifles: 
+Welcome: 33139
+About: 33140
+Shop: 33141
+Finnish Machine gun: 
+Welcome: 33142
+About: 33143
+Shop: 33144
+Finnish Explosives: 
+Welcome: 33145
+About: 33146
+Shop: 33147
+Finnish Engineer: 
+Welcome: 33148
+About: 33149
+Shop: 33150
+Finnish Medic: 
+Welcome: 33151
+About: 33152
+Shop: 33153
+Finnish Supplies: 
+Welcome: 33154
+About: 33155
+Shop: 33156
+Finnish Cars: 
+Welcome: 33157
+About: 33158
+Shop: 33159
+Finnish Tank: 
+Welcome: 33160
+About: 33161
+Shop: 33162
+Finnish Air: 
+Welcome: 33163
+About: 33164
+Shop: 33165
+Finnish Naval: 
+Welcome: 33166
+About: 33167
+Shop: 33168
+Finnish Chef: 
+Welcome: 33169
+About: 33170
+Shop: 33171
+Finnish Bank: 
+Welcome: 33172
+About: 33173
+Shop: 33174
+Finnish Ammo Naval: 
+Welcome: 33175
+About: 33176
+Shop: 33177
+Finnish Ammo Air: 
+Welcome: 33178
+About: 33179
+Shop: 33180
+
+
+
+Russian Ammo: 
+Welcome: 33091
+About: 33092
+Shop: 33093
+
+
+Mannie:
+Welcome: 33181
+About: 33182
+Shop: 33183

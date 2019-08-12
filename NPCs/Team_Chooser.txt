@@ -1,0 +1,47 @@
+Team Chooser axis: 
+Character : 33184
+Dialogue : 33185
+
+Axis dialogue: 33186
+
+Conditions: 
+Bool: 
+502 : whether the Chooser appears
+503 : whether axis NPC appears
+504: whether allied NPC appears
+
+
+
+
+
+
+
+
+
+
+
+
+
+Team chooser allies:
+character : 33187
+Dialogue : 33188
+
+
+allies dialogue 33189
+
+
+
+// axis char condition
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True
+
+
+// allies char condition
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True

@@ -1,0 +1,13 @@
+GUID 81e7b0b933b140749f95ce1188066a0b
+Type Dialogue
+ID 33118
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 33120
+Response_0_Vendor 32839
+
+Response_1_Dialogue 33119

@@ -1,0 +1,22 @@
+GUID ffdfd7fa-2422-4d4c-8d21-0e8931c2ea6b
+Type NPC
+ID 32011
+
+Shirt 230
+Pants 231
+Hat 239
+
+Secondary 120
+
+Face 0
+Hair 3
+Color_Skin #f4e6d2
+Color_Hair #cdc08c
+
+Dialogue 33034
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

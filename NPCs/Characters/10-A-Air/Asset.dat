@@ -1,0 +1,17 @@
+GUID 69621226-c233-4300-9df3-7fdf367e1864
+Type NPC
+ID 32023
+
+Shirt 15160
+Pants 15207
+Hat 15217
+Vest 15209
+Backpack 19117
+
+Face 5
+Hair 19
+Beard 8
+Color_Skin #f4e6d2
+Color_Hair #c1c1c1
+
+Dialogue 33070

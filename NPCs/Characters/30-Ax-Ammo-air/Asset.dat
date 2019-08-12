@@ -1,0 +1,22 @@
+GUID 0538448c-9bd5-4a5b-b782-e6d87faf0545
+Type NPC
+ID 32028
+
+Shirt 23066 
+Pants 23080 
+Hat 22824
+Vest 22827
+
+Face 4
+Hair 3
+Beard 8
+Color_Skin #f4e6d2
+Color_Hair #373737
+
+Dialogue 33085
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

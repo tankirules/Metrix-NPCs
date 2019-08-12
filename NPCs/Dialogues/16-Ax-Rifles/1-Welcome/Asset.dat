@@ -1,0 +1,15 @@
+GUID d904d6b5-96bf-4d61-99ab-cf729e2da651
+Type Dialogue
+ID 33004
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33006
+Response_0_Vendor 32801
+
+//About
+Response_1_Dialogue 33005

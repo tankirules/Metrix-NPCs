@@ -1,0 +1,21 @@
+GUID 5887d57113784f548fd8e25f419bf9f7
+Type Dialogue
+ID 33188
+
+Messages 1
+Message_0_Pages 1	
+
+Responses 2
+
+//Allies
+Response_0_Dialogue 33189
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 504
+Response_0_Reward_0_Modification Assign
+Response_0_Reward_0_Value True
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 502
+Response_0_Reward_1_Modification Assign
+Response_0_Reward_1_Value True
+

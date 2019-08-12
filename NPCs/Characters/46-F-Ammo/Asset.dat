@@ -1,0 +1,17 @@
+GUID 0ee300f1bc6c4251b3f611e018e4fccf
+Type NPC
+ID 32845
+
+Shirt 22002
+Pants 22014
+Hat 21904
+Vest 21900
+Backpack 21902
+
+Face 9
+Hair 20
+Beard 3
+Color_Skin #f4e6d2
+Color_Hair #cdc08c
+
+Dialogue 33137

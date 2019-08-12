@@ -1,0 +1,13 @@
+GUID c34ae445-d229-4a1e-9d05-b73cea3aa225
+Type NPC
+ID 32026
+
+Shirt 421
+Pants 422
+
+Face 31
+Hair 12
+Color_Skin #f4e6d2
+Color_Hair #665037
+
+Dialogue 33079

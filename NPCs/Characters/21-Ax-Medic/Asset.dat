@@ -1,0 +1,20 @@
+GUID 6f662a6b-1eea-4f12-accb-975907f53ba4
+Type NPC
+ID 32005
+
+Shirt 23017 
+Pants 23014 
+Vest 22809
+
+Face 5
+Hair 20
+Color_Skin #f4e6d2
+Color_Hair #c1c1c1
+
+Dialogue 33016
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

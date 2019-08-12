@@ -1,0 +1,15 @@
+GUID a9d12b83-dcaa-42b6-86af-664b4a979caa
+Type Dialogue
+ID 33016
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33018
+Response_0_Vendor 32805
+
+//About
+Response_1_Dialogue 33017 

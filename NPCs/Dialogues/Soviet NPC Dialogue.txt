@@ -1,0 +1,101 @@
+Russian Character/vendor
+Russian Ammo: 32830
+Russian Rifles: 32831
+Russian Machine Gun: 32832
+Russian Explosives: 32833
+Russian Engineer: 32834
+Russian Medic: 32835
+Russian Supplies: 32836
+Russian Cars: 32837
+Russian Tank: 32838
+Russian Air: 32839
+Russian Naval: 32840
+Russian Chef: 32841
+Russian Bank: 32842
+Russian Ammo Naval: 32843
+Russian Ammo Air: 32844
+
+Russian Dialogue
+Russian Ammo: 
+Welcome: 33091
+About: 33092
+Shop: 33093
+Russian Rifles: 
+Welcome: 33094
+About: 33095
+Shop: 33096
+Russian Machine Gun: 
+Welcome: 33097
+About: 33098
+Shop:  33099
+Russian Explosives: 
+Welcome: 33100
+About: 33101
+Shop: 33102
+Russian Engineer: 
+Welcome: 33103
+About: 33104
+Shop: 33105
+Russian Medic: 
+Welcome: 33106
+About: 33107
+Shop: 33108
+Russian Supplies:
+Welcome: 33109
+About: 33110
+Shop: 33111
+Russian Cars: 
+Welcome: 33112
+About: 33113
+Shop: 33114
+Russian Tank: 
+Welcome: 33115
+About: 33116
+Shop: 33117
+Russian Air: 
+Welcome: 33118
+About: 33119
+Shop: 33120
+Russian Naval: 
+Welcome: 33121
+About: 33122
+Shop: 33123
+Russian Chef: 
+Welcome: 33124
+About: 33125
+Shop: 33126
+Russian Bank: 
+Welcome: 33127
+About: 33128
+Shop: 33129
+Russian Ammo Naval: 
+Welcome: 33130
+About: 33131
+Shop: 33132
+Russian Ammo Air:
+Welcome: 33133
+About: 33134
+Shop: 33135
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 
+
+Welcome: 
+About: 
+Shop: 

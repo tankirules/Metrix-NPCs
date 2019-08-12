@@ -1,0 +1,15 @@
+GUID 7203327e-bcee-487b-9bd3-8ff75f02980c
+Type Dialogue
+ID 33064
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33066
+Response_0_Vendor 32821
+
+//About
+Response_1_Dialogue 33065

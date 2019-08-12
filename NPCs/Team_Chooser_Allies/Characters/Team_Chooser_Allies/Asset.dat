@@ -1,0 +1,28 @@
+GUID 81aa637645c64b77902e3c5a923458ff
+Type NPC
+ID 33187
+
+
+Glasses 30010
+Shirt 30008
+Pants 30009
+Hat 30011
+
+Face 5
+Hair 2
+Beard 0
+Color_Skin #9d886b
+Color_Hair #000000
+
+
+
+
+Dialogue 33188
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Not_Equal
+Condition_0_ID 502
+Condition_0_Value True
+Condition_0_Allow_Unset
+

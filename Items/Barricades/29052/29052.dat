@@ -1,0 +1,18 @@
+GUID 8e490e943e664f2bb1e117b47ec4c8ae
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Vehicle
+ID 29052
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Range 8
+Radius 0.5
+Offset 1.25
+
+Explosion 21204
+
+Bypass_Hash_Verification

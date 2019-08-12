@@ -1,0 +1,61 @@
+GUID 9842ba63cf6947349e69f56ac6616fcd
+Type Vendor
+ID 32837
+
+Buying 9
+// Kubelwagen 
+Buying_0_ID 29000
+Buying_0_Cost 500
+// Kubelwagen-mg
+Buying_1_ID 29001
+Buying_1_Cost 600
+// Opel Blitz
+Buying_2_ID 29002
+Buying_2_Cost 800
+// Sd.Kfz.6/2
+Buying_3_ID 29003
+Buying_3_Cost 2500
+// Sd.Kfz 7
+Buying_4_ID 29004
+Buying_4_Cost 1500
+//Flak38
+Buying_5_ID 29008
+Buying_5_Cost 800
+//Pak36  
+Buying_6_ID 29009
+Buying_6_Cost 800
+//BMW motorcycle  
+Buying_7_ID 29010
+Buying_7_Cost 125
+//^ but with sidecar  
+Buying_8_ID 29011
+Buying_8_Cost 250
+
+Selling 9
+// Gaz-67
+Selling_0_ID 29200
+Selling_0_Cost 600
+// Gaz-67-mg
+Selling_1_ID 29201
+Selling_1_Cost 700
+// ZIS-5
+Selling_2_ID 29202
+Selling_2_Cost 900
+// ZIS-42
+Selling_3_ID 29203
+Selling_3_Cost 3000
+// Gaz-60
+Selling_4_ID 29204
+Selling_4_Cost 2000
+//61-K
+Selling_5_ID 29208
+Selling_5_Cost 1000
+//M1937
+Selling_6_ID 29209
+Selling_6_Cost 1000
+//Harley D.
+Selling_7_ID 29210
+Selling_7_Cost 150
+//^ but with sidecar  
+Selling_8_ID 29211
+Selling_8_Cost 300

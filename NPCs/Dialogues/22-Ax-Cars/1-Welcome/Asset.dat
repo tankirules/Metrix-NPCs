@@ -1,0 +1,15 @@
+GUID 5102fe0a-a987-4f86-a752-c3732a8a323b
+Type Dialogue
+ID 33022
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33024
+Response_0_Vendor 32807
+
+//About
+Response_1_Dialogue 33023

@@ -1,0 +1,22 @@
+GUID 14782966-3f5d-4aeb-abd5-ef53b75acd5e
+Type NPC
+ID 32007
+
+Shirt 23003 
+Pants 23014 
+Vest 22809 
+
+Secondary 14619
+
+Face 25
+Hair 19
+Color_Skin #f4e6d2
+Color_Hair #191919
+
+Dialogue 33022
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

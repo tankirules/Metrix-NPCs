@@ -1,0 +1,19 @@
+GUID a641447a-84e7-4c66-bc3a-3154e2759382
+Type NPC
+ID 32012
+
+Shirt 421
+Pants 422
+
+Face 31
+Hair 18
+Color_Skin #f4e6d2
+Color_Hair #cdc08c
+
+Dialogue 33037
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

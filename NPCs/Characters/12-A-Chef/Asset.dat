@@ -1,0 +1,15 @@
+GUID 2ae60448-2dc6-47fa-8265-7e87854c9acb
+Type NPC
+ID 32025
+
+Shirt 230
+Pants 231
+
+Secondary 120
+
+Face 8
+Hair 2
+Color_Skin #f4e6d2
+Color_Hair #665037
+
+Dialogue 33076

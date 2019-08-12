@@ -1,0 +1,13 @@
+GUID 6c6f6e291a14455a87efa3c9af8202db
+Type Dialogue
+ID 30000
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 30002
+Response_0_Vendor 30003
+
+Response_1_Dialogue 30001

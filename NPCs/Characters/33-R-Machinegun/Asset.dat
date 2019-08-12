@@ -1,0 +1,22 @@
+GUID 5a2808e22d3d453593303fc300ad5f9c
+Type NPC
+ID 32832
+
+Shirt 23510   
+Pants 23515   
+Vest 22912 
+Backpack  22914
+
+Face 9
+Hair 12
+Beard 1
+Color_Skin #f4f4f4
+Color_Hair #352c22
+
+Dialogue 33097
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True

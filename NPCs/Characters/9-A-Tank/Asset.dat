@@ -1,0 +1,17 @@
+GUID a0e0466c-e301-4099-b26a-c2e215df1c49
+Type NPC
+ID 32022
+
+Shirt 32227
+Pants 32272
+Vest 31026
+Backpack 31027
+
+Primary 14280
+
+Face 11
+Hair 18
+Color_Skin #f4e6d2
+Color_Hair #cdc08c
+
+Dialogue 33067

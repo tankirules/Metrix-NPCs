@@ -1,0 +1,22 @@
+GUID 74fb7f330f4d470fb3786ef10da9e14c
+Type NPC
+ID 32805
+
+Shirt 23517 
+Pants 23514 
+Hat 22903 
+Backpack 22914 
+
+Face 5
+Hair 19
+Beard 4
+Color_Skin #d9cab4
+Color_Hair #cdc08c
+
+Dialogue 33106
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True

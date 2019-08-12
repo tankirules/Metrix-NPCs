@@ -1,0 +1,19 @@
+GUID 067da328425044e1a48380b576a8b603
+Type NPC
+ID 32842
+
+Shirt 421
+Pants 422
+
+Face 31
+Beard 9
+Color_Skin #f4f4f4
+Color_Hair #665037
+
+Dialogue 33127
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True

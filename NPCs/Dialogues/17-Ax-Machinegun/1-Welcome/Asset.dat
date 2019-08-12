@@ -1,0 +1,15 @@
+GUID 8245ca2a-5350-4ca5-a424-6099b7710d2f
+Type Dialogue
+ID 33007
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33009
+Response_0_Vendor 32802
+
+//About
+Response_1_Dialogue 33008

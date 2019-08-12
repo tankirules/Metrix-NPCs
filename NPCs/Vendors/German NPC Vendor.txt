@@ -1,0 +1,35 @@
+German Character/vendor
+German Ammo: 32800 
+German Rifles: 32801
+German Machine Gun: 32802
+German Explosives: 32803
+German Engineer: 32804
+German Medic: 32805
+German Supplies: 32806
+German Cars: 32807
+German Tank: 32808
+German Air: 32809
+German Naval: 32810
+German Chef: 32811
+German Bank: 32812
+German Ammo Naval: 32813
+German Ammo Air: 32828
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 

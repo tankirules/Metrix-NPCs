@@ -1,0 +1,16 @@
+GUID 7912276dd5ff411db356decaf01e7af7
+Type NPC
+ID 32014
+
+Shirt 32304
+Pants 32315
+Hat 31044
+Vest 31042
+Backpack 31043
+
+Face 25
+Hair 18
+Color_Skin #d9cab4
+Color_Hair #473928
+
+Dialogue 33043

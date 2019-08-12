@@ -1,0 +1,13 @@
+GUID f8cbec44a91a48c898bcecfe70621099
+Type Dialogue
+ID 33106
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 33108
+Response_0_Vendor 32835
+
+Response_1_Dialogue 33107

@@ -1,0 +1,23 @@
+GUID 2159ed36-67ee-45dc-84f4-3b90d377019c
+Type NPC
+ID 32006
+
+Shirt 23066 
+Pants 23081 
+Vest 22827 
+Mask 1270
+
+Primary 14245
+
+Face 4
+Hair 19
+Color_Skin #f4e6d2
+Color_Hair #473928
+
+Dialogue 33019
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

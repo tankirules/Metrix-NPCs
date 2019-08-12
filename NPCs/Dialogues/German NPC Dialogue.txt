@@ -1,0 +1,101 @@
+German Character/vendor
+German Ammo: 32800 
+German Rifles: 32801
+German Machine Gun: 32802
+German Explosives: 32803
+German Engineer: 32804
+German Medic: 32805
+German Supplies: 32806
+German Cars: 32807
+German Tank: 32808
+German Air: 32809
+German Naval: 32810
+German Chef: 32811
+German Bank: 32812
+German Ammo Naval: 32813
+German Ammo Air: 32828
+
+German Dialogue
+German Ammo:
+Welcome: 33001
+About: 33002
+Shop: 33003
+German Rifles:
+Welcome: 33004
+About: 33005
+Shop: 33006
+German Machine Gun:
+Welcome: 33007
+About: 33008
+Shop: 33009
+German Explosives:
+Welcome: 33010
+About: 33011
+Shop: 33012
+German Engineer:
+Welcome: 33013
+About: 33014
+Shop: 33015
+German Medic:
+Welcome: 33016
+About: 33017
+Shop: 33018
+German Supplies:
+Welcome: 33019
+About: 33020
+Shop: 33021
+German Cars:
+Welcome: 33022
+About: 33023
+Shop: 33024
+German Tank:
+Welcome: 33025
+About: 33026
+Shop: 33027
+German Air:
+Welcome: 33028
+About: 33029
+Shop: 33030
+German Naval:
+Welcome: 33031
+About: 33032
+Shop: 33033
+German Chef:
+Welcome: 33034
+About: 33035
+Shop: 33036
+German Bank:
+Welcome: 33037
+About: 33038
+Shop: 33039
+German Ammo Naval:
+Welcome: 33040
+About: 33041
+Shop: 33042
+German Ammo Air:
+Welcome: 33085
+About: 33086
+Shop: 33087
+
+NPC ID
+Template
+
+Ammo: 
+Rifles: 
+Machine gun: 
+Explosives: 
+Engineer: 
+Medic: 
+Supplies: 
+Cars: 
+Tank: 
+Air: 
+Naval: 
+Chef: 
+Bank: 
+Ammo Naval: 
+Ammo Air: 
+
+Welcome: 
+About: 
+Shop: 

@@ -1,0 +1,13 @@
+GUID 2726d1231b1045d9a16010d7a476eea9
+Type Dialogue
+ID 33103
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 33105
+Response_0_Vendor 32834
+
+Response_1_Dialogue 33104

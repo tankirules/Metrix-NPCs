@@ -1,0 +1,13 @@
+GUID a9e7cf915e0d4b6c98db9dcac7efecfc
+Type Dialogue
+ID 33100
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 33102
+Response_0_Vendor 32833
+
+Response_1_Dialogue 33101

@@ -1,0 +1,28 @@
+GUID e3a6069e-f6b1-45bd-9585-e7c749b76bf3
+Type NPC
+ID 32001
+
+Shirt 23011 
+Pants 23015 
+Vest 22812 
+Hat 22807 
+
+Primary 14247
+Secondary 14414
+
+Face 3
+Hair 12
+Beard 4
+Color_Skin #d9cab4
+Color_Hair #c1c1c1
+
+//Starting Talk
+Dialogue 33004
+
+
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 503
+Condition_0_Value True

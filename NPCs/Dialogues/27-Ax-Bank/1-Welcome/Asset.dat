@@ -1,0 +1,15 @@
+GUID f1f45a51-23f9-489c-a656-aeecbca99e88
+Type Dialogue
+ID 33037
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33039
+Response_0_Vendor 32812
+
+//About
+Response_1_Dialogue 33038

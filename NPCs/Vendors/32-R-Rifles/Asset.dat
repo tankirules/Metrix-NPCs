@@ -1,0 +1,46 @@
+GUID d7a224bad59f478ca0ab71904ac6aa69
+Type Vendor
+ID 32831
+
+Buying 9
+// Kar98k
+Buying_0_ID 24006
+Buying_0_Cost 15
+// Kar98k-Clip
+Buying_1_ID 24106
+Buying_1_Cost 5
+// Gewehr 43
+Buying_2_ID 24007
+Buying_2_Cost 25
+// Gewehr-Mag
+Buying_3_ID 24107
+Buying_3_Cost 5
+// PzB 39
+Buying_4_ID 24012
+Buying_4_Cost 3000
+// PzB Bullet
+Buying_5_ID 24112
+Buying_5_Cost 75
+// PTRS-41
+Buying_6_ID 24013
+Buying_6_Cost 3000
+// PTRS-Clip
+Buying_7_ID 24113
+Buying_7_Cost 75
+// Kar98k SCoped
+Buying_8_ID 30001
+Buying_8_Cost 300
+
+Selling 4
+// Mosin-Nagant
+Selling_0_ID 24000
+Selling_0_Cost 25
+// Mosin-Clip
+Selling_1_ID 24100
+Selling_1_Cost 5
+// SVT-40
+Selling_2_ID 24001
+Selling_2_Cost 50
+// SVT-Mag
+Selling_3_ID 24101
+Selling_3_Cost 10

@@ -1,0 +1,22 @@
+GUID a1101aec80924c9bb22625554d388f56
+Type NPC
+ID 32843
+
+Shirt 23554 
+Pants 23568 
+Hat 22927
+Vest 22928 
+
+Face 9
+Hair 19
+Beard 1
+Color_Skin #d9cab4
+Color_Hair #473928
+
+Dialogue 33130
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True

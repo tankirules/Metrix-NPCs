@@ -1,0 +1,15 @@
+GUID 1b30a7f2-9d14-4aa8-8ef9-d1212fcb5fc1
+Type Dialogue
+ID 33067
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33069
+Response_0_Vendor 32822
+
+//About
+Response_1_Dialogue 33068

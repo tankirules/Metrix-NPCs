@@ -1,0 +1,31 @@
+GUID ade88f8f423048e5b116a90c68d53dbe
+Type Vendor
+ID 32844
+
+Buying 4
+// 20mm-Bullet
+Buying_0_ID 41301
+Buying_0_Cost 100
+// 7.7mm-Bullet
+Buying_1_ID 41201
+Buying_1_Cost 150
+// 500kg-4-Bombs
+Buying_2_ID 41501
+Buying_2_Cost 675
+// 1000kg-1-Bomb
+Buying_3_ID 41401
+Buying_3_Cost 250
+
+Selling 4
+// 20mm-Bullet
+Selling_0_ID 41301
+Selling_0_Cost 200
+// 7.7mm-Bullet
+Selling_1_ID 41201
+Selling_1_Cost 275
+// 500kg-4-Bombs
+Selling_2_ID 41501
+Selling_2_Cost 1250
+// 1000kg-1-Bomb
+Selling_3_ID 41401
+Selling_3_Cost 500
