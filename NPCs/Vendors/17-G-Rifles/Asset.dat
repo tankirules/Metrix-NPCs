@@ -31,7 +31,7 @@ Buying_7_Cost 75
 Buying_8_ID 30000
 Buying_8_Cost 300
 
-Selling 4
+Selling 8
 // Kar98k
 Selling_0_ID 24006
 Selling_0_Cost 25
@@ -44,3 +44,15 @@ Selling_2_Cost 50
 // Gewehr-Mag
 Selling_3_ID 24107
 Selling_3_Cost 10
+// vz24
+Selling_4_ID 27800
+Selling_4_Cost 250
+// vz24	 ammo
+Selling_5_ID 27801
+Selling_5_Cost 25
+//m1941
+Selling_6_ID 27802
+Selling_6_Cost 1000
+// m1941 ammo
+Selling_7_ID 27803
+Selling_7_Cost 25

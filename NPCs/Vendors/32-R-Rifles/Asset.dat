@@ -31,7 +31,7 @@ Buying_7_Cost 75
 Buying_8_ID 30001
 Buying_8_Cost 300
 
-Selling 4
+Selling 8
 // Mosin-Nagant
 Selling_0_ID 24000
 Selling_0_Cost 25
@@ -44,3 +44,15 @@ Selling_2_Cost 50
 // SVT-Mag
 Selling_3_ID 24101
 Selling_3_Cost 10
+// wz39
+Selling_4_ID 28200
+Selling_4_Cost 250
+// wz39 ammo
+Selling_5_ID 28201
+Selling_5_Cost 25
+//mors
+Selling_6_ID 28202
+Selling_6_Cost 1000
+// mors ammo
+Selling_7_ID 28203
+Selling_7_Cost 25
