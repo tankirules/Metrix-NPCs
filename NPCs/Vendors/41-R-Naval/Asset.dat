@@ -17,3 +17,6 @@ Selling_0_Cost 2000
 // Gnevny-Class-Destroyer
 Selling_1_ID 29301
 Selling_1_Cost 5000
+// R tranpsort
+Selling_2_ID 29302
+Selling_2_Cost 1000
