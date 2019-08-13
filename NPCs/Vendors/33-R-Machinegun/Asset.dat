@@ -5,25 +5,25 @@ ID 32832
 Buying 8
 // Mp40
 Buying_0_ID 24009
-Buying_0_Cost 200
+Buying_0_Cost 900
 // Mp40-Mag
 Buying_1_ID 24109
 Buying_1_Cost 10
 // MG-42
 Buying_2_ID 24010
-Buying_2_Cost 1500
+Buying_2_Cost 2500
 // MG-42-drum
 Buying_3_ID 24110
 Buying_3_Cost 25
 // MP-34
 Buying_4_ID 24014
-Buying_4_Cost 200
+Buying_4_Cost 900
 // MP-34 mag
 Buying_5_ID 24114
 Buying_5_Cost 7
 // kp31
 Buying_6_ID 24020
-Buying_6_Cost 800
+Buying_6_Cost 1250
 // kp31mag
 Buying_7_ID 24120
 Buying_7_Cost 30
@@ -31,7 +31,7 @@ Buying_7_Cost 30
 Selling 8
 // PPSh-41
 Selling_0_ID 24003
-Selling_0_Cost 300
+Selling_0_Cost 1000
 // PPSh-mag
 Selling_1_ID 24103
 Selling_1_Cost 15
@@ -43,13 +43,13 @@ Selling_3_ID 24104
 Selling_3_Cost 100
 // PPS43
 Selling_4_ID 24016
-Selling_4_Cost 300
+Selling_4_Cost 1000
 // PPS-mag
 Selling_5_ID 24116
 Selling_5_Cost 15
 // PPD40
 Selling_6_ID 24021
-Selling_6_Cost 850
+Selling_6_Cost 1500
 // PPD40 mag
 Selling_7_ID 24120
 Selling_7_Cost 50

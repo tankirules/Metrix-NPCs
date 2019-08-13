@@ -16,13 +16,13 @@ Buying_2_Cost 3500
 Selling 8
 // T-60
 Selling_0_ID 29205
-Selling_0_Cost 2500
+Selling_0_Cost 3000
 // T-34 (1942)
 Selling_1_ID 29206
-Selling_1_Cost 3500
+Selling_1_Cost 4500
 // KV-1 (ZiS-5)
 Selling_2_ID 29207
-Selling_2_Cost 4500
+Selling_2_Cost 6000
 // T-20
 Selling_3_ID 29212
 Selling_3_Cost 1250
@@ -31,10 +31,10 @@ Selling_4_ID 29213
 Selling_4_Cost 750
 //t-26
 Selling_5_ID 29214
-Selling_5_Cost 1500
+Selling_5_Cost 4000
 //t-34 winter
 Selling_6_ID 29215
-Selling_6_Cost 3800
+Selling_6_Cost 4500
 //su76
 Selling_7_ID 29216
 Selling_7_Cost 2000

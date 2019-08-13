@@ -2,7 +2,7 @@ GUID e1bad118459a42d580d1968c646d7235
 Type Vendor
 ID 32801
 
-Buying 9
+Buying 11
 // Mosin-Nagant
 Buying_0_ID 24000
 Buying_0_Cost 15
@@ -30,6 +30,12 @@ Buying_7_Cost 75
 // Mosin-Nagant Scoped
 Buying_8_ID 30000
 Buying_8_Cost 300
+// wz39
+Buying_9_ID 28200
+Buying_9_Cost 200
+// Mors
+Buying_10_ID 28202
+Buying_10_Cost 900
 
 Selling 4
 // Kar98k

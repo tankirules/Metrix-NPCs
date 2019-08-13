@@ -2,7 +2,7 @@ GUID d7a224bad59f478ca0ab71904ac6aa69
 Type Vendor
 ID 32831
 
-Buying 9
+Buying 11
 // Kar98k
 Buying_0_ID 24006
 Buying_0_Cost 15
@@ -30,6 +30,12 @@ Buying_7_Cost 75
 // Kar98k SCoped
 Buying_8_ID 30001
 Buying_8_Cost 300
+// vz24
+Buying_9_ID 27800
+Buying_9_Cost 200
+// m1941
+Buying_10_ID 27802
+Buying_10_Cost 900
 
 Selling 4
 // Mosin-Nagant

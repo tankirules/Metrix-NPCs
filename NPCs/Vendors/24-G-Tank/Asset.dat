@@ -16,13 +16,13 @@ Buying_2_Cost 3500
 Selling 8
 // Pz.II C/F
 Selling_0_ID 29005
-Selling_0_Cost 2500
+Selling_0_Cost 3000
 // Pz.IV F2
 Selling_1_ID 29006
-Selling_1_Cost 3500
+Selling_1_Cost 4500
 // Tiger 1
 Selling_2_ID 29007
-Selling_2_Cost 4500
+Selling_2_Cost 6000
 // sd.kfz 251
 Selling_3_ID 29012
 Selling_3_Cost 1250
@@ -31,10 +31,10 @@ Selling_4_ID 29013
 Selling_4_Cost 750
 //Pz III
 Selling_5_ID 29014
-Selling_5_Cost 1500
+Selling_5_Cost 4000
 // Pz.IV F2 Winter
 Selling_6_ID 29015
-Selling_6_Cost 3800
+Selling_6_Cost 4500
 //Hetzer
 Selling_7_ID 29016
 Selling_7_Cost 2000
