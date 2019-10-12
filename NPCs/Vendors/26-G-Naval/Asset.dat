@@ -10,10 +10,13 @@ Buying_0_Cost 1000
 Buying_1_ID 29301
 Buying_1_Cost 4000
 
-Selling 2
+Selling 3
 // S-38
 Selling_0_ID 29100
 Selling_0_Cost 2000
 // 1934-Class-Destroyer
 Selling_1_ID 29101
 Selling_1_Cost 5000
+// G tranpsort
+Selling_2_ID 29102
+Selling_2_Cost 1000

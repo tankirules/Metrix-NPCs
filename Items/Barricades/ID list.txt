@@ -32,6 +32,7 @@ JU-88P - 29054
 -German Naval-
 S-38 - 29100
 German 1934 Class Destroyer - 29101
+Marinefährprahm  - [29102]
 
 -Soviet Ground-
 Gaz-67 - 29200
@@ -68,6 +69,7 @@ IL2 3M - 29254
 -Soviet Naval-
 G-5 - 29300
 Gnevny - 29301
+Db-165 [29302]
 
 	-Spawner ID Organization-
 German Ground - 29000-29049

@@ -14,3 +14,8 @@ Color_Skin #d9cab4
 Color_Hair #473928
 
 Dialogue 33043
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True
