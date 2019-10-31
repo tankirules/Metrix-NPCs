@@ -2,96 +2,52 @@ GUID f41f3f383df14e42a14d8f8b3d2413b4
 Type Vendor
 ID 32827
 
-Buying 15
-// 1000lb
-Buying_0_ID 14701
-Buying_0_Cost 135
-// Box-of-MG
-Buying_1_ID 14554
-Buying_1_Cost 80
-// 7.7mm
-Buying_2_ID 14677
-Buying_2_Cost 150
-// .50cal
-Buying_3_ID 14676
-Buying_3_Cost 150
-// 20mm
-Buying_4_ID 14678
-Buying_4_Cost 100
-// 30mm
-Buying_5_ID 14679
-Buying_5_Cost 80
-// 40mm-shells
-Buying_6_ID 19005
-Buying_6_Cost 40
-// HE-shell
-Buying_7_ID 14498
-Buying_7_Cost 15
-// AP-shell
-Buying_8_ID 14497
-Buying_8_Cost 15
-// 75mm-shell
-Buying_9_ID 31925
-Buying_9_Cost 15
-// S-75mm-shell
-Buying_10_ID 31933
-Buying_10_Cost 20
-// Torpedo
-Buying_11_ID 6885
-Buying_11_Cost 200
-// 128mm-shell
-Buying_12_ID 31902
-Buying_12_Cost 50
-// 105mm-shell
-Buying_13_ID 31917
-Buying_13_Cost 25
-// 20mm-box-NE
-Buying_14_ID 49002
-Buying_14_Cost 100
+Buying 12
 
-Selling 15
-// 1000lb
-Selling_0_ID 14701
-Selling_0_Cost 500
-// Box-of-MG
-Selling_1_ID 14554
-Selling_1_Cost 175
-// 7.7mm
-Selling_2_ID 14677
-Selling_2_Cost 275
-// .50cal
-Selling_3_ID 14676
-Selling_3_Cost 300
-// 20mm
-Selling_4_ID 14678
+// AP - Shell
+Selling_0_ID 14497
+Selling_0_Cost 50
+
+// MG - Box
+Selling_1_ID 14487
+Selling_1_Cost 100
+
+// 37mm - AC
+Selling_2_ID 40201
+Selling_2_Cost 150
+
+// 40mm AA Box
+Selling_3_ID 42701
+Selling_3_Cost 200
+
+// .50Cal - Dual
+Selling_4_ID 42631
 Selling_4_Cost 200
-// 30mm
-Selling_5_ID 14679
-Selling_5_Cost 175
-// 40mm-shells
-Selling_6_ID 19005
-Selling_6_Cost 100
-// HE-shell
-Selling_7_ID 14498
-Selling_7_Cost 25
-// AP-shell
-Selling_8_ID 14497
-Selling_8_Cost 25
-// 75mm-shell
-Selling_9_ID 31925
-Selling_9_Cost 25
-// S-75mm-shell
-Selling_10_ID 31933
-Selling_10_Cost 30
+
+// 20mm X 150
+Selling_5_ID 41301
+Selling_5_Cost 150
+
 // Torpedo
-Selling_11_ID 6885
-Selling_11_Cost 400
-// 128mm-shell
-Selling_12_ID 31902
-Selling_12_Cost 75
-// 3"-shell
-Selling_13_ID 49003
-Selling_13_Cost 40
-// 20mm-box-NE
-Selling_14_ID 49002
-Selling_14_Cost 150
+Selling_6_ID 41701
+Selling_6_Cost 500
+
+// 127mm - AP
+Selling_7_ID 41601
+Selling_7_Cost 100
+
+// 2 X 127mm - AP
+Selling_8_ID 42801
+Selling_8_Cost 200
+
+// 2 X 127mm - HE
+Selling_9_ID 42802
+Selling_9_Cost 200
+
+// HE - Shell
+Selling_10_ID 14498
+Selling_10_Cost 50
+
+// 2 X 127mm - VT
+Selling_11_ID 42803
+Selling_11_Cost 15000

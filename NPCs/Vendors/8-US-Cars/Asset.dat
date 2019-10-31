@@ -2,4 +2,68 @@ GUID d036b8bf33fd4f3e87785474c32f3ecf
 Type Vendor
 ID 32821
 
-Selling 10
+Selling 15
+
+// M3 ScoutCar
+Selling_0_ID 43020
+Selling_0_Cost 1000
+
+// LVT-2
+Selling_1_ID 42005
+Selling_1_Cost 1500
+
+// AA Truck
+Selling_2_ID 42751
+Selling_2_Cost 1500
+
+// M-5 AT Gun
+Selling_3_ID 22401
+Selling_3_Cost 500
+
+// Willy's Jeep
+Selling_4_ID 22000
+Selling_4_Cost 300
+
+// Willy's Jeep [Mounted]
+Selling_5_ID 22001
+Selling_5_Cost 400
+
+// 42WLA
+Selling_6_ID 14609
+Selling_6_Cost 100
+
+// 42WLA w/Sidecar
+Selling_7_ID 14610
+Selling_7_Cost 200
+
+// 6 X 6 Truck
+Selling_8_ID 22002
+Selling_8_Cost 350
+
+// M3 Halftrack
+Selling_9_ 4581
+Selling_9_Cost 800
+
+// M4 Tractor
+Selling_10_ID 42317
+Selling_10_Cost 1100
+
+// M4 Tractor [90mm]
+Selling_11_ID 42318
+Selling_11_Cost 1250
+
+// M16 MGMC
+Selling_12_ID 14606
+Selling_12_Cost 1500
+
+// M8 Greyhound
+Selling_13_ID 22006
+Selling_13_Cost 1800
+
+// M3 GMC
+Selling_14_ID 42010
+Selling_14_Cost 2000
+
+
+
+

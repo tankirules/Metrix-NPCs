@@ -1,0 +1,29 @@
+GUID 5df4b40f52cd4cac9165400adb315db5
+Type Vendor
+ID 32802
+
+Selling 6
+
+// MP34
+Selling_0_ID 24014
+Selling_0_Cost 500
+ 
+// MP40
+Selling_1_ID 9850
+Selling_1_Cost 600
+
+// KP31
+Selling_2_ID 9869
+Selling_2_Cost 800
+
+// MG42
+Selling_3_ID 9904
+Selling_3_Cost 1500
+
+// FG42
+Selling_4_ID 9880
+Selling_4_Cost 1300
+
+// StG44
+Selling_5_ID 9930
+Selling_5_Cost 1100

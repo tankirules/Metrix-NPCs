@@ -2,60 +2,62 @@ GUID 1522aa58-7cdc-407c-b210-b821ca1f9a01
 Type Vendor
 ID 32800
 
-Buying 6
-// LMG-Clip
-Buying_0_ID 40001
-Buying_0_Cost 50
-// 37mm-AC
-Buying_1_ID 40201
-Buying_1_Cost 150
-// 20mm-AP-Clip
-Buying_2_ID 40401
-Buying_2_Cost 50
-// 20mm-HE-Clip
-Buying_3_ID 40402
-Buying_3_Cost 60
-// 75mm-AP-Shell
-Buying_4_ID 40301
-Buying_4_Cost 10
-// 75mm-HE-Shell
-Buying_5_ID 40302
-Buying_5_Cost 15
 
-Selling 12
-// LMG-Clip
-Selling_0_ID 40001
-Selling_0_Cost 100
-// 37mm-AC
-Selling_1_ID 40201
+Selling 13
+
+// 7.7 Ammo
+Selling_0_ID 14677
+Selling_0_Cost 200
+
+// Missile
+Selling_1_ID 1302
 Selling_1_Cost 300
-// 20mm-AP-Clip
+
+// 20mm - AP (clip)
 Selling_2_ID 40401
-Selling_2_Cost 60
-// 20mm-HE-Clip
+Selling_2_Cost 300
+
+// 20mm - HE (clip)
 Selling_3_ID 40402
-Selling_3_Cost 80
-// 75mm-AP-Shell
-Selling_4_ID 40701
-Selling_4_Cost 20
-// 75mm-HE-Shell
-Selling_5_ID 40702
-Selling_5_Cost 25
-// 88mm-AP-Shell
-Selling_6_ID 40801
-Selling_6_Cost 25
-// 88mm-HE-Shell
-Selling_7_ID 40802
-Selling_7_Cost 30
-// 37mm-AP-Shell
-Selling_8_ID 40501
-Selling_8_Cost 40
-// 37mm-HE-Shell
-Selling_9_ID 40502
-Selling_9_Cost 45
-// 45mm-AP-Shell
-Selling_10_ID 40601
-Selling_10_Cost 45
-// 45mm-HE-Shell
-Selling_11_ID 40602
-Selling_11_Cost 45
+Selling_3_Cost 300
+
+// 37mm - AP
+Selling_4_ID 40501
+Selling_4_Cost 75
+
+// 37mm - HE
+Selling_5_ID 40502
+Selling_5_Cost 75
+
+// LMG Clip
+Selling_6_ID 40001
+Selling_6_Cost 100
+
+// 90mm - Shell
+Selling_7_ID 1302
+Selling_7_Cost 50
+
+// 37mm - AC Mag
+Selling_8_ID 40201
+Selling_8_Cost 250
+
+// 88mm - AP
+Selling_8_ID 40801
+Selling_8_Cost 75
+
+// 88mm - HE
+Selling_9_ID 40802
+Selling_9_Cost 75
+
+// 75mm - AP
+Selling_10_ID 40701
+Selling_10_Cost 90
+
+// 75mm - HE
+Selling_11_ID 40702
+Selling_11_Cost 90
+
+// Machine Gun Box
+Selling_12_ID 14487
+Selling_12_Cost 200
+

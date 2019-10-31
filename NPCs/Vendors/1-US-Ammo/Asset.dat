@@ -2,75 +2,65 @@ GUID a731d312e3a94b4694615a866a209de7
 Type Vendor
 ID 32814
 
-Buying 18
-// 75mm-shell
-Buying_2_ID 31925
-Buying_2_Cost 15
-// S-75mm-shell
-Buying_3_ID 31933
-Buying_3_Cost 20
-// 37mm-shell
-Buying_6_ID 31916
-Buying_6_Cost 5
-// 105mm-shell
-Buying_7_ID 31917
-Buying_7_Cost 25
-// 10-20mm-clip
-Buying_8_ID 31908
-Buying_8_Cost 10
-// Smoke-pouch
-Buying_9_ID 31939
-Buying_9_Cost 10
-// 40mm-shells
-Buying_10_ID 19005
-Buying_10_Cost 40
-// HMG-box
-Buying_11_ID 1395
-Buying_11_Cost 45
-// 88mmAPCBC
-Buying_12_ID 58026
-Buying_12_Cost 25
-// 88mmAPCR
-Buying_13_ID 58025
-Buying_13_Cost 30
-// 75mmAPCBC
-Buying_14_ID 58030
-Buying_14_Cost 20
-// 75mmAPCR
-Buying_15_ID 58028
-Buying_15_Cost 25
-// 75mmHE
-Buying_16_ID 58029
-Buying_16_Cost 30
-// Flamethrower-fuel
-Buying_17_ID 31919
-Buying_17_Cost 150
+Selling 15
 
-Selling 14
-// 75mm-shell
-Selling_2_ID 31925
-Selling_2_Cost 25
-// S-75mm-shell
-Selling_3_ID 31933
-Selling_3_Cost 30
-// 37mm-shell
-Selling_6_ID 31916
-Selling_6_Cost 10
-// Smoke-pouch
-Selling_7_ID 31939
-Selling_7_Cost 20
-// HMG-box
-Selling_9_ID 1395
-Selling_9_Cost 100
-// 76mmAP
-Selling_10_ID 58032
-Selling_10_Cost 15
-// 76mmAPCBC
-Selling_11_ID 58033
-Selling_11_Cost 30
-// 76mmHE
-Selling_12_ID 58034
-Selling_12_Cost 35
-// Flamethrower-fuel
-Selling_13_ID 31919
-Selling_13_Cost 250
+// LMG Clip
+Selling_0_ID 40001
+Selling_0_Cost 100
+
+// .50Cal Box
+Selling_1_ID 40103
+Selling_1_Cost 200
+
+// Machine Gun Box
+Selling_2_ID 14487
+Selling_2_Cost 200
+
+// 76mm - AP
+Selling_3_ID 40301
+Selling_3_Cost 75
+
+// 76mm -HE
+Selling_4_ID 40302
+Selling_4_Cost 75
+
+// 105mm - AP
+Selling_5_ID 41001
+Selling_5_Cost 95
+
+// 105mm - HE
+Selling_6_ID 41002
+Selling_6_Cost 95
+
+// 75mm - AP
+Selling_7_ID 40701
+Selling_7_Cost 90
+
+// 75mm - HE
+Selling_8_ID 40702
+Selling_8_Cost 90
+
+// SmokePouch
+Selling_9_ID 31939
+Selling_9_Cost 50
+
+// 57mm - AP
+Selling_10_ID 40604
+Selling_10_Cost 60
+
+// 37mm - AP
+Selling_11_ID 40501
+Selling_11_Cost 75
+
+// 37mm - HE
+Selling_12_ID 40502
+Selling_12_Cost 75
+
+// Missile
+Selling_13_ID 1302
+Selling_13_Cost 300
+
+// .50Cal Ammo
+Selling_15_ID 14676
+Selling_15_Cost 200
+

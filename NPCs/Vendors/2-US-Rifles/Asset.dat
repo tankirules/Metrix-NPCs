@@ -2,6 +2,33 @@ GUID 3c46712c350547b5b19d6af1962e6e01
 Type Vendor
 ID 32815
 
-Buying 0
 
-Selling 0
+Selling 7
+
+// Webley MKIV Revolver
+Selling_0_ID 9844
+Selling_0_Cost 600
+
+// Browning Hi-Power
+Selling_1_ID 9830
+Selling_1_Cost 500
+
+// Colt 1903 Hammer
+Selling_2_ID 30004
+Selling_2_Cost 200
+
+// Mosin Nagant
+Selling_3_ID  9912
+Selling_3_Cost 20
+
+// Springfield M1903
+Selling_4_ID 30028
+Selling_4_Cost 20
+
+// M1 Garand
+Selling_5_ID 9892
+Selling_5_Cost 125
+
+// Lee Enfield
+Selling_6_ID 30037
+Selling_6_Cost 100

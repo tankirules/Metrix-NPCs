@@ -2,7 +2,24 @@ GUID 51a5898d5ddb4694a5c3cb9d7145a9d8
 Type Vendor
 ID 32816
 
-Buying 0
+Selling 5
 
+// Thompson M1A1
+Selling_0_ID 9820
+Selling_0_Cost 800
 
-Selling 0
+// Sten MKII
+Selling_1_ID 9853
+Selling_1_Cost 900
+
+// M2 Carbine
+Selling_2_ID 58272
+Selling_2_Cost 900
+
+// M3A1 Grease Gun
+Selling_3_ID 9932
+Selling_3_Cost 600
+
+// Browning 30.Cal M1919
+Selling_4_ID 9901
+Selling_4_Cost 1500

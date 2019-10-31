@@ -2,61 +2,67 @@ GUID 65c0bd959c8243e8a891577aab851dbd
 Type Vendor
 ID 32807
 
-Buying 5
-// Gaz-67
-Buying_0_ID 29200
-Buying_0_Cost 500
-// Gaz-67-mg
-Buying_1_ID 29201
-Buying_1_Cost 600
-// ZIS-5
-Buying_2_ID 29202
-Buying_2_Cost 800
-// ZIS-42
-Buying_3_ID 29203
-Buying_3_Cost 2500
-// Gaz-60
-Buying_4_ID 29204
-Buying_4_Cost 1500
-//61-K
-Buying_5_ID 29208
-Buying_5_Cost 800
-//M1937
-Buying_6_ID 29209
-Buying_6_Cost 800
-//Harley D.
-Buying_7_ID 29210
-Buying_7_Cost 125
-//^ but with sidecar  
-Buying_8_ID 29211
-Buying_8_Cost 250
 
 
-Selling 9
+Selling 15
 // Kubelwagen
 Selling_0_ID 29000
-Selling_0_Cost 500
-// Kubelwagen-mg
+Selling_0_Cost 300
+
+// Kubelwagen - (	MOUNTED	  )
 Selling_1_ID 29001
-Selling_1_Cost 600
+Selling_1_Cost 400
+
+// 	AA Truck
+Selling_2_ID 42751
+Selling_2_Cost 1500
+
+// Flak - 88
+Selling_3_ID 14578
+Selling_3_Cost 4000
+
+// Flak - 38
+Selling_4_ID 29008 
+Selling_4_Cost 1000
+
+// Pak - 36
+Selling_5_ID 29009
+Selling_5_Cost 500
+
+// BMW - R75
+Selling_6_ID 29010
+Selling_6_Cost 100
+
+// 	^ BMW - R75 (	SIDECAR	  )
+Selling_7_ID 29011
+Selling_7_Cost 200
+
 // Opel Blitz
-Selling_2_ID 29002
-Selling_2_Cost 900
-// Sd.Kfz.6/2
-Selling_3_ID 29003
-Selling_3_Cost 3000
-// Sd.Kfz 7
-Selling_4_ID 29004
-Selling_4_Cost 2000
-//Flak38
-Selling_5_ID 29008
-Selling_5_Cost 1000
-//Pak36  
-Selling_6_ID 29009
-Selling_6_Cost 1000
-//BMW motorcycle  
-Selling_7_ID 29010
-Selling_7_Cost 150
-//^ but with sidecar  
-Selling_8_ID 29011
-Selling_8_Cost 300
+Selling_8_ID 29002
+Selling_8_Cost 350
+
+// SdKfz - 251
+Selling_9_ID 29012
+Selling_9_Cost 900
+
+// SdKfz - 7
+Selling_10_ID 29004
+Selling_10_Cost 800
+
+// ^ SdKfz - 7 (	TOWING	  )
+Selling_11_ID 14582
+Selling_11_Cost 900
+
+// ^ SdKfz - 7 (	Flak   )
+Selling_12_ID 42320
+Selling_12_Cost 1000
+
+// SdKfz - 6 / 2
+Selling_13_ID 29003
+Selling_13_Cost 1500
+
+// 18t Zkw Flak - 88
+Selling_14_ID 22501
+Selling_14_Cost 3000
+
+
