@@ -1,8 +1,30 @@
 GUID f41f3f383df14e42a14d8f8b3d2413b4
 Type Vendor
 ID 32827
+Buying 7
+// 20mm-Bullet
+Buying_1_ID 41301
+Buying_1_Cost 100
+// 127mm-AP-Shell
+Buying_2_ID 41601
+Buying_2_Cost 75
+// 127mm-HE-Shell
+Buying_3_ID 41602
+Buying_3_Cost 75
 
-Buying 12
+// rains ap shell
+Buying_4_ID 14497
+Buying_4_Cost 40
+
+// mg box
+Buying_5_ID 14487
+Buying_5_Cost 75
+
+// rains he shell
+Buying_6_ID 14498
+Buying_6_Cost 40
+
+Selling 12
 
 // AP - Shell
 Selling_0_ID 14497
@@ -38,11 +60,11 @@ Selling_7_Cost 100
 
 // 2 X 127mm - AP
 Selling_8_ID 42801
-Selling_8_Cost 200
+Selling_8_Cost 100
 
 // 2 X 127mm - HE
 Selling_9_ID 42802
-Selling_9_Cost 200
+Selling_9_Cost 100
 
 // HE - Shell
 Selling_10_ID 14498
@@ -50,4 +72,4 @@ Selling_10_Cost 50
 
 // 2 X 127mm - VT
 Selling_11_ID 42803
-Selling_11_Cost 15000
+Selling_11_Cost 20000

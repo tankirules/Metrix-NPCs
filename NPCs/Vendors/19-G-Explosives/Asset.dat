@@ -2,24 +2,20 @@ GUID 1610385e24394fcb99dac3793f555218
 Type Vendor
 ID 32803
 
-Selling 5
+Selling 4
 
 // Panzerfaust AT / AP
 Selling_0_ID 9917
-Selling_0_Cost 4000
-
-// PzFaust Rocket
-Selling_1_ID 9918
-Selling_1_Cost 300
+Selling_0_Cost 500
 
 // PzSchreck Rocket
-Selling_2_ID 24115
-Selling_2_Cost 500
+Selling_1_ID 24115
+Selling_1_Cost 500
 
 // Panzerschreck 
-Selling_3_ID 24015
-Selling_3_Cost 6000
+Selling_2_ID 24015
+Selling_2_Cost 6000
 
 // Stielhandgranate
-Selling_4_ID 24011
-Selling_4_Cost 300
+Selling_3_ID 24011
+Selling_3_Cost 300

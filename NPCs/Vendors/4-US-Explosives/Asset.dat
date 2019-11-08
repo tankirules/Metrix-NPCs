@@ -2,25 +2,28 @@ GUID 2289d53b5a624dfa81c89282c0e192bd
 Type Vendor
 ID 32817
 
-Buying 7
+Buying 3
 // Panzerfaust
 Buying_0_ID 9917
-Buying_0_Cost 2000
+Buying_0_Cost 300
 // Panzerschrek
 Buying_1_ID 24015
 Buying_1_Cost 3000
 // Steilhandgranate
 Buying_2_ID 24011
-Buying_1_Cost 150
+Buying_2_Cost 150
 
 
 
-Selling 5
+Selling 3
 // M1 Bazooka
 Selling_0_ID 24017
 Selling_0_Cost 6000
 // RGD-33
 Selling_1_ID 24005
 Selling_1_Cost 300
+// Bazooka rocket
+Selling_2_ID 24117
+Selling_2_Cost 500
 
-// Add Grenade
+
