@@ -2,18 +2,22 @@ GUID 0350738f249d4a8188926a65df215de1
 Type Vendor
 ID 32810
 
-Buying 2
-// G-5
-Buying_0_ID 29300
-Buying_0_Cost 1000
-// Gnevny-Class-Destroyer
-Buying_1_ID 29301
-Buying_1_Cost 4000
 
-Selling 2
-// S-38
-Selling_0_ID 29100
-Selling_0_Cost 2000
-// 1934-Class-Destroyer
-Selling_1_ID 29101
-Selling_1_Cost 5000
+Selling 5
+// 1934 Class Destroyer
+Selling_0_ID 29101
+Selling_0_Cost 9000
+// Akizuki Class Destroyer
+Selling_1_ID 8000
+Selling_1_Cost 52568
+// S-38 E-boat
+Selling_2_ID 29100
+Selling_2_Cost 6000
+// T-14 / T-15
+Selling_3_ID 42564
+Selling_3_Cost 4000
+// Marinefahrprahm
+Selling_4_ID 29102
+Selling_4_Cost 1000
+
+// Selling Completed

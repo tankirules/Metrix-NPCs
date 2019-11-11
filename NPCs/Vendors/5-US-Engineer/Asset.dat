@@ -59,8 +59,8 @@ Selling_13_Cost 10
 // Cloth
 Selling_14_ID 66
 Selling_14_Cost 4
-// Blowtorch
-Selling_15_ID 76
+// Wrench 
+Selling_15_ID 24022
 Selling_15_Cost 250
 // 10-Metal-scrap
 Selling_16_ID 49101

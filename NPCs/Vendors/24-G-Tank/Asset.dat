@@ -2,39 +2,44 @@ GUID 5901383a-3f5f-46b9-a14d-7f6f37dd7af2
 Type Vendor
 ID 32808
 
-Buying 3
-// T-60
-Buying_0_ID 29205
-Buying_0_Cost 1500
-// T-34 (1942)
-Buying_1_ID 29206
-Buying_1_Cost 2500
-// KV-1 (ZiS-5)
-Buying_2_ID 29207
-Buying_2_Cost 3500
+Selling 10
 
-Selling 8
-// Pz.II C/F
+// Pz - II 
 Selling_0_ID 29005
-Selling_0_Cost 2500
-// Pz.IV F2
-Selling_1_ID 29006
-Selling_1_Cost 3500
-// Tiger 1
-Selling_2_ID 29007
-Selling_2_Cost 4500
-// sd.kfz 251
-Selling_3_ID 29012
-Selling_3_Cost 1250
-// sd.kfz 222 37mm
-Selling_4_ID 29013
-Selling_4_Cost 750
-//Pz III
-Selling_5_ID 29014
-Selling_5_Cost 1500
-// Pz.IV F2 Winter
-Selling_6_ID 29015
-Selling_6_Cost 3800
-//Hetzer
+Selling_0_Cost 3000
+
+// Pz - 38t
+Selling_1_ID 22502
+Selling_1_Cost 3250
+
+// Pz - III F
+Selling_2_ID 29014
+Selling_2_Cost 3500
+
+// Pz - IV F2
+Selling_3_ID 14591
+Selling_3_Cost 3750
+
+// Panther
+Selling_4_ID 0
+Selling_4_Cost 4000
+
+// Tiger - 1
+Selling_5_ID 29007
+Selling_5_Cost 5000
+
+// Tiger - 2
+Selling_6_ID 42015
+Selling_6_Cost 8000
+
+// Hetzer
 Selling_7_ID 29016
-Selling_7_Cost 2000
+Selling_7_Cost 35000
+
+// Wirbelwind
+Selling_8_ID 14597
+Selling_8_Cost 5000
+
+//fiat
+Selling_9_ID 42002
+Selling_9_Cost 1800

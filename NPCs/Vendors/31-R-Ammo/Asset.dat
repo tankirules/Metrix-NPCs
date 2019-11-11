@@ -28,7 +28,7 @@ Buying_6_Cost 15
 Buying_7_ID 40802
 Buying_7_Cost 20
 
-Selling 8
+Selling 10
 // LMG-Clip
 Selling_0_ID 40001
 Selling_0_Cost 100
@@ -53,3 +53,9 @@ Selling_6_Cost 40
 // 37mm-HE-Shell
 Selling_7_ID 40502
 Selling_7_Cost 45
+// 45mm-AP-Shell
+Selling_8_ID 40601
+Selling_8_Cost 45
+// 45mm-HE-Shell
+Selling_9_ID 40602
+Selling_9_Cost 45

@@ -11,3 +11,9 @@ Color_Skin #f4e6d2
 Color_Hair #665037
 
 Dialogue 33079
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True

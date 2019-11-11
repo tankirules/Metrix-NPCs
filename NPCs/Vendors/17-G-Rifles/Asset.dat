@@ -1,46 +1,101 @@
 GUID e1bad118459a42d580d1968c646d7235
 Type Vendor
 ID 32801
+Buying 7
+// Webley MKIV Revolver
+Buying_0_ID 9844
+Buying_0_Cost 500
 
-Buying 9
-// Mosin-Nagant
-Buying_0_ID 24000
-Buying_0_Cost 15
-// Mosin-Clip
-Buying_1_ID 24100
-Buying_1_Cost 5
-// SVT-40
-Buying_2_ID 24001
-Buying_2_Cost 25
-// SVT-Mag
-Buying_3_ID 24101
-Buying_3_Cost 5
-// PTRS-41
-Buying_4_ID 24013
-Buying_4_Cost 3000
-// PTRS-Clip
-Buying_5_ID 24113
-Buying_5_Cost 75
-// PzB 39
-Buying_6_ID 24012
-Buying_6_Cost 3000
-// PzB Bullet
-Buying_7_ID 24112
-Buying_7_Cost 75
-// Mosin-Nagant Scoped
-Buying_8_ID 30000
-Buying_8_Cost 300
+// Browning Hi-Power
+Buying_1_ID 9830
+Buying_1_Cost 400
 
-Selling 4
-// Kar98k
-Selling_0_ID 24006
-Selling_0_Cost 25
-// Kar98k-Clip
-Selling_1_ID 24106
-Selling_1_Cost 5
-// Gewehr 43
-Selling_2_ID 24007
-Selling_2_Cost 50
-// Gewehr-Mag
-Selling_3_ID 24107
-Selling_3_Cost 10
+// Colt 1903 Hammer
+Buying_2_ID 30004
+Buying_2_Cost 150
+
+// Mosin Nagant
+Buying_3_ID  9912
+Buying_3_Cost 15
+
+// Springfield M1903
+Buying_4_ID 30028
+Buying_4_Cost 15
+
+// M1 Garand
+Buying_5_ID 9892
+Buying_5_Cost 100
+
+// Lee Enfield
+Buying_6_ID 30037
+Buying_6_Cost 15
+
+Selling 16
+
+// Luger P08
+Selling_0_ID 24008
+Selling_0_Cost 350
+
+// Walther P38
+Selling_1_ID 9840
+Selling_1_Cost 200
+
+// Carcano 
+Selling_2_ID 30034 
+Selling_2_Cost 20
+
+// Walther PPK
+Selling_3_ID 30002
+Selling_3_Cost 500
+
+// Mauser Gewehr 98
+Selling_4_ID 30026
+Selling_4_Cost 20
+
+// Manlicher M1895
+Selling_5_ID 9875
+Selling_5_Cost 20
+
+// Arisaka Type 99
+Selling_6_ID 9919
+Selling_6_Cost 20
+
+// Gewehr
+Selling_7_ID 9888
+Selling_7_Cost 125
+
+//Kar98 Clip 
+Selling_8_ID 30027
+Selling_8_Cost 5
+
+// P38 Mag
+Selling_9_ID 9841
+Selling_9_Cost 20
+
+// PPK Mag
+Selling_10_ID 9849
+Selling_10_Cost 20
+
+// Luger Mag
+Selling_11_ID 24108
+Selling_11_Cost 20
+
+// Mannlicher Clip
+Selling_12_ID 9876
+Selling_12_Cost 5
+
+// Arisaka Clip
+Selling_13_ID 9920
+Selling_13_Cost 5
+
+// G43 Mag
+Selling_14_ID 9889
+Selling_14_Cost 15
+
+// Carcano Clip
+Selling_15_ID 30035
+Selling_15_Cost 5
+
+
+
+

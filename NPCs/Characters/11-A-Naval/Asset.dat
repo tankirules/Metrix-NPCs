@@ -13,3 +13,8 @@ Color_Skin #f4e6d2
 Color_Hair #191919
 
 Dialogue 33073
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 504
+Condition_0_Value True
