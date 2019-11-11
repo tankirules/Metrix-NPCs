@@ -1,6 +1,17 @@
 GUID 1610385e24394fcb99dac3793f555218
 Type Vendor
 ID 32803
+Buying 3
+// M1 Bazooka
+Buying_0_ID 24017
+Buying_0_Cost 5000
+// RGD-33
+Buying_1_ID 24005
+Buying_1_Cost 150
+// Bazooka rocket
+Buying_2_ID 24117
+Buying_2_Cost 400
+
 
 Selling 4
 

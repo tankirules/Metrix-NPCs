@@ -2,7 +2,7 @@ GUID fd30cbf2054e4d9a9b51bdf236013af5
 Type Vendor
 ID 32823
 
-Selling 14
+Selling 13
 // C-47 Skytrain
 Selling_0_ID 14615
 Selling_0_Cost 1000
@@ -41,7 +41,7 @@ Selling_8_Cost 2000
 
 // P-51 Mustang
 Selling_9_ID 14583
-Selling_8_Cost 4000
+Selling_9_Cost 4000
 
 // P-47 Thunderbolt
 Selling_10_ID 14587

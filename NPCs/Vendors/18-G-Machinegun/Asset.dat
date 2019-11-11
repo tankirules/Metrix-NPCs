@@ -1,8 +1,28 @@
 GUID 5df4b40f52cd4cac9165400adb315db5
 Type Vendor
 ID 32802
+Buying 5
+// Thompson M1A1
+Buying_0_ID 9820
+Buying_0_Cost 600
 
-Selling 6
+// Sten MKII
+Buying_1_ID 9853
+Buying_1_Cost 800
+
+// M2 Carbine
+Buying_2_ID 58272
+Buying_2_Cost 800
+
+// M3A1 Grease Gun
+Buying_3_ID 9932
+Buying_3_Cost 500
+
+// Browning 30.Cal M1919
+Buying_4_ID 9901
+Buying_4_Cost 1250
+
+Selling 12
 
 // MP34
 Selling_0_ID 24014
@@ -27,3 +47,32 @@ Selling_4_Cost 1300
 // StG44
 Selling_5_ID 9930
 Selling_5_Cost 1100
+
+// mp34 mag
+Selling_6_ID 24114
+Selling_6_Cost 30
+
+// MP40mag
+Selling_7_ID 9851
+Selling_7_Cost 35
+
+// kp31 mag
+Selling_8_ID 9870
+Selling_8_Cost 40
+
+// mg42 mag
+Selling_9_ID 9905
+Selling_9_Cost 75
+
+// fg42 mag
+Selling_10_ID 9881
+Selling_10_Cost 50
+
+// stg44 mag
+Selling_11_ID 9895
+Selling_11_Cost 50
+
+
+
+
+

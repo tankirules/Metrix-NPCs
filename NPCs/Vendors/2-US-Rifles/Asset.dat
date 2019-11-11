@@ -36,7 +36,7 @@ Buying_7_ID 9888
 Buying_7_Cost 100
 
 
-Selling 7
+Selling 14
 
 // Webley MKIV Revolver
 Selling_0_ID 9844
@@ -65,3 +65,34 @@ Selling_5_Cost 125
 // Lee Enfield
 Selling_6_ID 30037
 Selling_6_Cost 100
+
+// webley ammo
+Selling_7_ID 9845
+Selling_7_Cost 30
+
+// Hipower mag
+Selling_8_ID 9831
+Selling_8_Cost 20
+
+// colt mag
+Selling_9_ID 30005
+Selling_9_Cost 20
+
+// mosin clip
+Selling_10_ID 9913
+Selling_10_Cost 5
+
+// springfield clip
+Selling_11_ID 30029
+Selling_11_Cost 5
+
+// m1 clip
+Selling_12_ID 9893
+Selling_12_Cost 15
+
+// enfield mag
+Selling_13_ID 30031
+Selling_13_Cost 10
+
+
+

@@ -21,7 +21,7 @@ Selling_3_ID 14591
 Selling_3_Cost 3750
 
 // Panther
-Selling_4_ID 22503
+Selling_4_ID 0
 Selling_4_Cost 4000
 
 // Tiger - 1
@@ -40,6 +40,6 @@ Selling_7_Cost 35000
 Selling_8_ID 14597
 Selling_8_Cost 5000
 
-//
+//fiat
 Selling_9_ID 42002
 Selling_9_Cost 1800

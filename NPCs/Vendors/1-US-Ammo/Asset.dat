@@ -1,6 +1,62 @@
 GUID a731d312e3a94b4694615a866a209de7
 Type Vendor
 ID 32814
+Buying 13
+// 7.7 Ammo
+Buying_0_ID 14677
+Buying_0_Cost 200
+
+// Missile
+Buying_1_ID 1302
+Buying_1_Cost 300
+
+// 20mm - AP (clip)
+Buying_2_ID 40401
+Buying_2_Cost 300
+
+// 20mm - HE (clip)
+Buying_3_ID 40402
+Buying_3_Cost 300
+
+// 37mm - AP
+Buying_4_ID 40501
+Buying_4_Cost 75
+
+// 37mm - HE
+Buying_5_ID 40502
+Buying_5_Cost 75
+
+// LMG Clip
+Buying_6_ID 40001
+Buying_6_Cost 100
+
+// 90mm - Shell
+Buying_7_ID 1302
+Buying_7_Cost 50
+
+// 37mm - AC Mag
+Buying_8_ID 40201
+Buying_8_Cost 250
+
+// 88mm - AP
+Buying_8_ID 40801
+Buying_8_Cost 75
+
+// 88mm - HE
+Buying_9_ID 40802
+Buying_9_Cost 75
+
+// 75mm - AP
+Buying_10_ID 40701
+Buying_10_Cost 90
+
+// 75mm - HE
+Buying_11_ID 40702
+Buying_11_Cost 90
+
+// Machine Gun Box
+Buying_12_ID 14487
+Buying_12_Cost 200
 
 Selling 15
 

@@ -30,7 +30,7 @@ Buying_5_Cost 100
 Buying_6_ID 30037
 Buying_6_Cost 15
 
-Selling 8
+Selling 16
 
 // Luger P08
 Selling_0_ID 24008
@@ -63,3 +63,39 @@ Selling_6_Cost 20
 // Gewehr
 Selling_7_ID 9888
 Selling_7_Cost 125
+
+//Kar98 Clip 
+Selling_8_ID 30027
+Selling_8_Cost 5
+
+// P38 Mag
+Selling_9_ID 9841
+Selling_9_Cost 20
+
+// PPK Mag
+Selling_10_ID 9849
+Selling_10_Cost 20
+
+// Luger Mag
+Selling_11_ID 24108
+Selling_11_Cost 20
+
+// Mannlicher Clip
+Selling_12_ID 9876
+Selling_12_Cost 5
+
+// Arisaka Clip
+Selling_13_ID 9920
+Selling_13_Cost 5
+
+// G43 Mag
+Selling_14_ID 9889
+Selling_14_Cost 15
+
+// Carcano Clip
+Selling_15_ID 30035
+Selling_15_Cost 5
+
+
+
+
