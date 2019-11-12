@@ -92,13 +92,9 @@ Selling_5_Cost 75
 Selling_6_ID 40001
 Selling_6_Cost 100
 
-// 90mm - Shell
-Selling_7_ID 1302
-Selling_7_Cost 50
-
 // 37mm - AC Mag
-Selling_8_ID 40201
-Selling_8_Cost 250
+Selling_7_ID 40201
+Selling_7_Cost 250
 
 // 88mm - AP
 Selling_8_ID 40801

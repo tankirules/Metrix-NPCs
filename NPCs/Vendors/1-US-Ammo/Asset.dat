@@ -1,7 +1,7 @@
 GUID a731d312e3a94b4694615a866a209de7
 Type Vendor
 ID 32814
-Buying 13
+Buying 12
 // 7.7 Ammo
 Buying_0_ID 14677
 Buying_0_Cost 200
@@ -29,10 +29,6 @@ Buying_5_Cost 75
 // LMG Clip
 Buying_6_ID 40001
 Buying_6_Cost 100
-
-// 90mm - Shell
-Buying_7_ID 1302
-Buying_7_Cost 50
 
 // 37mm - AC Mag
 Buying_8_ID 40201
