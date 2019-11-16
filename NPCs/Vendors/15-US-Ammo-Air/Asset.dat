@@ -2,7 +2,7 @@ GUID 329b6aa0e5154525b34fb5b2dc132ae5
 Type Vendor
 ID 32829
 
-Selling 12
+Selling 13
 
 // 20mm Ammo
 Selling_0_ID 14678
@@ -51,5 +51,10 @@ Selling_10_Cost 200
 // normans single 50 cal box
 Selling_11_ID 30057
 Selling_11_Cost 100
+
+// normans dual 50 cal box
+Selling_12_ID 42631
+Selling_12_Cost 100
+
 
 
