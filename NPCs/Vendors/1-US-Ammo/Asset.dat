@@ -54,7 +54,7 @@ Buying_11_Cost 90
 Buying_12_ID 14487
 Buying_12_Cost 200
 
-Selling 15
+Selling 18
 
 // LMG Clip
 Selling_0_ID 40001
@@ -113,6 +113,17 @@ Selling_13_ID 1302
 Selling_13_Cost 300
 
 // .50Cal Ammo
-Selling_15_ID 14676
-Selling_15_Cost 200
+Selling_14_ID 41203
+Selling_14_Cost 200
 
+// normans quad 50 cal box
+Selling_15_ID 30054
+Selling_15_Cost 150
+
+// 7.7 ammo pixels
+Selling_16_ID 41201
+Selling_16_Cost 200
+
+// 20mm ammo pixels
+Selling_17_ID 41301
+Selling_17_Cost 200

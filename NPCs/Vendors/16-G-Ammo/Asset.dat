@@ -62,10 +62,10 @@ Buying_13_Cost 300
 Buying_15_ID 14676
 Buying_15_Cost 200
 
-Selling 13
+Selling 16
 
 // 7.7 Ammo
-Selling_0_ID 14677
+Selling_0_ID 41201
 Selling_0_Cost 200
 
 // Missile
@@ -116,3 +116,14 @@ Selling_11_Cost 90
 Selling_12_ID 14487
 Selling_12_Cost 200
 
+// .50Cal Ammo
+Selling_13_ID 41203
+Selling_13_Cost 200
+
+// normans quad 50 cal box
+Selling_14_ID 30054
+Selling_14_Cost 150
+
+// 20mm ammo pixels
+Selling_15_ID 41301
+Selling_15_Cost 200

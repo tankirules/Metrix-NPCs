@@ -2,56 +2,44 @@ GUID 5f16ec428df24fe2986019354b8ccd93
 Type Vendor
 ID 32809
 
-Selling 13
+Selling 10
 
 // He - 51
 Selling_0_ID 43103
 Selling_0_Cost 1000
 
 // Bf - 109 F4
-Selling_1_ID 42662
+Selling_1_ID 29050
 Selling_1_Cost 3500
 
-// BF - 109 G2
-Selling_2_ID 42663
-Selling_2_Cost 3500
-
-// ME - 262
-Selling_3_ID 42651
-Selling_3_Cost 10000
-
 // Heinkel HE - 162
-Selling_4_ID 22507
-Selling_4_Cost 12000
-
-// BF - 109 K4
-Selling_5_ID 22512
-Selling_5_Cost 4000
+Selling_2_ID 22507
+Selling_2_Cost 12000
 
 // ME - 109 "Emil"
-Selling_6_ID 14584
-Selling_6_Cost 3000
+Selling_3_ID 30042
+Selling_3_Cost 3000
 
 // Stuka
-Selling_7_ID 14585
-Selling_7_Cost 3500
+Selling_4_ID 29051
+Selling_4_Cost 3500
 
 // FW - 190 "ButcherBird"
-Selling_8_ID 14586
-Selling_8_Cost 2500
+Selling_5_ID 30041
+Selling_5_Cost 2500
 
 // AR - 196
-Selling_9_ID 42753
-Selling_9_Cost 1500
+Selling_6_ID 30040
+Selling_6_Cost 1500
 
 // Ju - 88
-Selling_10_ID 14599
-Selling_10_Cost 15000
+Selling_7_ID 29052
+Selling_7_Cost 15000
 
 // G - 55
-Selling_11_ID 34006
-Selling_11_Cost 3000
+Selling_8_ID 34006
+Selling_8_Cost 3000
 
 // Ju - 52 
-Selling_12_ID 14536
-Selling_12_Cost 1000
+Selling_9_ID 14536
+Selling_9_Cost 1000

@@ -16,7 +16,7 @@ Buying_2_Cost 675
 Buying_3_ID 41401
 Buying_3_Cost 250
 
-Selling 4
+Selling 8
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 200
@@ -29,3 +29,19 @@ Selling_2_Cost 1250
 // 1000kg-1-Bomb
 Selling_3_ID 41401
 Selling_3_Cost 500
+
+// .50Cal Ammo
+Selling_4_ID 41203
+Selling_4_Cost 200
+
+// normans quad 50 cal box
+Selling_5_ID 30054
+Selling_5_Cost 150
+
+// 20mm ammo pixels
+Selling_6_ID 41301
+Selling_6_Cost 200
+
+// 7.7 Ammo
+Selling_7_ID 41201
+Selling_7_Cost 200

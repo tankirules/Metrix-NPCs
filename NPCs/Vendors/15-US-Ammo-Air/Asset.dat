@@ -2,7 +2,7 @@ GUID 329b6aa0e5154525b34fb5b2dc132ae5
 Type Vendor
 ID 32829
 
-Selling 8
+Selling 12
 
 // 20mm Ammo
 Selling_0_ID 14678
@@ -32,7 +32,24 @@ Selling_5_Cost 300
 Selling_6_ID 14681
 Selling_6_Cost 1750
 
-// 7.7mm Ammo
-Selling_7_ID 15677
+// .50Cal Ammo
+Selling_7_ID 41203
 Selling_7_Cost 200
+
+// normans quad 50 cal box
+Selling_8_ID 30054
+Selling_8_Cost 150
+
+// 7.7 ammo pixels
+Selling_9_ID 41201
+Selling_9_Cost 200
+
+// 20mm ammo pixels
+Selling_10_ID 41301
+Selling_10_Cost 200
+
+// normans single 50 cal box
+Selling_11_ID 30057
+Selling_11_Cost 100
+
 
