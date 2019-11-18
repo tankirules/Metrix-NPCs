@@ -2,59 +2,52 @@ GUID 329b6aa0e5154525b34fb5b2dc132ae5
 Type Vendor
 ID 32829
 
-Selling 13
+Selling 11
 
 // 20mm Ammo
 Selling_0_ID 14678
 Selling_0_Cost 150
 
-// .50Cal Ammo
-Selling_1_ID 14676
-Selling_1_Cost 300
 
 // 1000Lb Bomb
-Selling_2_ID 14701
-Selling_2_Cost 500
+Selling_1_ID 14701
+Selling_1_Cost 500
 
 // 500Lb Bomb(s) X 14
-Selling_3_ID 14600
-Selling_3_Cost 1000
-
-// HMG Box
-Selling_4_ID 1395
-Selling_4_Cost 250
+Selling_2_ID 14600
+Selling_2_Cost 1000
 
 // .50Cal B
-Selling_5_ID 58234
-Selling_5_Cost 300
+Selling_3_ID 58234
+Selling_3_Cost 300
 
 // 1000Lb Bomb(s) X 20
-Selling_6_ID 14681
-Selling_6_Cost 1750
+Selling_4_ID 14681
+Selling_4_Cost 1750
 
 // .50Cal Ammo
-Selling_7_ID 41203
-Selling_7_Cost 200
+Selling_5_ID 41203
+Selling_5_Cost 200
 
 // normans quad 50 cal box
-Selling_8_ID 30054
-Selling_8_Cost 150
+Selling_6_ID 30054
+Selling_6_Cost 150
 
 // 7.7 ammo pixels
-Selling_9_ID 41201
-Selling_9_Cost 200
+Selling_7_ID 41201
+Selling_7_Cost 200
 
 // 20mm ammo pixels
-Selling_10_ID 41301
-Selling_10_Cost 200
+Selling_8_ID 41301
+Selling_8_Cost 200
 
 // normans single 50 cal box
-Selling_11_ID 30057
-Selling_11_Cost 100
+Selling_9_ID 30057
+Selling_9_Cost 100
 
 // normans dual 50 cal box
-Selling_12_ID 42631
-Selling_12_Cost 100
+Selling_10_ID 42631
+Selling_10_Cost 100
 
 
 

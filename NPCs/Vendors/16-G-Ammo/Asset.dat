@@ -62,7 +62,7 @@ Buying_13_Cost 300
 Buying_15_ID 14676
 Buying_15_Cost 200
 
-Selling 16
+Selling 15
 
 // 7.7 Ammo
 Selling_0_ID 41201
@@ -112,8 +112,8 @@ Selling_10_Cost 90
 Selling_11_ID 40702
 Selling_11_Cost 90
 
-// Machine Gun Box
-Selling_12_ID 14487
+// 20mm ammo pixels
+Selling_12_ID 41301
 Selling_12_Cost 200
 
 // .50Cal Ammo
@@ -124,6 +124,3 @@ Selling_13_Cost 200
 Selling_14_ID 30054
 Selling_14_Cost 150
 
-// 20mm ammo pixels
-Selling_15_ID 41301
-Selling_15_Cost 200

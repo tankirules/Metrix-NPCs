@@ -2,7 +2,7 @@ GUID 8d39449e9c1849dfa71ac39794263f1b
 Type Vendor
 ID 32813
 
-Buying 12
+Buying 13	
 
 // AP - Shell
 Buying_0_ID 14497
@@ -30,7 +30,7 @@ Buying_5_Cost 100
 
 // Torpedo
 Buying_6_ID 41701
-Buying_6_Cost 350
+Buying_6_Cost 300
 
 // 127mm - AP
 Buying_7_ID 41601
@@ -52,7 +52,7 @@ Buying_10_Cost 40
 Buying_11_ID 42803
 Buying_11_Cost 18000
 
-Selling 7
+Selling 8
 // 20mm-Bullet
 Selling_1_ID 41301
 Selling_1_Cost 150
@@ -74,3 +74,7 @@ Selling_5_Cost 100
 // rains he shell
 Selling_6_ID 14498
 Selling_6_Cost 50
+
+// torpedo
+Selling_7_ID 41701
+Selling_7_Cost 300

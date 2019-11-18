@@ -15,17 +15,18 @@ Selling_2_Cost 3500
 //M4 Sherman
 Selling_3_ID 43024
 Selling_3_Cost 4500
-//M4 76mm
-Selling_4_ID 22103
-Selling_4_Cost 4000
 //Skink SPAAG
-Selling_5_ID 30049
-Selling_5_Cost 5000
+Selling_4_ID 30049
+Selling_4_Cost 5000
 
 //churchill
-Selling_6_ID 24501
-Selling_6_Cost 5000
+Selling_5_ID 24501
+Selling_5_Cost 5000
 
 //black prince
-Selling_7_ID 24502
-Selling_7_Cost 8000
+Selling_6_ID 24502
+Selling_6_Cost 8000
+
+//t-60
+Selling_7_ID 20100
+Selling_7_Cost 2000

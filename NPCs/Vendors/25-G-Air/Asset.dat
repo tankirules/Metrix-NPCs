@@ -2,7 +2,7 @@ GUID 5f16ec428df24fe2986019354b8ccd93
 Type Vendor
 ID 32809
 
-Selling 10
+Selling 9
 
 // He - 51
 Selling_0_ID 43103
@@ -12,9 +12,9 @@ Selling_0_Cost 1000
 Selling_1_ID 29050
 Selling_1_Cost 3500
 
-// Heinkel HE - 162
-Selling_2_ID 22507
-Selling_2_Cost 12000
+// Ju - 52 
+Selling_2_ID 14536
+Selling_2_Cost 1000
 
 // ME - 109 "Emil"
 Selling_3_ID 30042
@@ -40,6 +40,4 @@ Selling_7_Cost 15000
 Selling_8_ID 34006
 Selling_8_Cost 3000
 
-// Ju - 52 
-Selling_9_ID 14536
-Selling_9_Cost 1000
+

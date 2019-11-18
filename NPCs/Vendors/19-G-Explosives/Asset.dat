@@ -1,7 +1,7 @@
 GUID 1610385e24394fcb99dac3793f555218
 Type Vendor
 ID 32803
-Buying 3
+Buying 4
 // M1 Bazooka
 Buying_0_ID 24017
 Buying_0_Cost 5000
@@ -11,9 +11,12 @@ Buying_1_Cost 150
 // Bazooka rocket
 Buying_2_ID 24117
 Buying_2_Cost 400
+// mk ii mine
+Buying_3_ID 59555
+Buying_3_Cost 150
 
 
-Selling 4
+Selling 5
 
 // Panzerfaust AT / AP
 Selling_0_ID 9917
@@ -30,3 +33,7 @@ Selling_2_Cost 6000
 // Stielhandgranate
 Selling_3_ID 24011
 Selling_3_Cost 300
+
+// s mine
+Selling_4_ID 59554
+Selling_4_Cost 300

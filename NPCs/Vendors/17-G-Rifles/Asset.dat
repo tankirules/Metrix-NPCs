@@ -16,11 +16,11 @@ Buying_2_Cost 150
 
 // Mosin Nagant
 Buying_3_ID  9912
-Buying_3_Cost 15
+Buying_3_Cost 35
 
 // Springfield M1903
 Buying_4_ID 30028
-Buying_4_Cost 15
+Buying_4_Cost 35
 
 // M1 Garand
 Buying_5_ID 9892
@@ -28,7 +28,7 @@ Buying_5_Cost 100
 
 // Lee Enfield
 Buying_6_ID 30037
-Buying_6_Cost 15
+Buying_6_Cost 80
 
 Selling 16
 
@@ -42,7 +42,7 @@ Selling_1_Cost 200
 
 // Carcano 
 Selling_2_ID 30034 
-Selling_2_Cost 20
+Selling_2_Cost 50
 
 // Walther PPK
 Selling_3_ID 30002
@@ -50,15 +50,15 @@ Selling_3_Cost 500
 
 // Mauser Gewehr 98
 Selling_4_ID 30026
-Selling_4_Cost 20
+Selling_4_Cost 50
 
 // Manlicher M1895
 Selling_5_ID 9875
-Selling_5_Cost 20
+Selling_5_Cost 50
 
 // Arisaka Type 99
 Selling_6_ID 9919
-Selling_6_Cost 20
+Selling_6_Cost 50
 
 // Gewehr
 Selling_7_ID 9888

@@ -2,7 +2,7 @@ GUID fd30cbf2054e4d9a9b51bdf236013af5
 Type Vendor
 ID 32823
 
-Selling 9
+Selling 10
 // C-47 Skytrain
 Selling_0_ID 14615
 Selling_0_Cost 1000
@@ -38,3 +38,7 @@ Selling_7_Cost 15000
 // Dauntless
 Selling_8_ID 30044
 Selling_8_Cost 1500
+
+// il-2m
+Selling_9_ID 20207
+Selling_9_Cost 3500

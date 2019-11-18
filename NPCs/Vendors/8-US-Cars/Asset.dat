@@ -2,7 +2,7 @@ GUID d036b8bf33fd4f3e87785474c32f3ecf
 Type Vendor
 ID 32821
 
-Selling 15
+Selling 16
 
 // M3 ScoutCar
 Selling_0_ID 43020
@@ -63,6 +63,13 @@ Selling_13_Cost 1800
 // M3 GMC
 Selling_14_ID 42010
 Selling_14_Cost 2000
+
+// flak88
+Selling_15_ID 14578
+Selling_15_Cost 4000
+
+
+
 
 
 

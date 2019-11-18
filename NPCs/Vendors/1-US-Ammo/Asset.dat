@@ -54,7 +54,7 @@ Buying_11_Cost 90
 Buying_12_ID 14487
 Buying_12_Cost 200
 
-Selling 18
+Selling 15
 
 // LMG Clip
 Selling_0_ID 40001
@@ -63,67 +63,57 @@ Selling_0_Cost 100
 // .50Cal Box
 Selling_1_ID 40103
 Selling_1_Cost 200
-
-// Machine Gun Box
-Selling_2_ID 14487
-Selling_2_Cost 200
-
+	
 // 76mm - AP
-Selling_3_ID 40301
-Selling_3_Cost 75
+Selling_2_ID 40301
+Selling_2_Cost 75
 
 // 76mm -HE
-Selling_4_ID 40302
-Selling_4_Cost 75
+Selling_3_ID 40302
+Selling_3_Cost 75
 
-// 105mm - AP
-Selling_5_ID 41001
-Selling_5_Cost 95
-
-// 105mm - HE
-Selling_6_ID 41002
-Selling_6_Cost 95
 
 // 75mm - AP
-Selling_7_ID 40701
-Selling_7_Cost 90
+Selling_4_ID 40701
+Selling_4_Cost 90
 
 // 75mm - HE
-Selling_8_ID 40702
-Selling_8_Cost 90
+Selling_5_ID 40702
+Selling_5_Cost 90
 
 // SmokePouch
-Selling_9_ID 31939
-Selling_9_Cost 50
+Selling_6_ID 31939
+Selling_6_Cost 50
 
 // 57mm - AP
-Selling_10_ID 40604
-Selling_10_Cost 60
+Selling_7_ID 40604
+Selling_7_Cost 60
 
 // 37mm - AP
-Selling_11_ID 40501
-Selling_11_Cost 75
+Selling_8_ID 40501
+Selling_8_Cost 75
 
 // 37mm - HE
-Selling_12_ID 40502
-Selling_12_Cost 75
+Selling_9_ID 40502
+Selling_9_Cost 75
 
 // Missile
-Selling_13_ID 1302
-Selling_13_Cost 300
+Selling_10_ID 1302
+Selling_10_Cost 300
 
 // .50Cal Ammo
-Selling_14_ID 41203
-Selling_14_Cost 200
+Selling_11_ID 41203
+Selling_11_Cost 200
 
 // normans quad 50 cal box
-Selling_15_ID 30054
-Selling_15_Cost 150
+Selling_12_ID 30054
+Selling_12_Cost 150
 
-// 7.7 ammo pixels
-Selling_16_ID 41201
-Selling_16_Cost 200
+// 20mm ap
+Selling_13_ID 40401
+Selling_13_Cost 150
 
-// 20mm ammo pixels
-Selling_17_ID 41301
-Selling_17_Cost 200
+// 20mm he
+Selling_14_ID 40402
+Selling_14_Cost 150
+
