@@ -1,7 +1,7 @@
 GUID e1bad118459a42d580d1968c646d7235
 Type Vendor
 ID 32801
-Buying 7
+Buying 9
 // Webley MKIV Revolver
 Buying_0_ID 9844
 Buying_0_Cost 500
@@ -30,7 +30,16 @@ Buying_5_Cost 100
 Buying_6_ID 30037
 Buying_6_Cost 80
 
-Selling 16
+// trench gun
+Buying_7_ID 14249
+Buying_7_Cost 300
+
+// 12 gauge
+Buying_8_ID 113
+Buying_8_Cost 5
+
+
+Selling 18
 
 // Luger P08
 Selling_0_ID 24008
@@ -95,6 +104,15 @@ Selling_14_Cost 15
 // Carcano Clip
 Selling_15_ID 30035
 Selling_15_Cost 5
+
+// double barrel
+Selling_16_ID 14493
+Selling_16_Cost 400
+
+// 20 gauge
+Selling_17_ID 381
+Selling_17_Cost 10
+
 
 
 
