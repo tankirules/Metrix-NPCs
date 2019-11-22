@@ -2,12 +2,11 @@ GUID 329b6aa0e5154525b34fb5b2dc132ae5
 Type Vendor
 ID 32829
 
-Selling 11
+Selling 10
 
-// 20mm Ammo
-Selling_0_ID 14678
-Selling_0_Cost 150
-
+// normans dual 50 cal box
+Selling_0_ID 42631
+Selling_0_Cost 100
 
 // 1000Lb Bomb
 Selling_1_ID 14701
@@ -45,9 +44,7 @@ Selling_8_Cost 200
 Selling_9_ID 30057
 Selling_9_Cost 100
 
-// normans dual 50 cal box
-Selling_10_ID 42631
-Selling_10_Cost 100
+
 
 
 
