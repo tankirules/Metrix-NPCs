@@ -24,9 +24,9 @@ Buying_4_Cost 450
 
 // Bren
 Buying_5_ID 30075
-Buying_5_Cost 1500
+Buying_5_Cost 1000
 
-Selling 12
+Selling 14
 
 // MP34
 Selling_0_ID 24014
@@ -75,6 +75,14 @@ Selling_10_Cost 50
 // stg44 mag
 Selling_11_ID 9895
 Selling_11_Cost 50
+
+// breda
+Selling_12_ID 30096
+Selling_12_Cost 1500
+
+// breda mag
+Selling_13_ID 30097
+Selling_13_Cost 30
 
 
 

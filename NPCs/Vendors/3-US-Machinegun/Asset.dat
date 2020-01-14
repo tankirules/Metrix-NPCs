@@ -1,7 +1,7 @@
 GUID 51a5898d5ddb4694a5c3cb9d7145a9d8
 Type Vendor
 ID 32816
-Buying 6
+Buying 7
 // MP34
 Buying_0_ID 24014
 Buying_0_Cost 150
@@ -25,6 +25,10 @@ Buying_4_Cost 500
 // StG44
 Buying_5_ID 9930
 Buying_5_Cost 400
+
+// breda
+Buying_6_ID 30096
+Buying_6_Cost 1000
 
 Selling 13
 
