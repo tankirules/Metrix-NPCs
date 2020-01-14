@@ -4,27 +4,27 @@ ID 32816
 Buying 6
 // MP34
 Buying_0_ID 24014
-Buying_0_Cost 400
+Buying_0_Cost 150
  
 // MP40
-Buying_1_ID 9850
-Buying_1_Cost 500
+Buying_1_ID 24009
+Buying_1_Cost 200
 
 // KP31
-Buying_2_ID 9869
-Buying_2_Cost 700
+Buying_2_ID 24020
+Buying_2_Cost 350
 
 // MG42
 Buying_3_ID 9904
-Buying_3_Cost 1250
+Buying_3_Cost 450
 
 // FG42
 Buying_4_ID 9880
-Buying_4_Cost 1000
+Buying_4_Cost 500
 
 // StG44
 Buying_5_ID 9930
-Buying_5_Cost 1000
+Buying_5_Cost 400
 
 Selling 10
 
@@ -36,9 +36,9 @@ Selling_0_Cost 800
 Selling_1_ID 9853
 Selling_1_Cost 900
 
-// M2 Carbine
-Selling_2_ID 58272
-Selling_2_Cost 900
+// Dillinger Thompson
+Selling_2_ID 9824
+Selling_2_Cost 1500
 
 // M3A1 Grease Gun
 Selling_3_ID 9932
@@ -64,8 +64,8 @@ Selling_7_Cost 30
 Selling_8_ID 9902
 Selling_8_Cost 75
 
-// Carbine mag
-Selling_9_ID 58273
-Selling_9_Cost 40
+// Thompson Drum
+Selling_9_ID 9826
+Selling_9_Cost 100
 
 

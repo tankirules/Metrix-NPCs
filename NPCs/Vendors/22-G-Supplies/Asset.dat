@@ -4,7 +4,7 @@ ID 32806
 
 Buying 9
 // Scrap-metal
-Buying_0_ID 67
+Buying_0_ID 5
 Buying_0_Cost 10
 // Birch-log
 Buying_1_ID 37
@@ -20,10 +20,10 @@ Buying_4_ID 28
 Buying_4_Cost 200
 // 10 metal scrap
 Buying_5_ID 49101
-Buying_5_Cost 125
+Buying_5_Cost 50
 //100 metal scrap
 Buying_6_ID 49102
-Buying_6_Cost 1250
+Buying_6_Cost 100
 //maple 10 log
 Buying_7_ID 49117
 Buying_7_Cost 250
@@ -31,7 +31,7 @@ Buying_7_Cost 250
 Buying_8_ID 49119
 Buying_8_Cost 250
 
-Selling 27
+Selling 28
 // Gas-can
 Selling_0_ID 28
 Selling_0_Cost 250
@@ -124,6 +124,10 @@ Selling_25_Cost 25
 //bino
 Selling_26_ID 333
 Selling_26_Cost 75
+
+//Supply crate
+Selling_27_ID 59556
+Selling_27_Cost 150
 
 
 

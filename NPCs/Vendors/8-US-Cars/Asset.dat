@@ -2,7 +2,7 @@ GUID d036b8bf33fd4f3e87785474c32f3ecf
 Type Vendor
 ID 32821
 
-Selling 16
+Selling 14
 
 // M3 ScoutCar
 Selling_0_ID 43020
@@ -41,32 +41,25 @@ Selling_8_ID 22002
 Selling_8_Cost 350
 
 // M3 Halftrack
-Selling_9_ 4581
+Selling_9_ 22005
 Selling_9_Cost 800
 
-// M4 Tractor
-Selling_10_ID 42317
-Selling_10_Cost 1100
-
-// M4 Tractor [90mm]
-Selling_11_ID 42318
-Selling_11_Cost 1250
-
 // M16 MGMC
-Selling_12_ID 14606
-Selling_12_Cost 1500
+Selling_10_ID 43026
+Selling_10_Cost 1500
 
 // M8 Greyhound
-Selling_13_ID 22006
-Selling_13_Cost 1800
+Selling_11_ID 22006
+Selling_11_Cost 1800
 
 // M3 GMC
-Selling_14_ID 42010
-Selling_14_Cost 2000
+Selling_12_ID 42010
+Selling_12_Cost 2000
 
-// flak88
-Selling_15_ID 14578
-Selling_15_Cost 4000
+// Field MG
+Selling_13_ID 34201
+Selling_13_Cost 1500
+
 
 
 

@@ -1,45 +1,49 @@
 GUID e1bad118459a42d580d1968c646d7235
 Type Vendor
 ID 32801
-Buying 9
+Buying 10
 // Webley MKIV Revolver
 Buying_0_ID 9844
-Buying_0_Cost 500
+Buying_0_Cost 50
 
 // Browning Hi-Power
 Buying_1_ID 9830
-Buying_1_Cost 400
+Buying_1_Cost 40
 
 // Colt 1903 Hammer
 Buying_2_ID 30004
-Buying_2_Cost 150
+Buying_2_Cost 15
 
 // Mosin Nagant
 Buying_3_ID  9912
-Buying_3_Cost 35
+Buying_3_Cost 10
 
 // Springfield M1903
 Buying_4_ID 30028
-Buying_4_Cost 35
+Buying_4_Cost 10
 
 // M1 Garand
 Buying_5_ID 9892
-Buying_5_Cost 100
+Buying_5_Cost 15
 
 // Lee Enfield
 Buying_6_ID 30037
-Buying_6_Cost 80
+Buying_6_Cost 15
 
 // trench gun
 Buying_7_ID 14249
-Buying_7_Cost 300
+Buying_7_Cost 30
 
 // 12 gauge
 Buying_8_ID 113
 Buying_8_Cost 5
 
+// M2 Carbine
+Buying_9_ID 30058
+Buying_9_Cost 200
 
-Selling 18
+
+Selling 20
 
 // Luger P08
 Selling_0_ID 24008
@@ -112,6 +116,14 @@ Selling_16_Cost 400
 // 20 gauge
 Selling_17_ID 381
 Selling_17_Cost 10
+
+// FG42 R
+Selling_18_ID 30062
+Selling_18_Cost 1300
+
+// FG42 MagR
+Selling_19_ID 30063
+Selling_19_Cost 20
 
 
 

@@ -1,75 +1,46 @@
 GUID f41f3f383df14e42a14d8f8b3d2413b4
 Type Vendor
 ID 32827
-Buying 7
+Buying 4
 // 20mm-Bullet
-Buying_1_ID 41301
-Buying_1_Cost 100
+Buying_0_ID 41301
+Buying_0_Cost 100
 // 127mm-AP-Shell
-Buying_2_ID 41601
-Buying_2_Cost 75
+Buying_1_ID 41601
+Buying_1_Cost 75
 // 127mm-HE-Shell
-Buying_3_ID 41602
-Buying_3_Cost 75
+Buying_2_ID 41602
+Buying_2_Cost 75
+// Torpedo
+Buying_3_ID 41701
+Buying_3_Cost 150
 
-// rains ap shell
-Buying_4_ID 14497
-Buying_4_Cost 40
-
-// mg box
-Buying_5_ID 14487
-Buying_5_Cost 75
-
-// rains he shell
-Buying_6_ID 14498
-Buying_6_Cost 40
-
-Selling 12
-
-// AP - Shell
-Selling_0_ID 14497
-Selling_0_Cost 50
-
-// MG - Box
-Selling_1_ID 14487
-Selling_1_Cost 100
-
+Selling 7
 // 37mm - AC
-Selling_2_ID 40201
-Selling_2_Cost 150
+Selling_0_ID 40201
+Selling_0_Cost 150
 
 // 40mm AA Box
-Selling_3_ID 42701
-Selling_3_Cost 200
+Selling_1_ID 42701
+Selling_1_Cost 200
 
 // .50Cal - Dual
-Selling_4_ID 42631
-Selling_4_Cost 200
+Selling_2_ID 42631
+Selling_2_Cost 200
 
 // 20mm X 150
-Selling_5_ID 41301
-Selling_5_Cost 150
+Selling_3_ID 41301
+Selling_3_Cost 150
 
 // Torpedo
-Selling_6_ID 41701
-Selling_6_Cost 500
+Selling_4_ID 41701
+Selling_4_Cost 500
 
 // 127mm - AP
-Selling_7_ID 41601
-Selling_7_Cost 100
+Selling_5_ID 41601
+Selling_5_Cost 100
 
-// 2 X 127mm - AP
-Selling_8_ID 42801
-Selling_8_Cost 100
+// 127mm - HE
+Selling_6_ID 41602
+Selling_6_Cost 100
 
-// 2 X 127mm - HE
-Selling_9_ID 42802
-Selling_9_Cost 100
-
-// HE - Shell
-Selling_10_ID 14498
-Selling_10_Cost 50
-
-// 2 X 127mm - VT
-Selling_11_ID 42803
-Selling_11_Cost 20000

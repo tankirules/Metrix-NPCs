@@ -2,7 +2,7 @@ GUID 2289d53b5a624dfa81c89282c0e192bd
 Type Vendor
 ID 32817
 
-Buying 4
+Buying 10
 // Panzerfaust
 Buying_0_ID 9917
 Buying_0_Cost 300
@@ -15,22 +15,55 @@ Buying_2_Cost 150
 // s mine
 Buying_3_ID 59554
 Buying_3_Cost 150
+// SAA
+Buying_4_ID 9834
+Buying_4_Cost 300
+// Welrod MKI
+Buying_5_ID 9878
+Buying_5_Cost 700
+// Donowitz Sawed off
+Buying_6_ID 9928
+Buying_6_Cost 500
+// Sticky nade H3
+Buying_7_ID 41642
+Buying_7_Cost 50
+// S-mine v2
+Buying_8_ID 41646
+Buying_8_Cost 30
+// Tellermine
+Buying_9_ID 41644
+Buying_9_Cost 100
 
 
 
-Selling 4
+Selling 9
 // M1 Bazooka
 Selling_0_ID 24017
 Selling_0_Cost 6000
 // RGD-33
 Selling_1_ID 24005
-Selling_1_Cost 300
+Selling_1_Cost 200
 // Bazooka rocket
 Selling_2_ID 24117
 Selling_2_Cost 500
 // mk ii mine
 Selling_3_ID 59555
-Selling_3_Cost 300
+Selling_3_Cost 250
+// mk ii grenade
+Selling_4_ID 59553
+Selling_4_Cost 200
+// Mounted MG
+Selling_5_ID 34206
+Selling_5_Cost 1000
+// Sticky nade
+Selling_6_ID 41643
+Selling_6_Cost 350
+// M2A3 mine
+Selling_7_ID 41647
+Selling_7_Cost 300
+// M1A1 At mine
+Selling_8_ID 41645
+Selling_8_Cost 400
 
 
 

@@ -3,21 +3,20 @@ Type Vendor
 ID 32810
 
 
-Selling 5
+Selling 4
 // 1934 Class Destroyer
 Selling_0_ID 29101
-Selling_0_Cost 9000
-// Akizuki Class Destroyer
-Selling_1_ID 8000
-Selling_1_Cost 52568
+Selling_0_Cost 7000
 // S-38 E-boat
-Selling_2_ID 29100
-Selling_2_Cost 6000
-// T-14 / T-15
-Selling_3_ID 42564
-Selling_3_Cost 4000
+Selling_1_ID 29100
+Selling_1_Cost 3000
 // Marinefahrprahm
-Selling_4_ID 29102
-Selling_4_Cost 1000
+Selling_2_ID 29102
+Selling_2_Cost 1000
+
+// Akizuki artillery
+Selling_3_ID 30081
+Selling_3_Cost 7000
+
 
 // Selling Completed
