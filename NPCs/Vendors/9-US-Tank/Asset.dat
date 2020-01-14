@@ -6,26 +6,22 @@ Selling 8
 //M5 Stuart
 Selling_0_ID 43027
 Selling_0_Cost 3000
-
 //Valentine IX
 Selling_1_ID 22500
-Selling_1_Cost 3500
-
+Selling_1_Cost 3250
 //Cromwell
 Selling_2_ID 42007
-Selling_2_Cost 4000
-
+Selling_2_Cost 3500
 //M4 Sherman
 Selling_3_ID 43024
 Selling_3_Cost 4500
-
 //Skink SPAAG
 Selling_4_ID 30049
 Selling_4_Cost 5000
 
 //churchill
 Selling_5_ID 24501
-Selling_5_Cost 5500
+Selling_5_Cost 5000
 
 //black prince
 Selling_6_ID 24502

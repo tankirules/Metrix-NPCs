@@ -4,23 +4,23 @@ ID 32802
 Buying 5
 // Thompson M1A1
 Buying_0_ID 9820
-Buying_0_Cost 400
+Buying_0_Cost 600
 
 // Sten MKII
 Buying_1_ID 9853
-Buying_1_Cost 300
+Buying_1_Cost 800
 
-// Dillinger Thompson
-Buying_2_ID 9824
-Buying_2_Cost 500
+// M2 Carbine
+Buying_2_ID 58272
+Buying_2_Cost 800
 
 // M3A1 Grease Gun
 Buying_3_ID 9932
-Buying_3_Cost 200
+Buying_3_Cost 500
 
 // Browning 30.Cal M1919
 Buying_4_ID 9901
-Buying_4_Cost 450
+Buying_4_Cost 1250
 
 Selling 12
 
@@ -29,11 +29,11 @@ Selling_0_ID 24014
 Selling_0_Cost 500
  
 // MP40
-Selling_1_ID 24009
+Selling_1_ID 9850
 Selling_1_Cost 600
 
 // KP31
-Selling_2_ID 24020
+Selling_2_ID 9869
 Selling_2_Cost 800
 
 // MG42
@@ -52,12 +52,12 @@ Selling_5_Cost 1100
 Selling_6_ID 24114
 Selling_6_Cost 30
 
-// MP40 mag
-Selling_7_ID 24109
+// MP40mag
+Selling_7_ID 9851
 Selling_7_Cost 35
 
 // kp31 mag
-Selling_8_ID 24120
+Selling_8_ID 9870
 Selling_8_Cost 40
 
 // mg42 mag

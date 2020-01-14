@@ -2,52 +2,50 @@ GUID 3c46712c350547b5b19d6af1962e6e01
 Type Vendor
 ID 32815
 
-Buying 11
+Buying 10
 // Luger P08
 Buying_0_ID 24008
-Buying_0_Cost 100
+Buying_0_Cost 300
 
 // Walther P38
 Buying_1_ID 9840
-Buying_1_Cost 25
+Buying_1_Cost 150
 
 // Carcano 
 Buying_2_ID 30034 
-Buying_2_Cost 10
+Buying_2_Cost 35
 
 // Walther PPK
 Buying_3_ID 30002
-Buying_3_Cost 125
+Buying_3_Cost 450
 
 // kar98k
 Buying_4_ID 30026
-Buying_4_Cost 10
+Buying_4_Cost 35
 
 // Manlicher M1895
 Buying_5_ID 9875
-Buying_5_Cost 10
+Buying_5_Cost 35
 
 // Arisaka Type 99
 Buying_6_ID 9919
-Buying_6_Cost 10
+Buying_6_Cost 35
 
 // Gewehr
 Buying_7_ID 9888
-Buying_7_Cost 15
+Buying_7_Cost 100
 
 // double barrel
 Buying_8_ID 14493
-Buying_8_Cost 15
+Buying_8_Cost 300
 
 // 20 gauge
 Buying_9_ID 381
 Buying_9_Cost 5
 
-// FG42 Rains
-Buying_10_ID 30062
-Buying_10_Cost 200
 
-Selling 18
+
+Selling 16
 
 // Webley MKIV Revolver
 Selling_0_ID 9844
@@ -112,14 +110,6 @@ Selling_14_Cost 400
 // 12 gauge
 Selling_15_ID 113
 Selling_15_Cost 10
-
-// M2 Carbine
-Selling_16_ID 30058
-Selling_16_Cost 550
-
-// Carbine Mag
-Selling_17_ID 30059
-Selling_17_Cost 20
 
 
 

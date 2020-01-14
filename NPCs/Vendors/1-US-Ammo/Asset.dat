@@ -1,62 +1,58 @@
 GUID a731d312e3a94b4694615a866a209de7
 Type Vendor
 ID 32814
-Buying 14
+Buying 12
 // 7.7 Ammo
-Buying_0_ID 41201
-Buying_0_Cost 100
+Buying_0_ID 14677
+Buying_0_Cost 200
+
+// Missile
+Buying_1_ID 1302
+Buying_1_Cost 300
 
 // 20mm - AP (clip)
-Buying_1_ID 40401
-Buying_1_Cost 75
+Buying_2_ID 40401
+Buying_2_Cost 300
 
 // 20mm - HE (clip)
-Buying_2_ID 40402
-Buying_2_Cost 75
+Buying_3_ID 40402
+Buying_3_Cost 300
 
 // 37mm - AP
-Buying_3_ID 40501
-Buying_3_Cost 35
+Buying_4_ID 40501
+Buying_4_Cost 75
 
 // 37mm - HE
-Buying_4_ID 40502
-Buying_4_Cost 35
+Buying_5_ID 40502
+Buying_5_Cost 75
 
 // LMG Clip
-Buying_5_ID 40001
-Buying_5_Cost 50
+Buying_6_ID 40001
+Buying_6_Cost 100
 
 // 37mm - AC Mag
-Buying_6_ID 40201
-Buying_6_Cost 125
+Buying_8_ID 40201
+Buying_8_Cost 250
 
 // 88mm - AP
-Buying_7_ID 40801
-Buying_7_Cost 35
+Buying_8_ID 40801
+Buying_8_Cost 75
 
 // 88mm - HE
-Buying_8_ID 40802
-Buying_8_Cost 35
+Buying_9_ID 40802
+Buying_9_Cost 75
 
 // 75mm - AP
-Buying_9_ID 40701
-Buying_9_Cost 45
+Buying_10_ID 40701
+Buying_10_Cost 90
 
 // 75mm - HE
-Buying_10_ID 40702
-Buying_10_Cost 45
+Buying_11_ID 40702
+Buying_11_Cost 90
 
-// Smoke Pouch
-Buying_11_ID 31939
-Buying_11_Cost 25
-
-// HMG-Box
-Buying_12_ID 40101 
-Buying_12_Cost 75
-
-// Quad box
-Buying_13_ID 42101
-Buying_13_Cost 25
+// Machine Gun Box
+Buying_12_ID 14487
+Buying_12_Cost 200
 
 Selling 15
 
@@ -75,6 +71,7 @@ Selling_2_Cost 75
 // 76mm -HE
 Selling_3_ID 40302
 Selling_3_Cost 75
+
 
 // 75mm - AP
 Selling_4_ID 40701
@@ -100,23 +97,23 @@ Selling_8_Cost 75
 Selling_9_ID 40502
 Selling_9_Cost 75
 
-// 7.7mm x150
-Selling_10_ID 41203
-Selling_10_Cost 200
+// Missile
+Selling_10_ID 1302
+Selling_10_Cost 300
 
-// 20mm ap
-Selling_11_ID 40401
-Selling_11_Cost 150
+// .50Cal Ammo
+Selling_11_ID 41203
+Selling_11_Cost 200
 
-// 20mm he
-Selling_12_ID 40402
+// normans quad 50 cal box
+Selling_12_ID 30054
 Selling_12_Cost 150
 
-// Quad box
-Selling_13_ID 30054
-Selling_13_Cost 200
+// 20mm ap
+Selling_13_ID 40401
+Selling_13_Cost 150
 
-// HMG-Box
-Selling_14_ID 40101
+// 20mm he
+Selling_14_ID 40402
 Selling_14_Cost 150
 

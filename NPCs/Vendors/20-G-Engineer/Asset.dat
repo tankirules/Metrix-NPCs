@@ -13,7 +13,7 @@ Buying_1_Cost 50
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 16
+Selling 15
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -59,6 +59,3 @@ Selling_13_Cost 4
 // Wrench
 Selling_14_ID 24022
 Selling_14_Cost 250
-// TankHangarDoor 
-Selling_15_ID 47134
-Selling_15_Cost 2500

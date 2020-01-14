@@ -2,19 +2,19 @@ GUID 5901383a-3f5f-46b9-a14d-7f6f37dd7af2
 Type Vendor
 ID 32808
 
-Selling 9
+Selling 8
 
 // Pz - II 
 Selling_0_ID 29005
-Selling_0_Cost 2000
+Selling_0_Cost 3000
 
 // Pz - III F
 Selling_1_ID 29014
-Selling_1_Cost 3000
+Selling_1_Cost 3500
 
 // Pz - IV F2
-Selling_2_ID 29006
-Selling_2_Cost 3500
+Selling_2_ID 43022
+Selling_2_Cost 3750
 
 // Panther
 Selling_3_ID 0
@@ -22,7 +22,7 @@ Selling_3_Cost 4000
 
 // Tiger - 1
 Selling_4_ID 29007
-Selling_4_Cost 5500
+Selling_4_Cost 5000
 
 // Tiger - 2
 Selling_5_ID 24500
@@ -35,7 +35,3 @@ Selling_6_Cost 3500
 // Wirbelwind
 Selling_7_ID 30050
 Selling_7_Cost 5000
-
-// Carro Armato P40
-Selling_8_ID 42003
-Selling_8_Cost 4000

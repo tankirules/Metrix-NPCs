@@ -1,121 +1,126 @@
 GUID 1522aa58-7cdc-407c-b210-b821ca1f9a01
 Type Vendor
 ID 32800
-Buying 14
+Buying 15
 // LMG Clip
 Buying_0_ID 40001
-Buying_0_Cost 50
+Buying_0_Cost 100
 
 // .50Cal Box
 Buying_1_ID 40103
-Buying_1_Cost 100
-	
+Buying_1_Cost 200
+
+// Machine Gun Box
+Buying_2_ID 14487
+Buying_2_Cost 200
+
 // 76mm - AP
-Buying_2_ID 40301
-Buying_2_Cost 35
+Buying_3_ID 40301
+Buying_3_Cost 75
 
 // 76mm -HE
-Buying_3_ID 40302
-Buying_3_Cost 35
+Buying_4_ID 40302
+Buying_4_Cost 75
+
+// 105mm - AP
+Buying_5_ID 41001
+Buying_5_Cost 95
+
+// 105mm - HE
+Buying_6_ID 41002
+Buying_6_Cost 95
 
 // 75mm - AP
-Buying_4_ID 40701
-Buying_4_Cost 45
+Buying_7_ID 40701
+Buying_7_Cost 90
 
 // 75mm - HE
-Buying_5_ID 40702
-Buying_5_Cost 45
+Buying_8_ID 40702
+Buying_8_Cost 90
 
 // SmokePouch
-Buying_6_ID 31939
-Buying_6_Cost 25
+Buying_9_ID 31939
+Buying_9_Cost 50
 
 // 57mm - AP
-Buying_7_ID 40604
-Buying_7_Cost 30
+Buying_10_ID 40604
+Buying_10_Cost 60
 
 // 37mm - AP
-Buying_8_ID 40501
-Buying_8_Cost 35
-
-// 37mm - HE
-Buying_9_ID 40502
-Buying_9_Cost 35
-
-// 7.7mm x150
-Buying_10_ID 41203
-Buying_10_Cost 100
-
-// 20mm ap
-Buying_11_ID 40401
+Buying_11_ID 40501
 Buying_11_Cost 75
 
-// 20mm he
-Buying_12_ID 40402
+// 37mm - HE
+Buying_12_ID 40502
 Buying_12_Cost 75
 
-// Quad box
-Buying_13_ID 42101
-Buying_13_Cost 25
+// Missile
+Buying_13_ID 1302
+Buying_13_Cost 300
 
-Selling 14
+// .50Cal Ammo
+Buying_15_ID 14676
+Buying_15_Cost 200
+
+Selling 15
 
 // 7.7 Ammo
 Selling_0_ID 41201
 Selling_0_Cost 200
 
+// Missile
+Selling_1_ID 1302
+Selling_1_Cost 300
+
 // 20mm - AP (clip)
-Selling_1_ID 40401
-Selling_1_Cost 150
+Selling_2_ID 40401
+Selling_2_Cost 300
 
 // 20mm - HE (clip)
-Selling_2_ID 40402
-Selling_2_Cost 150
+Selling_3_ID 40402
+Selling_3_Cost 300
 
 // 37mm - AP
-Selling_3_ID 40501
-Selling_3_Cost 75
-
-// 37mm - HE
-Selling_4_ID 40502
+Selling_4_ID 40501
 Selling_4_Cost 75
 
+// 37mm - HE
+Selling_5_ID 40502
+Selling_5_Cost 75
+
 // LMG Clip
-Selling_5_ID 40001
-Selling_5_Cost 100
+Selling_6_ID 40001
+Selling_6_Cost 100
 
 // 37mm - AC Mag
-Selling_6_ID 40201
-Selling_6_Cost 250
+Selling_7_ID 40201
+Selling_7_Cost 250
 
 // 88mm - AP
-Selling_7_ID 40801
-Selling_7_Cost 75
-
-// 88mm - HE
-Selling_8_ID 40802
+Selling_8_ID 40801
 Selling_8_Cost 75
 
-// 75mm - AP
-Selling_9_ID 40701
-Selling_9_Cost 90
+// 88mm - HE
+Selling_9_ID 40802
+Selling_9_Cost 75
 
-// 75mm - HE
-Selling_10_ID 40702
+// 75mm - AP
+Selling_10_ID 40701
 Selling_10_Cost 90
 
-// Smoke Pouch
-Selling_11_ID 31939
-Selling_11_Cost 50
+// 75mm - HE
+Selling_11_ID 40702
+Selling_11_Cost 90
 
-// HMG-Box
-Selling_12_ID 40101
-Selling_12_Cost 150
+// 20mm ammo pixels
+Selling_12_ID 41301
+Selling_12_Cost 200
 
-// Quad box
-Selling_13_ID 30054
+// .50Cal Ammo
+Selling_13_ID 41203
 Selling_13_Cost 200
 
-
-
+// normans quad 50 cal box
+Selling_14_ID 30054
+Selling_14_Cost 150
 

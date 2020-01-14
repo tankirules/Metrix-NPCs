@@ -13,7 +13,7 @@ Buying_1_Cost 50
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 16
+Selling 18
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -53,12 +53,18 @@ Selling_11_Cost 250
 // Pickaxe
 Selling_12_ID 1198
 Selling_12_Cost 250
+// Metal-scrap
+Selling_13_ID 67
+Selling_13_Cost 10
 // Cloth
-Selling_13_ID 66
-Selling_13_Cost 4
+Selling_14_ID 66
+Selling_14_Cost 4
 // Wrench 
-Selling_14_ID 24022
-Selling_14_Cost 250
-// TankHangarDoor 
-Selling_15_ID 47134
-Selling_15_Cost 2500
+Selling_15_ID 24022
+Selling_15_Cost 250
+// 10-Metal-scrap
+Selling_16_ID 49101
+Selling_16_Cost 100
+// 100-Metal-scrap
+Selling_17_ID 49102
+Selling_17_Cost 1000
