@@ -2,7 +2,7 @@ GUID fd30cbf2054e4d9a9b51bdf236013af5
 Type Vendor
 ID 32823
 
-Selling 10
+Selling 11
 // C-47 Skytrain
 Selling_0_ID 30060
 Selling_0_Cost 1000
@@ -27,9 +27,9 @@ Selling_4_Cost 4000
 Selling_5_ID 30046
 Selling_5_Cost 3500
 
-// P-51 Mustang
-Selling_6_ID 30043
-Selling_6_Cost 4000
+// Allies BattleBlimp
+Selling_6_ID 34203
+Selling_6_Cost 12000
 
 // B-25
 Selling_7_ID 30048
@@ -39,6 +39,10 @@ Selling_7_Cost 15000
 Selling_8_ID 30044
 Selling_8_Cost 1500
 
-// il-2m
-Selling_9_ID 20207
+// il-2 3m
+Selling_9_ID 29251
 Selling_9_Cost 3500
+
+// Boeing B-29 Superfortress
+Selling_10_ID 24504
+Selling_10_Cost 20000

@@ -2,21 +2,36 @@ GUID e161c3946da04171990fa57dfb8dc7a0
 Type Vendor
 ID 32828
 
-Buying 4
-// 20mm-Bullet
-Buying_0_ID 41301
+Buying 7
+// normans dual 50 cal box
+Buying_0_ID 42631
 Buying_0_Cost 100
-// 7.7mm-Bullet
-Buying_1_ID 41201
-Buying_1_Cost 150
-// 500kg-4-Bombs
-Buying_2_ID 41501
-Buying_2_Cost 675
-// 1000kg-1-Bomb
-Buying_3_ID 41401
-Buying_3_Cost 250
 
-Selling 8
+// 500kg Bombs
+Buying_1_ID 41501
+Buying_1_Cost 300
+
+// .50cal Box
+Buying_2_ID 30057
+Buying_2_Cost 75
+
+// 7.7mm x200
+Buying_3_ID 41201
+Buying_3_Cost 100
+
+// 7.7mm x150
+Buying_4_ID 41203
+Buying_4_Cost 100
+
+// 20mm Ammunition
+Buying_5_ID 41301
+Buying_5_Cost 75
+
+// 1000kg bomb
+Buying_6_ID 41401
+Buying_6_Cost 250
+
+Selling 5
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 200
@@ -29,19 +44,6 @@ Selling_2_Cost 1250
 // 1000kg-1-Bomb
 Selling_3_ID 41401
 Selling_3_Cost 500
-
-// .50Cal Ammo
+// 7.7mm x150
 Selling_4_ID 41203
 Selling_4_Cost 200
-
-// normans quad 50 cal box
-Selling_5_ID 30054
-Selling_5_Cost 150
-
-// 20mm ammo pixels
-Selling_6_ID 41301
-Selling_6_Cost 200
-
-// 7.7 Ammo
-Selling_7_ID 41201
-Selling_7_Cost 200
