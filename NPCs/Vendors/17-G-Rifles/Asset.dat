@@ -31,7 +31,7 @@ Buying_6_ID 30037
 Buying_6_Cost 15
 
 // trench gun
-Buying_7_ID 14249
+Buying_7_ID 30078
 Buying_7_Cost 30
 
 // 12 gauge
@@ -110,7 +110,7 @@ Selling_15_ID 30035
 Selling_15_Cost 5
 
 // double barrel
-Selling_16_ID 14493
+Selling_16_ID 30079
 Selling_16_Cost 400
 
 // 20 gauge

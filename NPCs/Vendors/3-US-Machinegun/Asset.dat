@@ -19,17 +19,17 @@ Buying_3_ID 9904
 Buying_3_Cost 450
 
 // FG42
-Buying_4_ID 9880
+Buying_4_ID 30062
 Buying_4_Cost 500
 
 // StG44
 Buying_5_ID 9930
 Buying_5_Cost 400
 
-Selling 10
+Selling 13
 
 // Thompson M1A1
-Selling_0_ID 9820
+Selling_0_ID 30086
 Selling_0_Cost 800
 
 // Sten MKII
@@ -49,7 +49,7 @@ Selling_4_ID 9901
 Selling_4_Cost 1500
 
 // Thompson Mag
-Selling_5_ID 9822
+Selling_5_ID 30083
 Selling_5_Cost 45
 
 // Sten Mag
@@ -65,7 +65,18 @@ Selling_8_ID 9902
 Selling_8_Cost 75
 
 // Thompson Drum
-Selling_9_ID 9826
+Selling_9_ID 30084
 Selling_9_Cost 100
 
+// Bren
+Selling_10_ID 30075
+Selling_10_Cost 1500
+
+// Bren30
+Selling_11_ID 30076
+Selling_11_Cost 30
+
+// Bren100
+Selling_12_ID 30077
+Selling_12_Cost 50
 

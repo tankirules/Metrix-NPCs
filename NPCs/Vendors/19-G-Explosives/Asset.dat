@@ -34,11 +34,12 @@ Buying_9_ID 41645
 Buying_9_Cost 100
 
 
-Selling 9
+Selling 8
 
-// Panzerfaust AT / AP
-Selling_0_ID 9917
-Selling_0_Cost 500
+// Tellermine
+Selling_0_ID 41644
+Selling_0_Cost 400
+
 
 // PzSchreck Rocket
 Selling_1_ID 24115
@@ -66,7 +67,4 @@ Selling_6_Cost 350
 // S-mine v2
 Selling_7_ID 41646
 Selling_7_Cost 300
-// Tellermine
-Selling_8_ID 41644
-Selling_8_Cost 400
 

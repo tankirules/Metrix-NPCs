@@ -2,10 +2,11 @@ GUID 2289d53b5a624dfa81c89282c0e192bd
 Type Vendor
 ID 32817
 
-Buying 10
-// Panzerfaust
-Buying_0_ID 9917
-Buying_0_Cost 300
+Buying 9
+// Tellermine
+Buying_0_ID 41644
+Buying_0_Cost 100
+
 // Panzerschrek
 Buying_1_ID 24015
 Buying_1_Cost 5000
@@ -30,9 +31,6 @@ Buying_7_Cost 50
 // S-mine v2
 Buying_8_ID 41646
 Buying_8_Cost 30
-// Tellermine
-Buying_9_ID 41644
-Buying_9_Cost 100
 
 
 

@@ -1,9 +1,9 @@
 GUID 5df4b40f52cd4cac9165400adb315db5
 Type Vendor
 ID 32802
-Buying 5
+Buying 6
 // Thompson M1A1
-Buying_0_ID 9820
+Buying_0_ID 30086
 Buying_0_Cost 400
 
 // Sten MKII
@@ -21,6 +21,10 @@ Buying_3_Cost 200
 // Browning 30.Cal M1919
 Buying_4_ID 9901
 Buying_4_Cost 450
+
+// Bren
+Buying_5_ID 30075
+Buying_5_Cost 1500
 
 Selling 12
 
@@ -41,7 +45,7 @@ Selling_3_ID 9904
 Selling_3_Cost 1500
 
 // FG42
-Selling_4_ID 9880
+Selling_4_ID 30062
 Selling_4_Cost 1300
 
 // StG44
@@ -65,7 +69,7 @@ Selling_9_ID 9905
 Selling_9_Cost 75
 
 // fg42 mag
-Selling_10_ID 9881
+Selling_10_ID 30063
 Selling_10_Cost 50
 
 // stg44 mag
