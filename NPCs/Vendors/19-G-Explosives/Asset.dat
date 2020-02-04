@@ -1,16 +1,16 @@
 GUID 1610385e24394fcb99dac3793f555218
 Type Vendor
 ID 32803
-Buying 10
+Buying 12
 // M1 Bazooka
 Buying_0_ID 24017
 Buying_0_Cost 5000
-// RGD-33
-Buying_1_ID 24005
-Buying_1_Cost 150
-// Bazooka rocket
-Buying_2_ID 24117
-Buying_2_Cost 400
+// prec
+Buying_1_ID 1393
+Buying_1_Cost 50
+// mk ii grenade
+Buying_2_ID 59553
+Buying_2_Cost 50
 // mk ii mine
 Buying_3_ID 59555
 Buying_3_Cost 150
@@ -25,16 +25,23 @@ Buying_6_ID 9928
 Buying_6_Cost 500
 // Sticky nade
 Buying_7_ID 41643
-Buying_7_Cost 50
+Buying_7_Cost 200
 // M2A3 mine
 Buying_8_ID 41647
-Buying_8_Cost 30
+Buying_8_Cost 150
 // M1A1 At mine
 Buying_9_ID 41645
 Buying_9_Cost 100
+// detonator
+Buying_10_ID 1240
+Buying_10_Cost 500
+// demo
+Buying_11_ID 1241
+Buying_11_Cost 50
 
 
-Selling 8
+
+Selling 10
 
 // Tellermine
 Selling_0_ID 41644
@@ -51,20 +58,29 @@ Selling_2_Cost 6000
 
 // Stielhandgranate
 Selling_3_ID 24011
-Selling_3_Cost 300
+Selling_3_Cost 100
 
 // s mine
 Selling_4_ID 59554
 Selling_4_Cost 300
 
-// Mounted MG
-Selling_5_ID 34205
-Selling_5_Cost 1000
+// Demo-charge
+Selling_5_ID 1241
+Selling_5_Cost 250
+
+// Precision-charge
+Selling_6_ID 1393
+Selling_6_Cost 150
+
+// Detonator
+Selling_7_ID 1240
+Selling_7_Cost 1500
 
 // Sticky nade H3
-Selling_6_ID 41642
-Selling_6_Cost 350
+Selling_8_ID 41642
+Selling_8_Cost 350
+
 // S-mine v2
-Selling_7_ID 41646
-Selling_7_Cost 300
+Selling_9_ID 41646
+Selling_9_Cost 300
 

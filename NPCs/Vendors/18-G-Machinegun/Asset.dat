@@ -3,20 +3,20 @@ Type Vendor
 ID 32802
 Buying 6
 // Thompson M1A1
-Buying_0_ID 30086
-Buying_0_Cost 400
+Buying_0_ID 9820
+Buying_0_Cost 200
 
 // Sten MKII
 Buying_1_ID 9853
-Buying_1_Cost 300
+Buying_1_Cost 350
 
 // Dillinger Thompson
 Buying_2_ID 9824
-Buying_2_Cost 500
+Buying_2_Cost 400
 
 // M3A1 Grease Gun
 Buying_3_ID 9932
-Buying_3_Cost 200
+Buying_3_Cost 150
 
 // Browning 30.Cal M1919
 Buying_4_ID 9901
@@ -24,16 +24,16 @@ Buying_4_Cost 450
 
 // Bren
 Buying_5_ID 30075
-Buying_5_Cost 1000
+Buying_5_Cost 400
 
-Selling 14
+Selling 12
 
 // MP34
 Selling_0_ID 24014
 Selling_0_Cost 500
  
 // MP40
-Selling_1_ID 24009
+Selling_1_ID 9850
 Selling_1_Cost 600
 
 // KP31
@@ -44,45 +44,37 @@ Selling_2_Cost 800
 Selling_3_ID 9904
 Selling_3_Cost 1500
 
-// FG42
-Selling_4_ID 30062
-Selling_4_Cost 1300
-
 // StG44
-Selling_5_ID 9930
-Selling_5_Cost 1100
+Selling_4_ID 9930
+Selling_4_Cost 1100
 
 // mp34 mag
-Selling_6_ID 24114
-Selling_6_Cost 30
+Selling_5_ID 24114
+Selling_5_Cost 30
 
 // MP40 mag
-Selling_7_ID 24109
-Selling_7_Cost 35
+Selling_6_ID 9851
+Selling_6_Cost 35
 
 // kp31 mag
-Selling_8_ID 24120
-Selling_8_Cost 40
+Selling_7_ID 24120
+Selling_7_Cost 40
 
 // mg42 mag
-Selling_9_ID 9905
-Selling_9_Cost 75
-
-// fg42 mag
-Selling_10_ID 30063
-Selling_10_Cost 50
+Selling_8_ID 9905
+Selling_8_Cost 75
 
 // stg44 mag
-Selling_11_ID 9895
-Selling_11_Cost 50
+Selling_9_ID 9895
+Selling_9_Cost 50
 
 // breda
-Selling_12_ID 30096
-Selling_12_Cost 1500
+Selling_10_ID 30096
+Selling_10_Cost 1300
 
 // breda mag
-Selling_13_ID 30097
-Selling_13_Cost 30
+Selling_11_ID 30097
+Selling_11_Cost 30
 
 
 

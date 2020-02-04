@@ -3,10 +3,30 @@ GUID 8c73bcd2e83f49019709fe0e66160f43
 Type Vendor
 ID 30832
 
-Buying 1
+Buying 6
 
-// BlueBerry
-Buying_0_ID 271
-Buying_0_Cost 1000
+// Glue
+Buying_0_ID 70
+Buying_0_Cost 15
+
+// Waffle
+Buying_1_ID 1161
+Buying_1_Cost 5
+
+// JadeBerry
+Buying_2_ID 272
+Buying_2_Cost 2
+
+// TealBerry
+Buying_3_ID 274
+Buying_3_Cost 2
+
+// Intestine
+Buying_4_ID 41113
+Buying_4_Cost 100
+
+// MapleSyrup
+Buying_5_ID 1159
+Buying_5_Cost 10
 
 

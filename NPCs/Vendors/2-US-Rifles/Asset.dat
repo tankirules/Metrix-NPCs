@@ -16,7 +16,7 @@ Buying_2_ID 30034
 Buying_2_Cost 10
 
 // Walther PPK
-Buying_3_ID 30002
+Buying_3_ID 9848
 Buying_3_Cost 125
 
 // kar98k
@@ -43,22 +43,23 @@ Buying_8_Cost 15
 Buying_9_ID 381
 Buying_9_Cost 5
 
-// FG42 Rains
+// Fg42
 Buying_10_ID 30062
 Buying_10_Cost 200
+
 
 Selling 18
 
 // Webley MKIV Revolver
 Selling_0_ID 9844
-Selling_0_Cost 600
+Selling_0_Cost 500
 
 // Browning Hi-Power
 Selling_1_ID 9830
-Selling_1_Cost 500
+Selling_1_Cost 350
 
-// Colt 1903 Hammer
-Selling_2_ID 30004
+// Tokarev T-33
+Selling_2_ID 9842
 Selling_2_Cost 200
 
 // Mosin Nagant
@@ -75,7 +76,7 @@ Selling_5_Cost 125
 
 // Lee Enfield
 Selling_6_ID 30037
-Selling_6_Cost 100
+Selling_6_Cost 50
 
 // webley ammo
 Selling_7_ID 9845
@@ -85,8 +86,8 @@ Selling_7_Cost 30
 Selling_8_ID 9831
 Selling_8_Cost 20
 
-// colt mag
-Selling_9_ID 30005
+// tokarev mag
+Selling_9_ID 9843
 Selling_9_Cost 20
 
 // mosin clip

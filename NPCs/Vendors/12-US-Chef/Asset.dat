@@ -28,34 +28,52 @@ Buying_6_Cost 35
 Buying_7_ID 515
 Buying_7_Cost 40
 
-Selling 10
+Selling 16
 // MRE
 Selling_0_ID 81
 Selling_0_Cost 150
 // Botted-water
 Selling_1_ID 14
-Selling_1_Cost 55
+Selling_1_Cost 25
 // Canned-Beans
 Selling_2_ID 13
-Selling_2_Cost 50
+Selling_2_Cost 20
 // Canned-Soda
 Selling_3_ID 465
-Selling_3_Cost 55
+Selling_3_Cost 25
 // Canned-Cola
 Selling_4_ID 80
-Selling_4_Cost 55
+Selling_4_Cost 25
 // Canned-Bacon
 Selling_5_ID 88
-Selling_5_Cost 50
+Selling_5_Cost 20
 // Canned-Beef
 Selling_6_ID 89
-Selling_6_Cost 50
+Selling_6_Cost 20
 // Canned-Pasta
 Selling_7_ID 87
-Selling_7_Cost 50
+Selling_7_Cost 20
 // Canned-Ham
 Selling_8_ID 469
-Selling_8_Cost 50
+Selling_8_Cost 20
 // Canned-Sardines
 Selling_9_ID 90
-Selling_9_Cost 50
+Selling_9_Cost 20
+// Cafe Au Lait
+Selling_10_ID 42103
+Selling_10_Cost 15
+// Ale-Mug
+Selling_11_ID 42261
+Selling_11_Cost 12
+// Orange Juice
+Selling_12_ID 42162
+Selling_12_Cost 15
+// French-fries
+Selling_13_ID 42130
+Selling_13_Cost 10
+// fried eggs
+Selling_14_ID 41103
+Selling_14_Cost 15
+// goat meat
+Selling_15_ID 41131
+Selling_15_Cost 18

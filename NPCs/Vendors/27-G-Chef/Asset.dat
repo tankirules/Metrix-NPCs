@@ -28,49 +28,52 @@ Buying_6_Cost 35
 Buying_7_ID 515
 Buying_7_Cost 40
 
-Selling 15
+Selling 16
 // MRE
 Selling_0_ID 81
 Selling_0_Cost 150
 // Botted-water
 Selling_1_ID 14
-Selling_1_Cost 55
+Selling_1_Cost 25
 // Canned-Beans
 Selling_2_ID 13
-Selling_2_Cost 50
+Selling_2_Cost 20
 // Canned-Soda
 Selling_3_ID 465
-Selling_3_Cost 55
+Selling_3_Cost 25
 // Canned-Cola
 Selling_4_ID 80
-Selling_4_Cost 55
+Selling_4_Cost 25
 // Canned-Bacon
 Selling_5_ID 88
-Selling_5_Cost 50
+Selling_5_Cost 20
 // Canned-Beef
 Selling_6_ID 89
-Selling_6_Cost 50
+Selling_6_Cost 20
 // Canned-Pasta
 Selling_7_ID 87
-Selling_7_Cost 50
+Selling_7_Cost 20
 // Canned-Ham
 Selling_8_ID 469
-Selling_8_Cost 50
+Selling_8_Cost 20
 // Canned-Sardines
 Selling_9_ID 90
-Selling_9_Cost 50
+Selling_9_Cost 20
 //coffee
 Selling_10_ID 42102
-Selling_10_Cost 50
-//Cafe au lait
-Selling_11_ID 42103
-Selling_11_Cost 75
-//hot choc
-Selling_12_ID 42230
-Selling_12_Cost 100
-//marshmellow
-Selling_13_ID 42228
-Selling_13_Cost 50
-//popcorn
-Selling_14_ID 42129
-Selling_14_Cost 40
+Selling_10_Cost 15
+//mead tankard
+Selling_11_ID 42262
+Selling_11_Cost 12
+//apple juice
+Selling_12_ID 42161
+Selling_12_Cost 15
+//cooked mutton
+Selling_13_ID 41112
+Selling_13_Cost 18
+//sausage salad
+Selling_14_ID 42142
+Selling_14_Cost 35
+//sausage 
+Selling_15_ID 41114
+Selling_15_Cost 10

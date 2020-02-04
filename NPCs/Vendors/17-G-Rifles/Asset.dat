@@ -4,15 +4,15 @@ ID 32801
 Buying 10
 // Webley MKIV Revolver
 Buying_0_ID 9844
-Buying_0_Cost 50
+Buying_0_Cost 125
 
 // Browning Hi-Power
 Buying_1_ID 9830
-Buying_1_Cost 40
+Buying_1_Cost 100
 
-// Colt 1903 Hammer
-Buying_2_ID 30004
-Buying_2_Cost 15
+// Tokarev
+Buying_2_ID 9842
+Buying_2_Cost 25
 
 // Mosin Nagant
 Buying_3_ID  9912
@@ -28,11 +28,11 @@ Buying_5_Cost 15
 
 // Lee Enfield
 Buying_6_ID 30037
-Buying_6_Cost 15
+Buying_6_Cost 10
 
 // trench gun
 Buying_7_ID 30078
-Buying_7_Cost 30
+Buying_7_Cost 15
 
 // 12 gauge
 Buying_8_ID 113
@@ -58,7 +58,7 @@ Selling_2_ID 30034
 Selling_2_Cost 50
 
 // Walther PPK
-Selling_3_ID 30002
+Selling_3_ID 9848
 Selling_3_Cost 500
 
 // Mauser Gewehr 98
@@ -119,7 +119,7 @@ Selling_17_Cost 10
 
 // FG42 R
 Selling_18_ID 30062
-Selling_18_Cost 1300
+Selling_18_Cost 1000
 
 // FG42 MagR
 Selling_19_ID 30063

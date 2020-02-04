@@ -16,7 +16,7 @@ Buying_2_Cost 30
 Selling 10
 // Dressing
 Selling_0_ID 394
-Selling_0_Cost 20
+Selling_0_Cost 10
 // Splint
 Selling_1_ID 96
 Selling_1_Cost 15
@@ -25,10 +25,10 @@ Selling_2_ID 403
 Selling_2_Cost 80
 // Medkit
 Selling_3_ID 15
-Selling_3_Cost 150
+Selling_3_Cost 110
 // Bloodbag
 Selling_4_ID 395
-Selling_4_Cost 100
+Selling_4_Cost 90
 // Cough Syrup
 Selling_5_ID 404
 Selling_5_Cost 20

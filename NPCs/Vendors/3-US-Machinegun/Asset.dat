@@ -18,9 +18,9 @@ Buying_2_Cost 350
 Buying_3_ID 9904
 Buying_3_Cost 450
 
-// FG42
+// FG42 Rains
 Buying_4_ID 30062
-Buying_4_Cost 500
+Buying_4_Cost 200
 
 // StG44
 Buying_5_ID 9930
@@ -28,32 +28,32 @@ Buying_5_Cost 400
 
 // breda
 Buying_6_ID 30096
-Buying_6_Cost 1000
+Buying_6_Cost 400
 
 Selling 13
 
 // Thompson M1A1
-Selling_0_ID 30086
-Selling_0_Cost 800
+Selling_0_ID 9820
+Selling_0_Cost 600
 
 // Sten MKII
 Selling_1_ID 9853
-Selling_1_Cost 900
+Selling_1_Cost 800
 
 // Dillinger Thompson
 Selling_2_ID 9824
-Selling_2_Cost 1500
+Selling_2_Cost 1100
 
 // M3A1 Grease Gun
 Selling_3_ID 9932
-Selling_3_Cost 600
+Selling_3_Cost 500
 
 // Browning 30.Cal M1919
 Selling_4_ID 9901
 Selling_4_Cost 1500
 
 // Thompson Mag
-Selling_5_ID 30083
+Selling_5_ID 9822
 Selling_5_Cost 45
 
 // Sten Mag
@@ -69,12 +69,12 @@ Selling_8_ID 9902
 Selling_8_Cost 75
 
 // Thompson Drum
-Selling_9_ID 30084
+Selling_9_ID 9826
 Selling_9_Cost 100
 
 // Bren
 Selling_10_ID 30075
-Selling_10_Cost 1500
+Selling_10_Cost 1300
 
 // Bren30
 Selling_11_ID 30076
