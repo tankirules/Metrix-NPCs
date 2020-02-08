@@ -4,9 +4,6 @@ Type Vendor
 ID 30831
 
 Buying 11
-// Headlamp
-Buying_0_ID 1199
-Buying_0_Cost 5000
 
 // Gasmask
 Buying_1_ID 1270
@@ -49,15 +46,15 @@ Buying_10_ID 30039
 Buying_10_Cost 800
 
 
-Selling 19
-
-// Headlamp
-Selling_0_ID 1199
-Selling_0_Cost 300000
+Selling 18
 
 // Gasmask
-Selling_1_ID 1270
-Selling_1_Cost 500000
+Selling_0_ID 1270
+Selling_0_Cost 50000
+
+// Scoped springfield
+Selling_1_ID 30039
+Selling_1_Cost 30000
 
 // Flamethrower
 Selling_2_ID 3056
@@ -123,9 +120,7 @@ Selling_16_Cost 75
 Selling_17_ID 30038
 Selling_17_Cost 30000
 
-// Scoped springfield
-Selling_18_ID 30039
-Selling_18_Cost 30000
+
 
 
 

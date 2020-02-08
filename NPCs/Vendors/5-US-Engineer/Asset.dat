@@ -13,7 +13,7 @@ Buying_1_Cost 50
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 17
+Selling 18
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -65,4 +65,7 @@ Selling_15_Cost 60
 // Blowtorch
 Selling_16_ID 76
 Selling_16_Cost 5000
+// Headlamp
+Selling_17_ID 1199
+Selling_17_Cost 150
 
