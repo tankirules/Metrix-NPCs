@@ -15,7 +15,7 @@ Buying_2_Cost 75
 Buying_3_ID 41701
 Buying_3_Cost 150
 
-Selling 9
+Selling 10
 // 37mm - AC
 Selling_0_ID 40201
 Selling_0_Cost 150
@@ -51,6 +51,11 @@ Selling_7_Cost 100
 //127mm HE artillery
 Selling_8_ID 30093
 Selling_8_Cost 100
+
+//artillery dual 50 cal
+Selling_9_ID 30101
+Selling_9_Cost 100
+
 
 
 
