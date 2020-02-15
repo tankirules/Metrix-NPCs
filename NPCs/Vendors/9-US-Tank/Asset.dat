@@ -2,7 +2,7 @@ GUID 4e0ac344f789488cbe00e75b20c84a67
 Type Vendor
 ID 32822
 
-Selling 9
+Selling 10
 //M5 Stuart
 Selling_0_ID 43027
 Selling_0_Cost 3000
@@ -38,3 +38,7 @@ Selling_7_Cost 2000
 //M4 easy8
 Selling_8_ID 0
 Selling_8_Cost 4000
+
+//persing
+Selling_9_ID 34903
+Selling_9_Cost 6000
