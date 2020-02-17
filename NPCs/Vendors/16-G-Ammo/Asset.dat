@@ -58,7 +58,7 @@ Buying_12_Cost 75
 Buying_13_ID 42101
 Buying_13_Cost 25
 
-Selling 14
+Selling 16
 
 // 7.7 Ammo
 Selling_0_ID 41201
@@ -66,11 +66,11 @@ Selling_0_Cost 200
 
 // 20mm - AP (clip)
 Selling_1_ID 40401
-Selling_1_Cost 150
+Selling_1_Cost 80
 
 // 20mm - HE (clip)
 Selling_2_ID 40402
-Selling_2_Cost 150
+Selling_2_Cost 80
 
 // 37mm - AP
 Selling_3_ID 40501
@@ -115,6 +115,15 @@ Selling_12_Cost 150
 // Quad box
 Selling_13_ID 30054
 Selling_13_Cost 200
+
+// 90mm AP
+Selling_14_ID 40811
+Selling_14_Cost 80
+
+// 90mm HE
+Selling_15_ID 40812
+Selling_15_Cost 80
+
 
 
 

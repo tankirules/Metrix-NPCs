@@ -5,23 +5,23 @@ ID 32829
 Buying 5
 // 20mm-Bullet
 Buying_0_ID 41301
-Buying_0_Cost 100
+Buying_0_Cost 10
 
 // 7.7mm-Bullet
 Buying_1_ID 41201
-Buying_1_Cost 125
+Buying_1_Cost 12
 
 // 500kg-4-Bombs
 Buying_2_ID 41501
-Buying_2_Cost 600
+Buying_2_Cost 60
 
 // 1000kg-1-Bomb
 Buying_3_ID 41401
-Buying_3_Cost 250
+Buying_3_Cost 25
 
 // 7.7mm x150
 Buying_4_ID 41203
-Buying_4_Cost 100
+Buying_4_Cost 10
 
 Selling 7
 
@@ -31,7 +31,7 @@ Selling_0_Cost 250
 
 // 500kg Bombs
 Selling_1_ID 41501
-Selling_1_Cost 750
+Selling_1_Cost 450
 
 // .50cal Box
 Selling_2_ID 30057
@@ -51,7 +51,7 @@ Selling_5_Cost 150
 
 // 1000kg bomb
 Selling_6_ID 41401
-Selling_6_Cost 500
+Selling_6_Cost 300
 
 
 

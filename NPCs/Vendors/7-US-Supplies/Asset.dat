@@ -20,10 +20,10 @@ Buying_4_ID 28
 Buying_4_Cost 200
 // 10 metal scrap
 Buying_5_ID 49101
-Buying_5_Cost 50
+Buying_5_Cost 100
 //100 metal scrap
 Buying_6_ID 49102
-Buying_6_Cost 100
+Buying_6_Cost 1000
 //maple 10 log
 Buying_7_ID 49117
 Buying_7_Cost 250

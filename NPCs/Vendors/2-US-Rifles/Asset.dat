@@ -2,125 +2,83 @@ GUID 3c46712c350547b5b19d6af1962e6e01
 Type Vendor
 ID 32815
 
-Buying 11
+Buying 5
 // Luger P08
 Buying_0_ID 24008
 Buying_0_Cost 100
 
-// Walther P38
-Buying_1_ID 9840
-Buying_1_Cost 25
+// Carcano
+Buying_1_ID 30034
+Buying_1_Cost 10
 
-// Carcano 
-Buying_2_ID 30034 
+// Kar98
+Buying_2_ID 24006
 Buying_2_Cost 10
 
-// Walther PPK
-Buying_3_ID 9848
-Buying_3_Cost 125
-
-// kar98k
-Buying_4_ID 30026
-Buying_4_Cost 10
-
-// Manlicher M1895
-Buying_5_ID 9875
-Buying_5_Cost 10
-
-// Arisaka Type 99
-Buying_6_ID 9919
-Buying_6_Cost 10
-
-// Gewehr
-Buying_7_ID 9888
-Buying_7_Cost 15
+// Gewehr 43
+Buying_3_ID 24007
+Buying_3_Cost 15
 
 // double barrel
-Buying_8_ID 30079
-Buying_8_Cost 15
-
-// 20 gauge
-Buying_9_ID 381
-Buying_9_Cost 5
-
-// Fg42
-Buying_10_ID 30062
-Buying_10_Cost 200
+Buying_4_ID 30079
+Buying_4_Cost 15
 
 
-Selling 18
 
-// Webley MKIV Revolver
-Selling_0_ID 9844
-Selling_0_Cost 500
+Selling 14
 
-// Browning Hi-Power
-Selling_1_ID 9830
-Selling_1_Cost 350
+// Tokarev T33
+Selling_0_ID 24002
+Selling_0_Cost 350
+// Tokarev Mag
+Selling_1_ID 24102
+Selling_1_Cost 5
 
-// Tokarev T-33
-Selling_2_ID 9842
+// M1 Carbine
+Selling_2_ID 19101
 Selling_2_Cost 200
+// Carbine Mag
+Selling_3_ID 19151
+Selling_3_Cost 5
 
-// Mosin Nagant
-Selling_3_ID  9912
-Selling_3_Cost 50
+// M1 Carbine Para
+Selling_4_ID 19102
+Selling_4_Cost 200
 
-// Springfield M1903
-Selling_4_ID 30028
-Selling_4_Cost 50
+// Mosin
+Selling_5_ID 24000
+Selling_5_Cost 50
+// Mosin Mag
+Selling_6_ID 24100
+Selling_6_Cost 5
+
+// Springfield
+Selling_7_ID 19105
+Selling_7_Cost 50
+// Springfield Mag
+Selling_8_ID 19154
+Selling_8_Cost 5
 
 // M1 Garand
-Selling_5_ID 9892
-Selling_5_Cost 125
-
-// Lee Enfield
-Selling_6_ID 30037
-Selling_6_Cost 50
-
-// webley ammo
-Selling_7_ID 9845
-Selling_7_Cost 30
-
-// Hipower mag
-Selling_8_ID 9831
-Selling_8_Cost 20
-
-// tokarev mag
-Selling_9_ID 9843
-Selling_9_Cost 20
-
-// mosin clip
-Selling_10_ID 9913
+Selling_9_ID 19104
+Selling_9_Cost 125
+// M1 Garand Mag
+Selling_10_ID 19153
 Selling_10_Cost 5
 
-// springfield clip
-Selling_11_ID 30029
-Selling_11_Cost 5
-
-// m1 clip
-Selling_12_ID 9893
-Selling_12_Cost 15
-
-// enfield mag
-Selling_13_ID 30031
-Selling_13_Cost 10
-
 // trench gun
-Selling_14_ID 30078
-Selling_14_Cost 400
+Selling_11_ID 30078
+Selling_11_Cost 400
+// trench gun Mag
+Selling_12_ID 113
+Selling_12_Cost 5
 
-// 12 gauge
-Selling_15_ID 113
-Selling_15_Cost 10
+// Springfield Mag Old
+Selling_13_ID 30029
+Selling_13_Cost 5
 
-// M2 Carbine
-Selling_16_ID 30058
-Selling_16_Cost 550
 
-// Carbine Mag
-Selling_17_ID 30059
-Selling_17_Cost 20
+
 
 
 

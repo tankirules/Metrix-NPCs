@@ -58,7 +58,7 @@ Buying_12_Cost 75
 Buying_13_ID 42101
 Buying_13_Cost 25
 
-Selling 15
+Selling 17
 
 // LMG Clip
 Selling_0_ID 40001
@@ -106,11 +106,11 @@ Selling_10_Cost 200
 
 // 20mm ap
 Selling_11_ID 40401
-Selling_11_Cost 150
+Selling_11_Cost 80
 
 // 20mm he
 Selling_12_ID 40402
-Selling_12_Cost 150
+Selling_12_Cost 80
 
 // Quad box
 Selling_13_ID 30054
@@ -119,4 +119,12 @@ Selling_13_Cost 200
 // HMG-Box
 Selling_14_ID 40101
 Selling_14_Cost 150
+
+// 90mm AP
+Selling_15_ID 40811
+Selling_15_Cost 80
+
+// 90mm HE
+Selling_16_ID 40812
+Selling_16_Cost 80
 

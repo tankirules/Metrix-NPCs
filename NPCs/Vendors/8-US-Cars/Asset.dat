@@ -2,11 +2,11 @@ GUID d036b8bf33fd4f3e87785474c32f3ecf
 Type Vendor
 ID 32821
 
-Selling 15
+Selling 13
 
-// M3 ScoutCar
-Selling_0_ID 43020
-Selling_0_Cost 1000
+// GAZ-60
+Selling_0_ID 29204
+Selling_0_Cost 450
 
 // 61-K
 Selling_1_ID 29208
@@ -16,16 +16,16 @@ Selling_1_Cost 1000
 Selling_2_ID 30051
 Selling_2_Cost 1500
 
-// M-5 AT Gun
-Selling_3_ID 22401
+// M1937 AT
+Selling_3_ID 29209
 Selling_3_Cost 500
 
 // Willy's Jeep
-Selling_4_ID 22000
+Selling_4_ID 19601
 Selling_4_Cost 300
 
 // Willy's Jeep [Mounted]
-Selling_5_ID 22001
+Selling_5_ID 19602
 Selling_5_Cost 400
 
 // 42WLA
@@ -36,33 +36,27 @@ Selling_6_Cost 100
 Selling_7_ID 29211
 Selling_7_Cost 200
 
-// 6 X 6 Truck
-Selling_8_ID 22002
+// CCKW
+Selling_8_ID 19603
 Selling_8_Cost 350
 
 // M3 Halftrack
-Selling_9_ 22005
+Selling_9_ 19606
 Selling_9_Cost 900
 
 // M16 MGMC
-Selling_10_ID 43026
+Selling_10_ID 19604
 Selling_10_Cost 1500
 
-// M8 Greyhound
-Selling_11_ID 22006
+// BA10
+Selling_11_ID 29213
 Selling_11_Cost 1800
 
-// M3 GMC
-Selling_12_ID 42010
-Selling_12_Cost 3000
-
 // Field MG
-Selling_13_ID 34201
-Selling_13_Cost 1500
+Selling_12_ID 34201
+Selling_12_Cost 1500
 
-// T-20 Komsomolez
-Selling_14_ID 29212
-Selling_14_Cost 1800
+
 
 
 

@@ -1,129 +1,79 @@
 GUID e1bad118459a42d580d1968c646d7235
 Type Vendor
 ID 32801
-Buying 10
-// Webley MKIV Revolver
-Buying_0_ID 9844
-Buying_0_Cost 125
+Buying 7
+// Tokarev T33
+Buying_0_ID 24002
+Buying_0_Cost 100
 
-// Browning Hi-Power
-Buying_1_ID 9830
-Buying_1_Cost 100
+// M1 Carbine
+Buying_1_ID 19101
+Buying_1_Cost 50
 
-// Tokarev
-Buying_2_ID 9842
-Buying_2_Cost 25
+// M1 Carbine Para
+Buying_2_ID 19102
+Buying_2_Cost 50
 
-// Mosin Nagant
-Buying_3_ID  9912
+// Mosin
+Buying_3_ID 24000
 Buying_3_Cost 10
 
-// Springfield M1903
-Buying_4_ID 30028
+// Springfield
+Buying_4_ID 19105
 Buying_4_Cost 10
 
 // M1 Garand
-Buying_5_ID 9892
+Buying_5_ID 19104
 Buying_5_Cost 15
 
-// Lee Enfield
-Buying_6_ID 30037
-Buying_6_Cost 10
-
 // trench gun
-Buying_7_ID 30078
-Buying_7_Cost 15
-
-// 12 gauge
-Buying_8_ID 113
-Buying_8_Cost 5
-
-// M2 Carbine
-Buying_9_ID 30058
-Buying_9_Cost 200
+Buying_6_ID 30078
+Buying_6_Cost 15
 
 
-Selling 20
+Selling 11
 
 // Luger P08
 Selling_0_ID 24008
 Selling_0_Cost 350
-
-// Walther P38
-Selling_1_ID 9840
-Selling_1_Cost 200
+// Luger Mag
+Selling_1_ID 24108
+Selling_1_Cost 5
 
 // Carcano 
 Selling_2_ID 30034 
 Selling_2_Cost 50
-
-// Walther PPK
-Selling_3_ID 9848
-Selling_3_Cost 500
+// Carcano Clip
+Selling_3_ID 30035
+Selling_3_Cost 5
 
 // Mauser Gewehr 98
-Selling_4_ID 30026
+Selling_4_ID 24006
 Selling_4_Cost 50
-
-// Manlicher M1895
-Selling_5_ID 9875
-Selling_5_Cost 50
-
-// Arisaka Type 99
-Selling_6_ID 9919
-Selling_6_Cost 50
+// Mauser Gewehr 98 clip
+Selling_5_ID 24106
+Selling_5_Cost 5
 
 // Gewehr
-Selling_7_ID 9888
-Selling_7_Cost 125
+Selling_6_ID 24007
+Selling_6_Cost 125
+// Gewehr mag
+Selling_7_ID 24107
+Selling_7_Cost 5
 
-//Kar98 Clip 
+
+//Kar98 Clip Old
 Selling_8_ID 30027
 Selling_8_Cost 5
 
-// P38 Mag
-Selling_9_ID 9841
-Selling_9_Cost 20
-
-// PPK Mag
-Selling_10_ID 9849
-Selling_10_Cost 20
-
-// Luger Mag
-Selling_11_ID 24108
-Selling_11_Cost 20
-
-// Mannlicher Clip
-Selling_12_ID 9876
-Selling_12_Cost 5
-
-// Arisaka Clip
-Selling_13_ID 9920
-Selling_13_Cost 5
-
-// G43 Mag
-Selling_14_ID 9889
-Selling_14_Cost 15
-
-// Carcano Clip
-Selling_15_ID 30035
-Selling_15_Cost 5
-
 // double barrel
-Selling_16_ID 30079
-Selling_16_Cost 400
-
+Selling_9_ID 30079
+Selling_9_Cost 400
 // 20 gauge
-Selling_17_ID 381
-Selling_17_Cost 10
+Selling_10_ID 381
+Selling_10_Cost 5
 
-// FG42 R
-Selling_18_ID 30062
-Selling_18_Cost 1000
 
-// FG42 MagR
-Selling_19_ID 30063
-Selling_19_Cost 20
 
 
 

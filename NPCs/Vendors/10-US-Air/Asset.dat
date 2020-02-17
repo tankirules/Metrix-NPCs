@@ -2,43 +2,31 @@ GUID fd30cbf2054e4d9a9b51bdf236013af5
 Type Vendor
 ID 32823
 
-Selling 10
+Selling 7
 // C-47 Skytrain
-Selling_0_ID 30060
-Selling_0_Cost 5000
+Selling_0_ID 19656
+Selling_0_Cost 3000
 
-// P-26 Peashooter
-Selling_1_ID 43102
-Selling_1_Cost 1000
+// Mustang
+Selling_1_ID 19651
+Selling_1_Cost 4500
 
-// P-39
-Selling_2_ID 34014
+// P-38 Lightning
+Selling_2_ID 19652
 Selling_2_Cost 3000
 
-// Hurricane 
-Selling_3_ID 30047
-Selling_3_Cost 2500
-
-// Spitfire
-Selling_4_ID 30045
-Selling_4_Cost 3500
-
-// Typhoon
-Selling_5_ID 30046
-Selling_5_Cost 3500
-
 // B-25
-Selling_6_ID 30048
-Selling_6_Cost 10000
+Selling_3_ID 19654
+Selling_3_Cost 10000
 
 // Dauntless
-Selling_7_ID 30044
-Selling_7_Cost 1500
+Selling_4_ID 19653
+Selling_4_Cost 4000
 
 // il-2 3m
-Selling_8_ID 29251
-Selling_8_Cost 4000
+Selling_5_ID 29251
+Selling_5_Cost 4000
 
 // Boeing B-29 Superfortress
-Selling_9_ID 24504
-Selling_9_Cost 15000
+Selling_6_ID 24504
+Selling_6_Cost 15000

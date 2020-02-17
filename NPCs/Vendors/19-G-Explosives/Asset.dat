@@ -1,9 +1,9 @@
 GUID 1610385e24394fcb99dac3793f555218
 Type Vendor
 ID 32803
-Buying 12
+Buying 11
 // M1 Bazooka
-Buying_0_ID 24017
+Buying_0_ID 19109
 Buying_0_Cost 5000
 // prec
 Buying_1_ID 1393
@@ -11,58 +11,55 @@ Buying_1_Cost 50
 // mk ii grenade
 Buying_2_ID 59553
 Buying_2_Cost 50
-// mk ii mine
-Buying_3_ID 59555
-Buying_3_Cost 150
-// SAA
-Buying_4_ID 9834
-Buying_4_Cost 300
-// Welrod MKI
-Buying_5_ID 9878
-Buying_5_Cost 700
-// Donowitz Sawed off
-Buying_6_ID 9928
-Buying_6_Cost 500
+// M19 mine
+Buying_3_ID 34705
+Buying_3_Cost 100
+// m7 mine
+Buying_4_ID 34704
+Buying_4_Cost 100
+// remote charge
+Buying_5_ID 34706
+Buying_5_Cost 50
 // Sticky nade
-Buying_7_ID 41643
-Buying_7_Cost 200
+Buying_6_ID 41643
+Buying_6_Cost 200
 // M2A3 mine
-Buying_8_ID 41647
-Buying_8_Cost 150
+Buying_7_ID 41647
+Buying_7_Cost 150
 // M1A1 At mine
-Buying_9_ID 41645
-Buying_9_Cost 100
+Buying_8_ID 34703
+Buying_8_Cost 100
 // detonator
-Buying_10_ID 1240
-Buying_10_Cost 500
+Buying_9_ID 1240
+Buying_9_Cost 500
 // demo
-Buying_11_ID 1241
-Buying_11_Cost 50
+Buying_10_ID 1241
+Buying_10_Cost 50
 
 
 
-Selling 10
+Selling 12
 
 // Tellermine
-Selling_0_ID 41644
-Selling_0_Cost 400
+Selling_0_ID 34702
+Selling_0_Cost 600
 
 
 // PzSchreck Rocket
 Selling_1_ID 24115
-Selling_1_Cost 500
+Selling_1_Cost 750
 
 // Panzerschreck 
 Selling_2_ID 24015
-Selling_2_Cost 6000
+Selling_2_Cost 7500
 
 // Stielhandgranate
 Selling_3_ID 24011
 Selling_3_Cost 100
 
-// s mine
-Selling_4_ID 59554
-Selling_4_Cost 300
+// SchuMine
+Selling_4_ID 34700
+Selling_4_Cost 350
 
 // Demo-charge
 Selling_5_ID 1241
@@ -78,9 +75,17 @@ Selling_7_Cost 1500
 
 // Sticky nade H3
 Selling_8_ID 41642
-Selling_8_Cost 350
+Selling_8_Cost 700
 
 // S-mine v2
 Selling_9_ID 41646
 Selling_9_Cost 300
+
+// Holzmine
+Selling_10_ID 34701
+Selling_10_Cost 300
+
+// remote charge
+Selling_11_ID 34706
+Selling_11_Cost 300
 

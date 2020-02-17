@@ -4,57 +4,57 @@ ID 32827
 Buying 4
 // 20mm-Bullet
 Buying_0_ID 41301
-Buying_0_Cost 100
+Buying_0_Cost 10
 // 127mm-AP-Shell
 Buying_1_ID 41601
-Buying_1_Cost 75
+Buying_1_Cost 7
 // 127mm-HE-Shell
 Buying_2_ID 41602
-Buying_2_Cost 75
+Buying_2_Cost 7
 // Torpedo
 Buying_3_ID 41701
-Buying_3_Cost 150
+Buying_3_Cost 15
 
 Selling 10
 // 37mm - AC
 Selling_0_ID 40201
-Selling_0_Cost 150
+Selling_0_Cost 15
 
 // 40mm AA Box
 Selling_1_ID 42701
-Selling_1_Cost 200
+Selling_1_Cost 20
 
 // .50Cal - Dual
 Selling_2_ID 42631
-Selling_2_Cost 200
+Selling_2_Cost 20
 
 // 20mm X 150
 Selling_3_ID 41301
-Selling_3_Cost 150
+Selling_3_Cost 15
 
 // Torpedo
 Selling_4_ID 41701
-Selling_4_Cost 500
+Selling_4_Cost 50
 
 // 127mm - AP
 Selling_5_ID 41601
-Selling_5_Cost 100
+Selling_5_Cost 30
 
 // 127mm - HE
 Selling_6_ID 41602
-Selling_6_Cost 100
+Selling_6_Cost 30
 
 //127mm AP artillery
 Selling_7_ID 30092
-Selling_7_Cost 100
+Selling_7_Cost 30
 
 //127mm HE artillery
 Selling_8_ID 30093
-Selling_8_Cost 100
+Selling_8_Cost 30
 
 //artillery dual 50 cal
 Selling_9_ID 30101
-Selling_9_Cost 100
+Selling_9_Cost 30
 
 
 

@@ -5,7 +5,7 @@ ID 32818
 Buying 3
 // Detonator
 Buying_0_ID 1240
-Buying_0_Cost 875
+Buying_0_Cost 500
 // Camp-axe
 Buying_1_ID 16
 Buying_1_Cost 50
@@ -13,7 +13,7 @@ Buying_1_Cost 50
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 18
+Selling 20
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -46,7 +46,7 @@ Selling_9_ID 47134
 Selling_9_Cost 2500
 //fueltank
 Selling_10_ID 1229
-Selling_10_Cost 30000
+Selling_10_Cost 3000
 // Handcuffs
 Selling_11_ID 1195
 Selling_11_Cost 50
@@ -68,4 +68,10 @@ Selling_16_Cost 5000
 // Headlamp
 Selling_17_ID 1199
 Selling_17_Cost 150
+// Bush
+Selling_18_ID 34707
+Selling_18_Cost 200
+// Climbing rope
+Selling_19_ID 34708
+Selling_19_Cost 200
 

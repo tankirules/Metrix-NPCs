@@ -2,7 +2,7 @@ GUID 5901383a-3f5f-46b9-a14d-7f6f37dd7af2
 Type Vendor
 ID 32808
 
-Selling 9
+Selling 8
 
 // Pz - II 
 Selling_0_ID 29005
@@ -36,6 +36,3 @@ Selling_6_Cost 3500
 Selling_7_ID 30050
 Selling_7_Cost 5000
 
-// Carro Armato P40
-Selling_8_ID 42003
-Selling_8_Cost 4000
