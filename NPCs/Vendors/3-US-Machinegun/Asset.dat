@@ -30,7 +30,7 @@ Buying_5_Cost 400
 Buying_6_ID 30096
 Buying_6_Cost 400
 
-Selling 15
+Selling 17
 // Johnson lmg
 Selling_0_ID 19111
 Selling_0_Cost 1000
@@ -84,4 +84,10 @@ Selling_13_Cost 30
 // Bren100
 Selling_14_ID 30077
 Selling_14_Cost 50
+//sten
+Selling_15_ID 30113
+Selling_15_Cost 500
+//sten mag
+Selling_16_ID 30113
+Selling_16_Cost 10
 

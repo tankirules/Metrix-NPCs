@@ -2,7 +2,7 @@ GUID 3c46712c350547b5b19d6af1962e6e01
 Type Vendor
 ID 32815
 
-Buying 5
+Buying 7
 // Luger P08
 Buying_0_ID 24008
 Buying_0_Cost 100
@@ -22,6 +22,14 @@ Buying_3_Cost 15
 // double barrel
 Buying_4_ID 30079
 Buying_4_Cost 15
+
+// descout
+Buying_5_ID 30038
+Buying_5_Cost 150
+
+// desniperplus
+Buying_6_ID 30098
+Buying_6_Cost 300
 
 
 

@@ -1,7 +1,7 @@
 GUID 5df4b40f52cd4cac9165400adb315db5
 Type Vendor
 ID 32802
-Buying 7
+Buying 8
 // Thompson M1A1
 Buying_0_ID 19100
 Buying_0_Cost 200
@@ -29,6 +29,9 @@ Buying_5_Cost 400
 // Johnson
 Buying_6_ID 19111
 Buying_6_Cost 200
+// sten
+Buying_7_ID 30113
+Buying_7_Cost 150
 
 Selling 13
 

@@ -1,7 +1,7 @@
 GUID e1bad118459a42d580d1968c646d7235
 Type Vendor
 ID 32801
-Buying 7
+Buying 9
 // Tokarev T33
 Buying_0_ID 24002
 Buying_0_Cost 100
@@ -29,6 +29,14 @@ Buying_5_Cost 15
 // trench gun
 Buying_6_ID 30078
 Buying_6_Cost 15
+
+// usscout
+Buying_7_ID 30039
+Buying_7_Cost 150
+
+// ussniperplus
+Buying_8_ID 30099
+Buying_8_Cost 300
 
 
 Selling 11
