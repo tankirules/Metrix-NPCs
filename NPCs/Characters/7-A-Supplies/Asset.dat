@@ -2,13 +2,13 @@ GUID a75d8da03e0b467cbd5bdaf85078f40b
 Type NPC
 ID 32020
 
-Shirt 32008
-Pants 32015
-Hat 31001
-Vest 31002
-Backpack 31003
+Shirt 19308
+Pants 19314
+Hat 19544
+Vest 19545
+Backpack 19510
 
-Primary 14437
+Primary 19111
 
 Face 22
 Hair 19
