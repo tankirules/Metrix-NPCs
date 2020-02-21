@@ -73,8 +73,6 @@ Selling_10_Cost 500
 Selling_11_ID 19162
 Selling_11_Cost 10
 
-
-
 // Bren
 Selling_12_ID 30075
 Selling_12_Cost 1300
@@ -84,6 +82,7 @@ Selling_13_Cost 30
 // Bren100
 Selling_14_ID 30077
 Selling_14_Cost 50
+
 //sten
 Selling_15_ID 30113
 Selling_15_Cost 500
