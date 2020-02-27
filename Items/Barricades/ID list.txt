@@ -1,4 +1,4 @@
--Spawner ID-
+﻿-Spawner ID-
 -German Ground-
 Kubelwagen - 29000
 Kubelwagen-mg - 29001
@@ -26,9 +26,10 @@ Bf-109 F - 29050
 Ju-87 - 29051
 Ju-88 - 29052
 
+
 BF110 - 29053
 JU-88P - 29054
-
+ju52 29055
 -German Naval-
 S-38 - 29100
 German 1934 Class Destroyer - 29101
