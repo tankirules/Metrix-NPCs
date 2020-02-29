@@ -9,15 +9,15 @@ Selling_0_Cost 3000
 
 // Mustang
 Selling_1_ID 19651
-Selling_1_Cost 4500
+Selling_1_Cost 3250
 
 // P-38 Lightning
 Selling_2_ID 19652
-Selling_2_Cost 3000
+Selling_2_Cost 2500
 
 // B-25
 Selling_3_ID 19654
-Selling_3_Cost 10000
+Selling_3_Cost 8000
 
 // Dauntless
 Selling_4_ID 19653
@@ -29,4 +29,4 @@ Selling_5_Cost 4000
 
 // Boeing B-29 Superfortress
 Selling_6_ID 24504
-Selling_6_Cost 15000
+Selling_6_Cost 10000
