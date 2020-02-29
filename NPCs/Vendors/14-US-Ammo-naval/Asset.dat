@@ -15,7 +15,7 @@ Buying_2_Cost 7
 Buying_3_ID 41701
 Buying_3_Cost 15
 
-Selling 10
+Selling 11
 // 37mm - AC
 Selling_0_ID 40201
 Selling_0_Cost 15
@@ -55,6 +55,10 @@ Selling_8_Cost 30
 //artillery dual 50 cal
 Selling_9_ID 30101
 Selling_9_Cost 30
+
+// 40mmac 
+Selling_10_ID 40211
+Selling_10_Cost 20
 
 
 
