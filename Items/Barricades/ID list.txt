@@ -35,7 +35,7 @@ S-38 - 29100
 German 1934 Class Destroyer - 29101
 Marinefährprahm  - [29102]
 
--AlliedGround-
+-Soviet Ground-
 Gaz-67 - 29200
 Gaz-67-mg - 29201
 ZIS-5 - 29202
@@ -55,10 +55,10 @@ BA-10 - 29213
 t-26 29214
 t-34 winter 29215
 su-76 29216
-m26 pershing 29217
-ba-11 29218
 
--Allied Air-
+
+
+-Soviet Air-
 LaGG-3 - 29250
 IL-2 - 29251
 Tu-2 - 29252
@@ -67,7 +67,7 @@ Pe-3 - 29253
 IL2 3M - 29254
 
 
--Allied Naval-
+-Soviet Naval-
 G-5 - 29300
 Gnevny - 29301
 Db-165 [29302]

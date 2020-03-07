@@ -1,9 +1,9 @@
-GUID f75b69c60f6f49789351f615107ac970
+GUID 342d001a596a4d7bbca84548f1807f99
 Type Barricade
 Rarity Epic
 Useable Barricade
 Build Vehicle
-ID 29055
+ID 21206
 
 Size_X 1
 Size_Y 2
@@ -13,6 +13,6 @@ Range 8
 Radius 0.5
 Offset 1.25
 
-Explosion 21206
+Explosion 21207
 
 Bypass_Hash_Verification
