@@ -2,7 +2,7 @@ GUID 7e2c4f0827c049afa48e4923c943ae9c
 Type Vendor
 ID 32824
 
-Selling 4
+Selling 6
 //Fletcher
 Selling_0_ID 22303
 Selling_0_Cost 5000
@@ -18,3 +18,11 @@ Selling_2_Cost 1000
 //Fletcher artillery
 Selling_3_ID 30080
 Selling_3_Cost 7000
+
+//sub chaser
+Selling_4_ID 19688
+Selling_4_Cost 3500
+
+//navy dauntless
+Selling_5_ID 19687
+Selling_5_Cost 4000
