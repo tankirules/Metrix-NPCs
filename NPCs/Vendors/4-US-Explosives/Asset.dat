@@ -2,7 +2,7 @@ GUID 2289d53b5a624dfa81c89282c0e192bd
 Type Vendor
 ID 32817
 
-Buying 11
+Buying 12
 // Tellermine
 Buying_0_ID 34702
 Buying_0_Cost 100
@@ -36,10 +36,13 @@ Buying_9_Cost 50
 // prec
 Buying_10_ID 1393
 Buying_10_Cost 50
+// Panzerbüchse
+Buying_11_ID 24012
+Buying_11_Cost 1000
 
 
 
-Selling 12
+Selling 16
 // M1 Bazooka
 Selling_0_ID 19109
 Selling_0_Cost 7500
@@ -76,6 +79,17 @@ Selling_10_Cost 600
 // remote charge
 Selling_11_ID 34706
 Selling_11_Cost 300
-
+// HE Mortar
+Selling_12_ID 30110
+Selling_12_Cost 300
+// Rifle nade
+Selling_13_ID 24200
+Selling_13_Cost 100
+// Ptrs
+Selling_14_ID 24013
+Selling_14_Cost 3000
+// Ptrs mag
+Selling_15_ID 24113
+Selling_15_Cost 75
 
 

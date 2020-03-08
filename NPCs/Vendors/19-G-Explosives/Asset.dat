@@ -1,7 +1,7 @@
 GUID 1610385e24394fcb99dac3793f555218
 Type Vendor
 ID 32803
-Buying 11
+Buying 12
 // M1 Bazooka
 Buying_0_ID 19109
 Buying_0_Cost 5000
@@ -35,10 +35,12 @@ Buying_9_Cost 500
 // demo
 Buying_10_ID 1241
 Buying_10_Cost 50
+// Ptrs
+Buying_11_ID 24013
+Buying_11_Cost 1500
 
 
-
-Selling 12
+Selling 16
 
 // Tellermine
 Selling_0_ID 34702
@@ -89,3 +91,18 @@ Selling_10_Cost 300
 Selling_11_ID 34706
 Selling_11_Cost 300
 
+// HE Mortar
+Selling_12_ID 30110
+Selling_12_Cost 300
+
+// Rifle nade
+Selling_13_ID 24206
+Selling_13_Cost 100
+
+// Panzerbüchse
+Selling_14_ID 24012
+Selling_14_Cost 4500
+
+// Panzerbüchse Round
+Selling_15_ID 24112
+Selling_15_Cost 80

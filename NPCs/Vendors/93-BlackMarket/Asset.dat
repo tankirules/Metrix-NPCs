@@ -3,122 +3,83 @@ GUID abc480c7407b4805a24763c096bf4f84
 Type Vendor
 ID 30831
 
-Buying 11
+Buying 5
 
 // Gasmask
-Buying_1_ID 1270
-Buying_1_Cost 10000
+Buying_0_ID 1270
+Buying_0_Cost 10000
+
+// Scoped springfield
+Buying_1_ID 30039
+Buying_1_Cost 800
 
 // Flamethrower
-Buying_2_ID 3056
+Buying_2_ID 34709
 Buying_2_Cost 3000
 
 // Mortar
-Buying_3_ID 14575
-Buying_3_Cost 5000
-
-// SMLE Mk.3
-Buying_4_ID 15271
-Buying_4_Cost 2000
-
-// Donowitz Sawed off
-Buying_5_ID 9928
-Buying_5_Cost 500
-
-// Pattons SAA
-Buying_6_ID 9834
-Buying_6_Cost 200
-
-// Welrod
-Buying_7_ID 9878
-Buying_7_Cost 1000
-
-// Liberator
-Buying_8_ID 9925
-Buying_8_Cost 200
+Buying_3_ID 30109
+Buying_3_Cost 2000
 
 // Scoped kar
-Buying_9_ID 30038
-Buying_9_Cost 800
-
-// Scoped springfield
-Buying_10_ID 30039
-Buying_10_Cost 800
+Buying_4_ID 30038
+Buying_4_Cost 800
 
 
-Selling 18
+Selling 13
 
 // Gasmask
 Selling_0_ID 1270
-Selling_0_Cost 50000
+Selling_0_Cost 100000
 
 // Scoped springfield
 Selling_1_ID 30039
-Selling_1_Cost 30000
+Selling_1_Cost 10000
 
 // Flamethrower
-Selling_2_ID 3056
-Selling_2_Cost 80000
+Selling_2_ID 34709
+Selling_2_Cost 8000
 
 // NapalmTank
-Selling_3_ID 3057
-Selling_3_Cost 8000
+Selling_3_ID 34710
+Selling_3_Cost 800
 
 // Mortar
-Selling_4_ID 14575
-Selling_4_Cost 50000
+Selling_4_ID 30109
+Selling_4_Cost 15000
 
 // HE Mortar
-Selling_5_ID 14576
-Selling_5_Cost 5000
+Selling_5_ID 30110
+Selling_5_Cost 1000
 
-// Sten Mk.2
-Selling_6_ID 15271
-Selling_6_Cost 5000
-
-// Sten Mag
-Selling_7_ID 14216
-Selling_7_Cost 200
-
-// Donowitz Sawed off
-Selling_8_ID 9928
-Selling_8_Cost 1500
-
-// Slug Shells
-Selling_9_ID 9929
-Selling_9_Cost 30
-
-// Pattons SAA
-Selling_10_ID 9834
-Selling_10_Cost 800
-
-// SAA Rounds
-Selling_11_ID 9835
-Selling_11_Cost 15
-
-// Welrod
-Selling_12_ID 9878
-Selling_12_Cost 1200
-
-// Welrod Mag
-Selling_13_ID 9879
-Selling_13_Cost 15
-
-// Liberator
-Selling_14_ID 9925
-Selling_14_Cost 500
-
-// Liberator Round
-Selling_15_ID 9926
-Selling_15_Cost 5
-
-// Pushing Nade
-Selling_16_ID 34500
-Selling_16_Cost 75
+// Filter
+Selling_6_ID 1271
+Selling_6_Cost 100
 
 // Scoped kar
-Selling_17_ID 30038
-Selling_17_Cost 30000
+Selling_7_ID 30038
+Selling_7_Cost 10000
+
+// Sportshot
+Selling_8_ID 484
+Selling_8_Cost 50
+
+// Sportshot Mag
+Selling_9_ID 485 
+Selling_9_Cost 5
+
+// WC
+Selling_10_ID 47178
+Selling_10_Cost 4000
+
+// Ale Barrel
+Selling_11_ID 42241
+Selling_11_Cost 800
+
+// Mead Barrel
+Selling_12_ID 42242
+Selling_12_Cost 800
+
 
 
 
