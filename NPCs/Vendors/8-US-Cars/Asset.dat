@@ -4,9 +4,9 @@ ID 32821
 
 Selling 13
 
-// GAZ-60
-Selling_0_ID 29204
-Selling_0_Cost 450
+// M4 Tractor
+Selling_0_ID 19607
+Selling_0_Cost 550
 
 // 61-K
 Selling_1_ID 29208
@@ -42,14 +42,14 @@ Selling_8_Cost 275
 
 // M3 Halftrack
 Selling_9_ 19606
-Selling_9_Cost 550
+Selling_9_Cost 450
 
 // M16 MGMC
 Selling_10_ID 19604
 Selling_10_Cost 1500
 
-// BA10
-Selling_11_ID 29213
+// M8 Greyhound
+Selling_11_ID 19609
 Selling_11_Cost 1200
 
 // Field MG
