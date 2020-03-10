@@ -38,9 +38,9 @@ Selling_6_Cost 3500
 Selling_7_ID 30050
 Selling_7_Cost 5000
 
-// Carro Armato P40
-Selling_8_ID 42003
-Selling_8_Cost 4000
+// StuGIV
+Selling_8_ID RANDOM PLS MAKE
+Selling_8_Cost 3800
 
 // Tiger 1
 Selling_9_ID 34906
