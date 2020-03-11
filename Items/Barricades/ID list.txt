@@ -19,6 +19,7 @@ Sd.Kfz.222 37mm - 29013
 pz.iii - 29014
 pziv winter - 29015
 hetzer - 29016
+stug IV 29017
 
 
 -German Air-
