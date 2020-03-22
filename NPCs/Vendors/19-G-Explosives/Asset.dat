@@ -40,69 +40,33 @@ Buying_11_ID 24013
 Buying_11_Cost 1500
 
 
-Selling 16
-
-// Tellermine
-Selling_0_ID 34702
-Selling_0_Cost 600
-
-
-// PzSchreck Rocket
-Selling_1_ID 24115
-Selling_1_Cost 750
-
-// Panzerschreck 
-Selling_2_ID 24015
-Selling_2_Cost 7500
-
-// Stielhandgranate
-Selling_3_ID 24011
-Selling_3_Cost 100
-
-// SchuMine
-Selling_4_ID 34700
-Selling_4_Cost 200
-
-// Demo-charge
-Selling_5_ID 1241
-Selling_5_Cost 250
-
-// Precision-charge
-Selling_6_ID 1393
-Selling_6_Cost 150
-
-// Detonator
-Selling_7_ID 1240
-Selling_7_Cost 1500
-
-// Sticky nade H3
-Selling_8_ID 41642
-Selling_8_Cost 700
-
-// S-mine v2
-Selling_9_ID 41646
-Selling_9_Cost 300
-
-// Holzmine
-Selling_10_ID 34701
-Selling_10_Cost 300
-
-// remote charge
-Selling_11_ID 34706
-Selling_11_Cost 300
-
-// HE Mortar
-Selling_12_ID 30110
-Selling_12_Cost 300
-
-// Rifle nade
-Selling_13_ID 24206
-Selling_13_Cost 100
-
-// Panzerbüchse
-Selling_14_ID 24012
-Selling_14_Cost 4500
+Selling 7
 
 // Panzerbüchse Round
-Selling_15_ID 24112
-Selling_15_Cost 80
+Selling_0_ID 24112
+Selling_0_Cost 80
+
+// Panzerschreck 
+Selling_1_ID 24015
+Selling_1_Cost 7500
+
+// Stielhandgranate
+Selling_2_ID 24011
+Selling_2_Cost 100
+
+// SchuMine
+Selling_3_ID 34700
+Selling_3_Cost 200
+
+// Detonator
+Selling_4_ID 1240
+Selling_4_Cost 1500
+
+// Rifle nade
+Selling_5_ID 24206
+Selling_5_Cost 100
+
+// Panzerbüchse
+Selling_6_ID 24012
+Selling_6_Cost 4500
+
