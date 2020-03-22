@@ -1,0 +1,36 @@
+Currency 27e039ef60d54fc69714c72d2c9582ba
+Type Vendor
+ID 42808
+
+
+
+Selling 7
+// Pz - IV F2
+Selling_0_ID 29006
+Selling_0_Cost 3
+
+// Panther
+Selling_1_ID 18940
+Selling_1_Cost 6
+
+// Tiger - 1
+Selling_2_ID 29007
+Selling_2_Cost 8
+
+// Tiger - 2
+Selling_3_ID 24500
+Selling_3_Cost 10
+
+// Wirbelwind
+Selling_4_ID 30050
+Selling_4_Cost 5
+
+// StuGIV
+Selling_5_ID 29017
+Selling_5_Cost 4
+
+// Tiger 1
+Selling_6_ID 34906
+Selling_6_Cost 8
+
+
