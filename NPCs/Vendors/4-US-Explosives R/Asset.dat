@@ -1,0 +1,38 @@
+Currency 11658c84f28946f6a7f38941268bc5bf
+Type Vendor
+ID 42817
+
+Selling 7
+// Bazooka rocket
+Selling_0_ID 19161
+Selling_0_Cost 2
+
+// M7 Mine
+Selling_1_ID 34704
+Selling_1_Cost 1
+
+// Sticky nade
+Selling_2_ID 41643
+Selling_2_Cost 3
+
+// M2A3 mine
+Selling_3_ID 41647
+Selling_3_Cost 1
+
+// M19 mine
+Selling_4_ID 34705
+Selling_4_Cost 2
+
+// remote charge
+Selling_5_ID 34706
+Selling_5_Cost 1
+
+// HE Mortar
+Selling_6_ID 30110
+Selling_6_Cost 2
+
+
+
+
+
+
