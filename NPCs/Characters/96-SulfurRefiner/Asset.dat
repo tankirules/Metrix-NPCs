@@ -1,0 +1,17 @@
+Type NPC
+ID 32901
+
+Shirt 18912
+Pants 18913
+Hat 18914
+Vest 22839
+Mask 1270
+
+Face 5
+Hair 19
+Beard 6
+Color_Skin #f4e6d2
+Color_Hair #cdc08c
+
+Dialogue 33936
+
