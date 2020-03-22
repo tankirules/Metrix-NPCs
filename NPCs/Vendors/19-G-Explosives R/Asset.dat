@@ -1,0 +1,34 @@
+Currency 11658c84f28946f6a7f38941268bc5bf
+Type Vendor
+ID 42803
+
+Selling 7
+
+// Tellermine
+Selling_0_ID 34702
+Selling_0_Cost 2
+
+// PzSchreck Rocket
+Selling_1_ID 24115
+Selling_1_Cost 2
+
+// Sticky nade H3
+Selling_2_ID 41642
+Selling_2_Cost 3
+
+// S-mine v2
+Selling_3_ID 41646
+Selling_3_Cost 1
+
+// Holzmine
+Selling_4_ID 34701
+Selling_4_Cost 1
+
+// remote charge
+Selling_5_ID 34706
+Selling_5_Cost 1
+
+// HE Mortar
+Selling_6_ID 30110
+Selling_6_Cost 2
+
