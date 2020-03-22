@@ -5,11 +5,12 @@ ID 33073
 Messages 1
 Message_0_Pages 1
 
-Responses 3
+Responses 4
 
 //Shop
 Response_0_Dialogue 33075
 Response_0_Vendor 32824
+Response_3_Vendor 42824
 
 //About
 Response_1_Dialogue 33074
