@@ -42,54 +42,33 @@ Buying_11_Cost 1000
 
 
 
-Selling 16
+Selling 7
 // M1 Bazooka
 Selling_0_ID 19109
 Selling_0_Cost 7500
+
 // Detonator
 Selling_1_ID 1240
 Selling_1_Cost 1500
-// Bazooka rocket
-Selling_2_ID 19161
-Selling_2_Cost 750
-// M7 Mine
-Selling_3_ID 34704
-Selling_3_Cost 400
+
 // mk ii grenade
-Selling_4_ID 59553
-Selling_4_Cost 100
-// Demo-charge
-Selling_5_ID 1241
-Selling_5_Cost 250
-// Sticky nade
-Selling_6_ID 41643
-Selling_6_Cost 700
-// M2A3 mine
-Selling_7_ID 41647
-Selling_7_Cost 300
+Selling_2_ID 59553
+Selling_2_Cost 100
+
 // M1A1 At mine
-Selling_8_ID 34703
-Selling_8_Cost 200
-// precision-charge
-Selling_9_ID 1393
-Selling_9_Cost 150
-// M19 mine
-Selling_10_ID 34705
-Selling_10_Cost 600
-// remote charge
-Selling_11_ID 34706
-Selling_11_Cost 300
-// HE Mortar
-Selling_12_ID 30110
-Selling_12_Cost 300
+Selling_3_ID 34703
+Selling_3_Cost 200
+
 // Rifle nade
-Selling_13_ID 24200
-Selling_13_Cost 100
+Selling_4_ID 24200
+Selling_4_Cost 100
+
 // Ptrs
-Selling_14_ID 24013
-Selling_14_Cost 3000
+Selling_5_ID 24013
+Selling_5_Cost 3000
+
 // Ptrs mag
-Selling_15_ID 24113
-Selling_15_Cost 75
+Selling_6_ID 24113
+Selling_6_Cost 60
 
 
