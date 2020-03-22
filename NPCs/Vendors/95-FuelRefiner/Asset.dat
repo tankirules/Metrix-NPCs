@@ -1,0 +1,18 @@
+Currency 27e039ef60d54fc69714c72d2c9582ba
+Type Vendor
+ID 30900
+
+
+Buying 1
+
+// Unrefined Fuel
+Buying_0_ID 34451
+Buying_0_Cost 5
+
+
+
+Selling 1
+
+// Gascan
+Selling_0_ID 28
+Selling_0_Cost 3
