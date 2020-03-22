@@ -1,0 +1,15 @@
+GUID 9fa930e5-7f92-43d4-a0b9-9a9258f6e1a3
+Type Dialogue
+ID 33936
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+//Shop
+Response_0_Dialogue 33934
+Response_0_Vendor 30901
+
+//About
+Response_1_Dialogue 33935
