@@ -4,7 +4,7 @@ ID 42808
 
 
 
-Selling 7
+Selling 6
 // Pz - IV F2
 Selling_0_ID 29006
 Selling_0_Cost 3
@@ -30,7 +30,8 @@ Selling_5_ID 29017
 Selling_5_Cost 4
 
 // Tiger 1
-Selling_6_ID 34906
-Selling_6_Cost 8
+//Selling_6_ID 34906
+//Selling_6_Cost 8
+
 
 
