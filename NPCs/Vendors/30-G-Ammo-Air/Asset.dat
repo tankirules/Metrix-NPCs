@@ -31,7 +31,7 @@ Buying_5_Cost 75
 Buying_6_ID 41401
 Buying_6_Cost 250
 
-Selling 5
+Selling 6
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 200
@@ -47,3 +47,6 @@ Selling_3_Cost 300
 // 7.7mm x150
 Selling_4_ID 41203
 Selling_4_Cost 200
+// 30mm rounds
+Selling_5_ID 41311
+Selling_5_Cost 250
