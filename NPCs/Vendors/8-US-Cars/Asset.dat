@@ -44,7 +44,7 @@ Selling_8_Cost 275
 Selling_9_ 19606
 Selling_9_Cost 450
 
-// M16 MGMC
+// M13 MGMC
 Selling_10_ID 19604
 Selling_10_Cost 1500
 
@@ -56,7 +56,9 @@ Selling_11_Cost 1200
 Selling_12_ID 34201
 Selling_12_Cost 1500
 
-
+// M3 GMC
+Selling_13_ID 19605
+Selling_13_Cost 1500
 
 
 
