@@ -2,15 +2,19 @@ Currency 27e039ef60d54fc69714c72d2c9582ba
 Type Vendor
 ID 42823
 
-Selling 3
+Selling 4
 // B-25
 Selling_0_ID 19654
-Selling_0_Cost 5
+Selling_0_Cost 7
 
 // Dauntless
 Selling_1_ID 19653
-Selling_1_Cost 1
+Selling_1_Cost 3
 
 // Boeing B-29 Superfortress
 Selling_2_ID 24504
-Selling_2_Cost 7
+Selling_2_Cost 9
+
+// P-39
+Selling_3_ID 19655
+Selling_3_Cost 5
