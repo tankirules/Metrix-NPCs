@@ -28,7 +28,7 @@ Buying_6_Cost 35
 Buying_7_ID 515
 Buying_7_Cost 40
 
-Selling 16
+Selling 17
 // MRE
 Selling_0_ID 81
 Selling_0_Cost 150
@@ -77,3 +77,6 @@ Selling_14_Cost 35
 //sausage 
 Selling_15_ID 41114
 Selling_15_Cost 10
+//88 IceCream
+Selling_15_ID 22214
+Selling_15_Cost 5
