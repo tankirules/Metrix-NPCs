@@ -23,7 +23,7 @@ Buying_3_Cost 25
 Buying_4_ID 41203
 Buying_4_Cost 10
 
-Selling 7
+Selling 8
 
 // normans dual 50 cal box
 Selling_0_ID 42631
@@ -47,11 +47,15 @@ Selling_4_Cost 200
 
 // 20mm Ammunition
 Selling_5_ID 41301
-Selling_5_Cost 150
+Selling_5_Cost 200
 
 // 1000kg bomb
 Selling_6_ID 41401
 Selling_6_Cost 300
+
+// 30mm rounds
+Selling_7_ID 41311
+Selling_7_Cost 250
 
 
 
