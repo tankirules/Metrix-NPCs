@@ -36,9 +36,9 @@ Selling 7
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 150
-// 127mm-AP-Shell
-Selling_1_ID 41601
-Selling_1_Cost 30
+// 6x 127mm shell
+Selling_1_ID 30149
+Selling_1_Cost 150
 // 127mm-HE-Shell
 Selling_2_ID 41602
 Selling_2_Cost 30

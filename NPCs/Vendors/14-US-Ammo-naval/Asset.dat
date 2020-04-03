@@ -36,9 +36,9 @@ Selling_3_Cost 15
 Selling_4_ID 41701
 Selling_4_Cost 50
 
-// 127mm - AP
-Selling_5_ID 41601
-Selling_5_Cost 30
+// 5 127mm 
+Selling_5_ID 30148
+Selling_5_Cost 150
 
 // 127mm - HE
 Selling_6_ID 41602
