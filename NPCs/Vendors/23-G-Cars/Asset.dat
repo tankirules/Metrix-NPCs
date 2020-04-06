@@ -4,7 +4,7 @@ ID 32807
 
 
 
-Selling 14
+Selling 15
 // Kubelwagen
 Selling_0_ID 29000
 Selling_0_Cost 250
@@ -61,5 +61,9 @@ Selling_12_Cost 1500
 // Sd.Kfz.251/22
 Selling_13_ID 21604
 Selling_13_Cost 1500
+
+// Fuel Truck
+Selling_14_ID 34453
+Selling_14_Cost 450
 
 
