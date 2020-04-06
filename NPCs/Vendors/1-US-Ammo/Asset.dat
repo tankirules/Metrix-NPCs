@@ -130,10 +130,12 @@ Selling_16_Cost 80
 
 // 45-50mm AP
 Selling_17_ID 40601
-Selling_17_Cost 65
+Selling_17_Cost 30
 
 // 45-50mm HE
 Selling_18_ID 40602
-Selling_18_Cost 65
+Selling_18_Cost 30
+
+
 
 
