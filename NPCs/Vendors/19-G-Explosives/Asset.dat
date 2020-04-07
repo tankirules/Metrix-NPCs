@@ -40,7 +40,7 @@ Buying_11_ID 24013
 Buying_11_Cost 1500
 
 
-Selling 7
+Selling 8
 
 // Panzerbüchse Round
 Selling_0_ID 24112
@@ -69,4 +69,8 @@ Selling_5_Cost 100
 // Panzerbüchse
 Selling_6_ID 24012
 Selling_6_Cost 4500
+
+// PzSchreck Rocket
+Selling_7_ID 24115
+Selling_7_Cost 900
 
