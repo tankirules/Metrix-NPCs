@@ -28,7 +28,7 @@ Buying_5_Cost 50
 
 // 37mm - AC Mag
 Buying_6_ID 40201
-Buying_6_Cost 125
+Buying_6_Cost 5
 
 // 88mm - AP
 Buying_7_ID 40801
@@ -58,7 +58,7 @@ Buying_12_Cost 75
 Buying_13_ID 42101
 Buying_13_Cost 25
 
-Selling 19
+Selling 20
 
 // LMG Clip
 Selling_0_ID 40001
@@ -135,6 +135,10 @@ Selling_17_Cost 30
 // 45-50mm HE
 Selling_18_ID 40602
 Selling_18_Cost 30
+
+// 37mm - AC
+Selling_19_ID 40201
+Selling_19_Cost 15
 
 
 
