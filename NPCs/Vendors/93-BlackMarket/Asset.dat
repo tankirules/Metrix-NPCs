@@ -26,7 +26,7 @@ Buying_4_ID 30038
 Buying_4_Cost 800
 
 
-Selling 13
+Selling 14
 
 // Gasmask
 Selling_0_ID 1270
@@ -79,6 +79,10 @@ Selling_11_Cost 600
 // Mead Barrel
 Selling_12_ID 42242
 Selling_12_Cost 600
+
+// T17
+Selling_13_ID 18945
+Selling_13_Cost 15000
 
 
 
