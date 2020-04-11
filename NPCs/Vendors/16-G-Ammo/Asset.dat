@@ -84,9 +84,9 @@ Selling_4_Cost 75
 Selling_5_ID 40001
 Selling_5_Cost 100
 
-// 37mm - AC Mag
+// 37mm - AC
 Selling_6_ID 40201
-Selling_6_Cost 250
+Selling_6_Cost 15
 
 // 88mm - AP
 Selling_7_ID 40801
