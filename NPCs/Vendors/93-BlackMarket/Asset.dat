@@ -34,7 +34,7 @@ Selling_0_Cost 100000
 
 // Scoped springfield
 Selling_1_ID 30039
-Selling_1_Cost 10000
+Selling_1_Cost 5000
 
 // Flamethrower
 Selling_2_ID 34709
@@ -46,11 +46,11 @@ Selling_3_Cost 800
 
 // Mortar
 Selling_4_ID 30109
-Selling_4_Cost 15000
+Selling_4_Cost 8000
 
 // HE Mortar
 Selling_5_ID 30110
-Selling_5_Cost 1000
+Selling_5_Cost 50
 
 // Filter
 Selling_6_ID 1271
@@ -58,15 +58,15 @@ Selling_6_Cost 100
 
 // Scoped kar
 Selling_7_ID 30038
-Selling_7_Cost 10000
+Selling_7_Cost 5000
 
 // Sportshot
 Selling_8_ID 484
-Selling_8_Cost 50
+Selling_8_Cost 2000
 
 // Sportshot Mag
 Selling_9_ID 485 
-Selling_9_Cost 5
+Selling_9_Cost 50
 
 // WC
 Selling_10_ID 47178
@@ -74,11 +74,11 @@ Selling_10_Cost 4000
 
 // Ale Barrel
 Selling_11_ID 42241
-Selling_11_Cost 800
+Selling_11_Cost 600
 
 // Mead Barrel
 Selling_12_ID 42242
-Selling_12_Cost 800
+Selling_12_Cost 600
 
 
 
