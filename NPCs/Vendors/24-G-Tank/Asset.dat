@@ -4,7 +4,7 @@ ID 32808
 
 
 
-Selling 3
+Selling 10
 // Pz - II 
 Selling_0_ID 29005
 Selling_0_Cost 1000
@@ -17,4 +17,31 @@ Selling_1_Cost 3500
 Selling_2_ID 29016
 Selling_2_Cost 2500
 
+// Pz - IV F2
+Selling_3_ID 29006
+Selling_3_Cost 5000
+
+// Panther
+Selling_4_ID 18940
+Selling_4_Cost 8000
+
+// Tiger - 1
+Selling_5_ID 29007
+Selling_5_Cost 9500
+
+// Tiger - 2
+Selling_6_ID 24500
+Selling_6_Cost 11000
+
+// Wirbelwind
+Selling_7_ID 30050
+Selling_7_Cost 8500
+
+// StuGIV
+Selling_8_ID 29017
+Selling_8_Cost 6500
+
+// Tiger 1
+//Selling_9_ID 34906
+//Selling_9_Cost 9500
 
