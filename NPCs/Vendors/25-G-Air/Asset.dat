@@ -2,7 +2,7 @@ GUID 5f16ec428df24fe2986019354b8ccd93
 Type Vendor
 ID 32809
 
-Selling 4
+Selling 8
 
 // Bf - 109 F4
 Selling_0_ID 29050
@@ -19,6 +19,25 @@ Selling_2_Cost 3500
 // HE 112
 Selling_3_ID 21630
 Selling_3_Cost 1500
+
+// Stuka
+Selling_4_ID 29051
+Selling_4_Cost 7000
+
+// Ju - 88
+Selling_5_ID 21634
+Selling_5_Cost 9000
+
+// Heinkel He 177 Greif
+Selling_6_ID 24503
+Selling_6_Cost 12000
+
+// FW190
+Selling_7_ID 21635
+Selling_7_Cost 7500
+
+
+
 
 
 
