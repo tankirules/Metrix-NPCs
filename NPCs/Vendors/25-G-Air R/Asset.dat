@@ -2,26 +2,39 @@ Currency 27e039ef60d54fc69714c72d2c9582ba
 Type Vendor
 ID 42809
 
-Selling 5
-// Stuka
-Selling_0_ID 29051
-Selling_0_Cost 6
-
-// Ju - 88
-Selling_1_ID 21634
-Selling_1_Cost 14
-
-// Heinkel He 177 Greif
-Selling_2_ID 24503
-Selling_2_Cost 18
-
-// FW190
-Selling_3_ID 21635
-Selling_3_Cost 10
+Selling 8
 
 // Bf - 109 F4
-Selling_4_ID 29050
-Selling_4_Cost 7
+Selling_0_ID 29050
+Selling_0_Cost 13
+
+// Ju - 52 
+Selling_1_ID 29055
+Selling_1_Cost 8
+
+// Me410
+Selling_2_ID 21634
+Selling_2_Cost 8
+
+// HE 112
+Selling_3_ID 21630
+Selling_3_Cost 5
+
+// Stuka
+Selling_4_ID 29051
+Selling_4_Cost 20
+
+// Ju - 88
+Selling_5_ID 21634
+Selling_5_Cost 35
+
+// Heinkel He 177 Greif
+Selling_6_ID 24503
+Selling_6_Cost 45
+// FW190
+Selling_7_ID 21635
+Selling_7_Cost 25
+
 
 
 
