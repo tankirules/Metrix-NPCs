@@ -2,10 +2,10 @@ GUID 4e0ac344f789488cbe00e75b20c84a67
 Type Vendor
 ID 32822
 
-Selling 4
+Selling 12
 //M2 Light
 Selling_0_ID 19630
-Selling_0_Cost 1300
+Selling_0_Cost 1500
 
 //M10 Wolverine
 Selling_1_ID 19638
@@ -18,4 +18,36 @@ Selling_2_Cost 1000
 //M5 Stuart
 Selling_3_ID 19631
 Selling_3_Cost 3500
+
+//M4 Sherman
+Selling_4_ID 19633
+Selling_4_Cost 5000
+
+//Pershing
+Selling_5_ID 19636
+Selling_5_Cost 9500
+
+//Skink SPAAG
+Selling_6_ID 30049
+Selling_6_Cost 8500
+
+//churchill
+Selling_7_ID 24501
+Selling_7_Cost 9500
+
+//black prince
+Selling_8_ID 24502
+Selling_8_Cost 11000
+
+//M4 easy8
+Selling_9_ID 18942
+Selling_9_Cost 8000
+
+//M18 Hellcat
+Selling_10_ID 19640
+Selling_10_Cost 6500
+
+//M7 Priest
+Selling_11_ID 19639
+Selling_11_Cost 6500
 
