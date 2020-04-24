@@ -4,34 +4,46 @@ ID 42808
 
 
 
-Selling 6
-// Pz - IV F2
-Selling_0_ID 29006
-Selling_0_Cost 7
+Selling 10
+// Pz - II 
+Selling_0_ID 29005
+Selling_0_Cost 5
 
-// Panther
-Selling_1_ID 18940
+// Pz - III F
+Selling_1_ID 29014
 Selling_1_Cost 12
 
+// Hetzer
+Selling_2_ID 29016
+Selling_2_Cost 10
+
+// Pz - IV F2
+Selling_3_ID 29006
+Selling_3_Cost 17
+
+// Panther
+Selling_4_ID 18940
+Selling_4_Cost 22
+
 // Tiger - 1
-Selling_2_ID 29007
-Selling_2_Cost 15
+Selling_5_ID 29007
+Selling_5_Cost 25
 
 // Tiger - 2
-Selling_3_ID 24500
-Selling_3_Cost 18
+Selling_6_ID 24500
+Selling_6_Cost 28
 
 // Wirbelwind
-Selling_4_ID 30050
-Selling_4_Cost 10
+Selling_7_ID 30050
+Selling_7_Cost 20
 
 // StuGIV
-Selling_5_ID 29017
-Selling_5_Cost 9
+Selling_8_ID 29017
+Selling_8_Cost 19
 
 // Tiger 1
-//Selling_6_ID 34906
-//Selling_6_Cost 15
+//Selling_9_ID 34906
+//Selling_9_Cost 25
 
 
 
