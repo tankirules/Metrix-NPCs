@@ -8,13 +8,13 @@ Buying_0_ID 5
 Buying_0_Cost 10
 // Birch-log
 Buying_1_ID 37
-Buying_1_Cost 10
+Buying_1_Cost 5
 // Maple-log
 Buying_2_ID 39
-Buying_2_Cost 15
+Buying_2_Cost 5
 // Pine-log
 Buying_3_ID 41
-Buying_3_Cost 20
+Buying_3_Cost 5
 // Gas-can
 Buying_4_ID 28
 Buying_4_Cost 200
@@ -26,10 +26,10 @@ Buying_6_ID 49102
 Buying_6_Cost 1000
 //maple 10 log
 Buying_7_ID 49117
-Buying_7_Cost 250
+Buying_7_Cost 50
 //pine 10 log
 Buying_8_ID 49119
-Buying_8_Cost 250
+Buying_8_Cost 50
 
 Selling 25
 // Red-smoke
@@ -60,11 +60,11 @@ Selling_7_Cost 150
 
 //10 maple
 Selling_8_ID 49117
-Selling_8_Cost 750
+Selling_8_Cost 450
 
 //10 pine
 Selling_9_ID 49119
-Selling_9_Cost 750
+Selling_9_Cost 550
 
 //10 metal scraps
 Selling_10_ID 49101
