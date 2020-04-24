@@ -2,19 +2,31 @@ Currency 27e039ef60d54fc69714c72d2c9582ba
 Type Vendor
 ID 42824
 
-Selling 4
+Selling 7
+//PT109
+Selling_0_ID 19681
+Selling_0_Cost 10
+
+//LCVP
+Selling_1_ID 19680
+Selling_1_Cost 5
+
+//pt-6
+Selling_2_ID 19682
+Selling_2_Cost 10
+
 //Fletcher
-Selling_0_ID 22303
-Selling_0_Cost 8
+Selling_3_ID 22303
+Selling_3_Cost 25
 
 //Fletcher artillery
-Selling_1_ID 30080
-Selling_1_Cost 12
+Selling_4_ID 30080
+Selling_4_Cost 40
 
 //sub chaser
-Selling_2_ID 19688
-Selling_2_Cost 6
+Selling_5_ID 19688
+Selling_5_Cost 15
 
 //navy dauntless
-Selling_3_ID 19687
-Selling_3_Cost 6
+Selling_6_ID 19687
+Selling_6_Cost 20
