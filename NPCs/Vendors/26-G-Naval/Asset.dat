@@ -3,7 +3,7 @@ Type Vendor
 ID 32810
 
 
-Selling 5
+Selling 6
 // S-38 E-boat
 Selling_0_ID 29100
 Selling_0_Cost 2000
@@ -24,6 +24,8 @@ Selling_3_Cost 10000
 Selling_4_ID 30040
 Selling_4_Cost 7000
 
-
+// leo
+Selling_5_ID 30145
+Selling_5_Cost 7000
 
 // Selling Completed

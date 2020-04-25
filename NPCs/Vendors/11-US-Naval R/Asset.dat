@@ -3,9 +3,9 @@ Type Vendor
 ID 42824
 
 Selling 7
-//PT109
-Selling_0_ID 19681
-Selling_0_Cost 10
+//farragut
+Selling_0_ID 30144
+Selling_0_Cost 20
 
 //LCVP
 Selling_1_ID 19680
@@ -30,3 +30,4 @@ Selling_5_Cost 15
 //navy dauntless
 Selling_6_ID 19687
 Selling_6_Cost 20
+
