@@ -15,7 +15,7 @@ Buying_2_Cost 7
 Buying_3_ID 41701
 Buying_3_Cost 15
 
-Selling 12
+Selling 13
 // 37mm - AC
 Selling_0_ID 40201
 Selling_0_Cost 15
@@ -63,6 +63,10 @@ Selling_10_Cost 20
 //SC 50 cal
 Selling_11_ID 40103
 Selling_11_Cost 30
+
+//105mm SAP
+Selling_12_ID 30147
+Selling_12_Cost 20
 
 
 

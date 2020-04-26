@@ -32,7 +32,7 @@ Buying_5_Cost 5
 Buying_6_ID 41602
 Buying_6_Cost 5
 
-Selling 7
+Selling 8
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 150
@@ -57,3 +57,8 @@ Selling_5_Cost 30
 // 40mm box
 Selling_6_ID 42701
 Selling_6_Cost 200
+
+//105mm SAP
+Selling_7_ID 30147
+Selling_7_Cost 20
+
