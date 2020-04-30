@@ -32,41 +32,21 @@ Selling 14
 Selling_0_ID 1270
 Selling_0_Cost 100000
 
-// Scoped springfield
-Selling_1_ID 30039
-Selling_1_Cost 5000
-
 // Flamethrower
 Selling_2_ID 34709
-Selling_2_Cost 8000
+Selling_2_Cost 10000
 
 // NapalmTank
 Selling_3_ID 34710
 Selling_3_Cost 800
 
-// Mortar
-Selling_4_ID 30109
-Selling_4_Cost 8000
-
 // HE Mortar
 Selling_5_ID 30110
-Selling_5_Cost 50
+Selling_5_Cost 500
 
 // Filter
 Selling_6_ID 1271
 Selling_6_Cost 100
-
-// Scoped kar
-Selling_7_ID 30038
-Selling_7_Cost 5000
-
-// Sportshot
-Selling_8_ID 484
-Selling_8_Cost 2000
-
-// Sportshot Mag
-Selling_9_ID 485 
-Selling_9_Cost 50
 
 // WC
 Selling_10_ID 47178
