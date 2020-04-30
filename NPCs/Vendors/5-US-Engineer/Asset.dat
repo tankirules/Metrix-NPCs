@@ -13,7 +13,7 @@ Buying_1_Cost 50
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 20
+Selling 19
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -44,34 +44,31 @@ Selling_8_Cost 250
 // TankHangarDoor 
 Selling_9_ID 47134
 Selling_9_Cost 2500
-//fueltank
-Selling_10_ID 1229
-Selling_10_Cost 3000
 // Handcuffs
-Selling_11_ID 1195
-Selling_11_Cost 50
+Selling_10_ID 1195
+Selling_10_Cost 50
 // Key
-Selling_12_ID 1196
-Selling_12_Cost 25
+Selling_11_ID 1196
+Selling_11_Cost 25
 // Battery
-Selling_13_ID 1450
-Selling_13_Cost 100
+Selling_12_ID 1450
+Selling_12_Cost 100
 // Carjack
-Selling_14_ID 277
-Selling_14_Cost 200
+Selling_13_ID 277
+Selling_13_Cost 200
 // Tire
-Selling_15_ID 1451
-Selling_15_Cost 60
+Selling_14_ID 1451
+Selling_14_Cost 60
 // Blowtorch
-Selling_16_ID 76
-Selling_16_Cost 5000
+Selling_15_ID 76
+Selling_15_Cost 5000
 // Headlamp
-Selling_17_ID 1199
-Selling_17_Cost 150
+Selling_16_ID 1199
+Selling_16_Cost 150
 // Bush
-Selling_18_ID 34707
-Selling_18_Cost 200
+Selling_17_ID 34707
+Selling_17_Cost 200
 // Climbing rope
-Selling_19_ID 34708
-Selling_19_Cost 200
+Selling_18_ID 34708
+Selling_18_Cost 200
 
