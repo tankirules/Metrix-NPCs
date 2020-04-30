@@ -2,32 +2,12 @@ Type Vendor
 ID 30910
 
 
-Selling 7
-
-// Shotgun
-Selling_0_ID 55016
-Selling_0_Cost 1000
-
-// Shotgun shells
-Selling_1_ID 55019
-Selling_1_Cost 25
-
+Selling 2
 // Launcher
-Selling_2_ID 8700
-Selling_2_Cost 8000
+Selling_0_ID 8700
+Selling_0_Cost 8000
 
 // Potato
-Selling_3_ID 8702
-Selling_3_Cost 50
+Selling_1_ID 8702
+Selling_1_Cost 50
 
-// MP 40
-Selling_4_ID 8803
-Selling_4_Cost 1000
-
-// MP 40 Mag
-Selling_5_ID 8805
-Selling_5_Cost 25
-
-// MP 40 silencer
-Selling_6_ID 8806
-Selling_6_Cost 2000
