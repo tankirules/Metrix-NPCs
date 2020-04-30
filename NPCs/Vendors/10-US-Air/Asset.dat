@@ -5,7 +5,7 @@ ID 32823
 Selling 8
 // C-47 Skytrain
 Selling_0_ID 19656
-Selling_0_Cost 3000
+Selling_0_Cost 2000
 
 // Mustang
 Selling_1_ID 19651
@@ -13,26 +13,26 @@ Selling_1_Cost 5000
 
 // P-38 
 Selling_2_ID 19652
-Selling_2_Cost 3500
+Selling_2_Cost 3000
 
 // P-36
 Selling_3_ID 19650
-Selling_3_Cost 1500
+Selling_3_Cost 800
 
 // B-25
 Selling_4_ID 19654
-Selling_4_Cost 9000
+Selling_4_Cost 7500
 
 // Dauntless
 Selling_5_ID 19653
-Selling_5_Cost 7000
+Selling_5_Cost 6500
 
 // Boeing B-29 Superfortress
 Selling_6_ID 24504
-Selling_6_Cost 12000
+Selling_6_Cost 9000
 
 // P-39
 Selling_7_ID 19655
-Selling_7_Cost 7500
+Selling_7_Cost 6800
 
 
