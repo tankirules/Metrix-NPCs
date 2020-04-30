@@ -22,11 +22,11 @@ Selling_3_Cost 400
 
 // Willy's Jeep
 Selling_4_ID 19601
-Selling_4_Cost 250
+Selling_4_Cost 50
 
 // Willy's Jeep [Mounted]
 Selling_5_ID 19602
-Selling_5_Cost 300
+Selling_5_Cost 150
 
 // 42WLA
 Selling_6_ID 29210
@@ -54,7 +54,7 @@ Selling_11_Cost 1200
 
 // Field MG
 Selling_12_ID 34201
-Selling_12_Cost 1500
+Selling_12_Cost 700
 
 // M3 GMC
 Selling_13_ID 19605
