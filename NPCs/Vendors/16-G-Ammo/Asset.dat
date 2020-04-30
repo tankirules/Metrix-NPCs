@@ -4,59 +4,59 @@ ID 32800
 Buying 14
 // LMG Clip
 Buying_0_ID 40001
-Buying_0_Cost 50
+Buying_0_Cost 5
 
 // .50Cal Box
 Buying_1_ID 40103
-Buying_1_Cost 100
+Buying_1_Cost 5
 	
 // 76mm - AP
 Buying_2_ID 40301
-Buying_2_Cost 35
+Buying_2_Cost 5
 
 // 76mm -HE
 Buying_3_ID 40302
-Buying_3_Cost 35
+Buying_3_Cost 5
 
 // 75mm - AP
 Buying_4_ID 40701
-Buying_4_Cost 45
+Buying_4_Cost 5
 
 // 75mm - HE
 Buying_5_ID 40702
-Buying_5_Cost 45
+Buying_5_Cost 5
 
 // SmokePouch
 Buying_6_ID 31939
-Buying_6_Cost 25
+Buying_6_Cost 5
 
 // 57mm - AP
 Buying_7_ID 40604
-Buying_7_Cost 30
+Buying_7_Cost 5
 
 // 37mm - AP
 Buying_8_ID 40501
-Buying_8_Cost 35
+Buying_8_Cost 5
 
 // 37mm - HE
 Buying_9_ID 40502
-Buying_9_Cost 35
+Buying_9_Cost 5
 
 // 7.7mm x150
 Buying_10_ID 41203
-Buying_10_Cost 100
+Buying_10_Cost 5
 
 // 20mm ap
 Buying_11_ID 40401
-Buying_11_Cost 75
+Buying_11_Cost 5
 
 // 20mm he
 Buying_12_ID 40402
-Buying_12_Cost 75
+Buying_12_Cost 5
 
 // Quad box
 Buying_13_ID 42101
-Buying_13_Cost 25
+Buying_13_Cost 5
 
 Selling 18
 
@@ -66,23 +66,23 @@ Selling_0_Cost 200
 
 // 20mm - AP (clip)
 Selling_1_ID 40401
-Selling_1_Cost 80
+Selling_1_Cost 20
 
 // 20mm - HE (clip)
 Selling_2_ID 40402
-Selling_2_Cost 80
+Selling_2_Cost 20
 
 // 37mm - AP
 Selling_3_ID 40501
-Selling_3_Cost 75
+Selling_3_Cost 30
 
 // 37mm - HE
 Selling_4_ID 40502
-Selling_4_Cost 75
+Selling_4_Cost 30
 
 // LMG Clip
 Selling_5_ID 40001
-Selling_5_Cost 100
+Selling_5_Cost 35
 
 // 37mm - AC
 Selling_6_ID 40201
@@ -90,19 +90,19 @@ Selling_6_Cost 15
 
 // 88mm - AP
 Selling_7_ID 40801
-Selling_7_Cost 75
+Selling_7_Cost 60
 
 // 88mm - HE
 Selling_8_ID 40802
-Selling_8_Cost 75
+Selling_8_Cost 60
 
 // 75mm - AP
 Selling_9_ID 40701
-Selling_9_Cost 90
+Selling_9_Cost 40
 
 // 75mm - HE
 Selling_10_ID 40702
-Selling_10_Cost 90
+Selling_10_Cost 40
 
 // Smoke Pouch
 Selling_11_ID 31939
@@ -118,11 +118,11 @@ Selling_13_Cost 200
 
 // 90mm AP
 Selling_14_ID 40811
-Selling_14_Cost 80
+Selling_14_Cost 60
 
 // 90mm HE
 Selling_15_ID 40812
-Selling_15_Cost 80
+Selling_15_Cost 60
 
 // 45mm AP
 Selling_16_ID 40601
