@@ -11,8 +11,16 @@ Buying_0_Cost 1
 
 
 
-Selling 1
+Selling 3
 
 // Gascan
 Selling_0_ID 28
-Selling_0_Cost 3
+Selling_0_Cost 15
+
+//fueltank
+Selling_1_ID 1229
+Selling_1_Cost 20
+
+//ind gas can
+Selling_2_ID 1440
+Selling_2_Cost 60
