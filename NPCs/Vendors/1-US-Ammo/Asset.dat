@@ -4,27 +4,27 @@ ID 32814
 Buying 14
 // 7.7 Ammo
 Buying_0_ID 41201
-Buying_0_Cost 100
+Buying_0_Cost 5
 
 // 20mm - AP (clip)
 Buying_1_ID 40401
-Buying_1_Cost 75
+Buying_1_Cost 5
 
 // 20mm - HE (clip)
 Buying_2_ID 40402
-Buying_2_Cost 75
+Buying_2_Cost 5
 
 // 37mm - AP
 Buying_3_ID 40501
-Buying_3_Cost 35
+Buying_3_Cost 5
 
 // 37mm - HE
 Buying_4_ID 40502
-Buying_4_Cost 35
+Buying_4_Cost 5
 
 // LMG Clip
 Buying_5_ID 40001
-Buying_5_Cost 50
+Buying_5_Cost 5
 
 // 37mm - AC Mag
 Buying_6_ID 40201
@@ -32,37 +32,37 @@ Buying_6_Cost 5
 
 // 88mm - AP
 Buying_7_ID 40801
-Buying_7_Cost 35
+Buying_7_Cost 5
 
 // 88mm - HE
 Buying_8_ID 40802
-Buying_8_Cost 35
+Buying_8_Cost 5
 
 // 75mm - AP
 Buying_9_ID 40701
-Buying_9_Cost 45
+Buying_9_Cost 5
 
 // 75mm - HE
 Buying_10_ID 40702
-Buying_10_Cost 45
+Buying_10_Cost 5
 
 // Smoke Pouch
 Buying_11_ID 31939
-Buying_11_Cost 25
+Buying_11_Cost 5
 
 // HMG-Box
 Buying_12_ID 40101 
-Buying_12_Cost 75
+Buying_12_Cost 5
 
 // Quad box
 Buying_13_ID 42101
-Buying_13_Cost 25
+Buying_13_Cost 5
 
 Selling 20
 
 // LMG Clip
 Selling_0_ID 40001
-Selling_0_Cost 100
+Selling_0_Cost 35
 
 // .50Cal Box
 Selling_1_ID 40103
@@ -70,19 +70,19 @@ Selling_1_Cost 200
 	
 // 76mm - AP
 Selling_2_ID 40301
-Selling_2_Cost 75
+Selling_2_Cost 40
 
 // 76mm -HE
 Selling_3_ID 40302
-Selling_3_Cost 75
+Selling_3_Cost 40
 
 // 75mm - AP
 Selling_4_ID 40701
-Selling_4_Cost 90
+Selling_4_Cost 40
 
 // 75mm - HE
 Selling_5_ID 40702
-Selling_5_Cost 90
+Selling_5_Cost 40
 
 // SmokePouch
 Selling_6_ID 31939
@@ -90,15 +90,15 @@ Selling_6_Cost 50
 
 // 57mm - AP
 Selling_7_ID 40604
-Selling_7_Cost 60
+Selling_7_Cost 35
 
 // 37mm - AP
 Selling_8_ID 40501
-Selling_8_Cost 50
+Selling_8_Cost 30
 
 // 37mm - HE
 Selling_9_ID 40502
-Selling_9_Cost 50
+Selling_9_Cost 30
 
 // 7.7mm x150
 Selling_10_ID 41203
@@ -106,11 +106,11 @@ Selling_10_Cost 200
 
 // 20mm ap
 Selling_11_ID 40401
-Selling_11_Cost 80
+Selling_11_Cost 20
 
 // 20mm he
 Selling_12_ID 40402
-Selling_12_Cost 80
+Selling_12_Cost 20
 
 // Quad box
 Selling_13_ID 30054
@@ -122,11 +122,11 @@ Selling_14_Cost 150
 
 // 90mm AP
 Selling_15_ID 40811
-Selling_15_Cost 80
+Selling_15_Cost 60
 
 // 90mm HE
 Selling_16_ID 40812
-Selling_16_Cost 80
+Selling_16_Cost 60
 
 // 45-50mm AP
 Selling_17_ID 40601
