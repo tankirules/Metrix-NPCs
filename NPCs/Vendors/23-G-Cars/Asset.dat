@@ -7,11 +7,11 @@ ID 32807
 Selling 15
 // Kubelwagen
 Selling_0_ID 29000
-Selling_0_Cost 250
+Selling_0_Cost 50
 
 // Kubelwagen - (	MOUNTED	  )
 Selling_1_ID 29001
-Selling_1_Cost 300
+Selling_1_Cost 150
 
 // 	AA Truck
 Selling_2_ID 30052
