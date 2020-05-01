@@ -2,7 +2,7 @@ GUID d036b8bf33fd4f3e87785474c32f3ecf
 Type Vendor
 ID 32821
 
-Selling 15
+Selling 16
 
 // M4 Tractor
 Selling_0_ID 19607
@@ -41,7 +41,7 @@ Selling_8_ID 19603
 Selling_8_Cost 275
 
 // M3 Halftrack
-Selling_9_ 19606
+Selling_9_ID 19606
 Selling_9_Cost 450
 
 // M13 MGMC
@@ -63,6 +63,10 @@ Selling_13_Cost 1500
 // Fuel Truck
 Selling_14_ID 34453
 Selling_14_Cost 450
+
+// FordGPA
+Selling_15_ID 34923
+Selling_15_Cost 200
 
 
 
