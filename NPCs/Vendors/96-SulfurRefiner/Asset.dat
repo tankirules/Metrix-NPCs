@@ -9,52 +9,45 @@ Buying 1
 Buying_0_ID 34460
 Buying_0_Cost 1
 
-Selling 12
+Selling 10
 
 // Locker
 Selling_0_ID 328 
-Selling_0_Cost 50
+Selling_0_Cost 25
 
-// Floor
-Selling_1_ID 369
-Selling_1_Cost 5
+// bulletproof
+Selling_1_ID 1298
+Selling_1_Cost 2
 
-// Pillar
-Selling_2_ID 374
-Selling_2_Cost 2
+// oneway
+Selling_2_ID 1299
+Selling_2_Cost 3
 
-// Roof
-Selling_3_ID 373
-Selling_3_Cost 4
-
-// Wall
-Selling_4_ID 371
-Selling_4_Cost 4
-
-// Window
-Selling_5_ID 372
-Selling_5_Cost 4
-
-// Door Way
-Selling_6_ID 370
-Selling_6_Cost 4
-
-// Door
-Selling_7_ID 378
-Selling_7_Cost 3
+// wardrobe
+Selling_3_ID 1281
+Selling_3_Cost 25
 
 // VaultDoor
-Selling_8_ID 286
-Selling_8_Cost 10
+Selling_4_ID 286
+Selling_4_Cost 8
 
-// glass weak
-Selling_9_ID  1297
-Selling_9_Cost 2
+// Fishingrod
+Selling_5_ID 43101
+Selling_5_Cost 5
 
-// post
-Selling_10_ID 449
-Selling_10_Cost 1
+// rockpaper..
+Selling_6_ID 48101
+Selling_6_Cost 1
 
-// rampart
-Selling_11_ID 446
-Selling_11_Cost 2
+// makeshift4
+Selling_7_ID 89
+Selling_7_Cost 45
+
+// makeshift1
+Selling_8_ID 91
+Selling_8_Cost 30
+
+// bfence
+Selling_9_ID 1119
+Selling_9_Cost 5
+
