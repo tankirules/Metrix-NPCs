@@ -4,7 +4,7 @@ ID 32807
 
 
 
-Selling 15
+Selling 16
 // Kubelwagen
 Selling_0_ID 29000
 Selling_0_Cost 50
@@ -65,5 +65,9 @@ Selling_13_Cost 1500
 // Fuel Truck
 Selling_14_ID 34453
 Selling_14_Cost 450
+
+// Schwimmwagen
+Selling_15_ID 35501
+Selling_15_Cost 200
 
 
