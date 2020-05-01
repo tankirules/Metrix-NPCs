@@ -13,7 +13,7 @@ Buying_1_Cost 50
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 19
+Selling 20
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -71,4 +71,7 @@ Selling_17_Cost 200
 // Climbing rope
 Selling_18_ID 34708
 Selling_18_Cost 200
+// bwire
+Selling_19_ID 34720
+Selling_19_Cost 35
 
