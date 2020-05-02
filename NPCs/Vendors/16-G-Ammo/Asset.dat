@@ -58,7 +58,7 @@ Buying_12_Cost 5
 Buying_13_ID 42101
 Buying_13_Cost 5
 
-Selling 18
+Selling 19
 
 // 7.7 Ammo
 Selling_0_ID 41201
@@ -131,6 +131,10 @@ Selling_16_Cost 30
 // 45mm HE
 Selling_17_ID 40602
 Selling_17_Cost 30
+
+// Flamethrower mag
+Selling_18_ID 34710
+Selling_18_Cost 500
 
 
 
