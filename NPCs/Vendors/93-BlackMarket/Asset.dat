@@ -26,43 +26,43 @@ Buying_4_ID 30038
 Buying_4_Cost 800
 
 
-Selling 14
+Selling 9
 
 // Gasmask
 Selling_0_ID 1270
 Selling_0_Cost 100000
 
 // Flamethrower
-Selling_2_ID 34709
-Selling_2_Cost 10000
+Selling_1_ID 34709
+Selling_1_Cost 10000
 
 // NapalmTank
-Selling_3_ID 34710
-Selling_3_Cost 800
+Selling_2_ID 34710
+Selling_2_Cost 800
 
 // HE Mortar
-Selling_5_ID 30110
-Selling_5_Cost 500
+Selling_3_ID 30110
+Selling_3_Cost 500
 
 // Filter
-Selling_6_ID 1271
-Selling_6_Cost 100
+Selling_4_ID 1271
+Selling_4_Cost 100
 
 // WC
-Selling_10_ID 47178
-Selling_10_Cost 4000
+Selling_5_ID 47178
+Selling_5_Cost 4000
 
 // Ale Barrel
-Selling_11_ID 42241
-Selling_11_Cost 600
+Selling_6_ID 42241
+Selling_6_Cost 600
 
 // Mead Barrel
-Selling_12_ID 42242
-Selling_12_Cost 600
+Selling_7_ID 42242
+Selling_7_Cost 600
 
 // T17
-Selling_13_ID 18945
-Selling_13_Cost 25000
+Selling_8_ID 18945
+Selling_8_Cost 25000
 
 
 
