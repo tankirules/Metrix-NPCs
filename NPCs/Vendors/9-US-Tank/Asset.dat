@@ -2,7 +2,7 @@ GUID 4e0ac344f789488cbe00e75b20c84a67
 Type Vendor
 ID 32822
 
-Selling 12
+Selling 13
 //M2 Light
 Selling_0_ID 19630
 Selling_0_Cost 1000
@@ -50,4 +50,8 @@ Selling_10_Cost 5000
 //crocodile 
 Selling_11_ID 34922
 Selling_11_Cost 7200
+
+//SuperPershing
+Selling_12_ID 34904
+Selling_12_Cost 9000
 
