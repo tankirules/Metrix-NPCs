@@ -15,7 +15,7 @@ Buying_2_Cost 1000
 
 
 
-Selling 13
+Selling 15
 // M1 Bazooka
 Selling_0_ID 19109
 Selling_0_Cost 8000
@@ -67,6 +67,14 @@ Selling_11_Cost 50
 // remote charge
 Selling_12_ID 34706
 Selling_12_Cost 250
+
+// Fliegerfaust ammo
+Selling_13_ID 24513
+Selling_13_Cost 150
+
+// Fliegerfaust capt
+Selling_14_ID 24514
+Selling_14_Cost 3000
 
 
 
