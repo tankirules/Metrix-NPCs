@@ -7,11 +7,11 @@ ID 32807
 Selling 16
 // Kubelwagen
 Selling_0_ID 29000
-Selling_0_Cost 50
+Selling_0_Cost 150
 
 // Kubelwagen - (	MOUNTED	  )
 Selling_1_ID 29001
-Selling_1_Cost 150
+Selling_1_Cost 250
 
 // 	AA Truck
 Selling_2_ID 30052
@@ -27,7 +27,7 @@ Selling_4_Cost 400
 
 // BMW - R75
 Selling_5_ID 29010
-Selling_5_Cost 100
+Selling_5_Cost 75
 
 // 	^ BMW - R75 (	SIDECAR	  )
 Selling_6_ID 29011
@@ -68,6 +68,6 @@ Selling_14_Cost 450
 
 // Schwimmwagen
 Selling_15_ID 35501
-Selling_15_Cost 200
+Selling_15_Cost 750
 
 
