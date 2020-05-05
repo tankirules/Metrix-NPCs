@@ -22,19 +22,19 @@ Selling_3_Cost 400
 
 // Willy's Jeep
 Selling_4_ID 19601
-Selling_4_Cost 50
+Selling_4_Cost 150
 
 // Willy's Jeep [Mounted]
 Selling_5_ID 19602
-Selling_5_Cost 150
+Selling_5_Cost 250
 
 // 42WLA
 Selling_6_ID 29210
-Selling_6_Cost 100
+Selling_6_Cost 75
 
 // 42WLA w/Sidecar
 Selling_7_ID 29211
-Selling_7_Cost 200
+Selling_7_Cost 150
 
 // CCKW
 Selling_8_ID 19603
@@ -66,7 +66,7 @@ Selling_14_Cost 450
 
 // FordGPA
 Selling_15_ID 34923
-Selling_15_Cost 200
+Selling_15_Cost 750
 
 
 
