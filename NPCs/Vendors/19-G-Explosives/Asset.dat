@@ -1,43 +1,16 @@
 GUID 1610385e24394fcb99dac3793f555218
 Type Vendor
 ID 32803
-Buying 12
+Buying 3
 // M1 Bazooka
 Buying_0_ID 19109
 Buying_0_Cost 5000
-// prec
-Buying_1_ID 1393
-Buying_1_Cost 50
-// mk ii grenade
-Buying_2_ID 59553
-Buying_2_Cost 50
-// M19 mine
-Buying_3_ID 34705
-Buying_3_Cost 100
-// m7 mine
-Buying_4_ID 34704
-Buying_4_Cost 100
-// remote charge
-Buying_5_ID 34706
-Buying_5_Cost 50
-// Sticky nade
-Buying_6_ID 41643
-Buying_6_Cost 200
-// M2A3 mine
-Buying_7_ID 41647
-Buying_7_Cost 150
-// M1A1 At mine
-Buying_8_ID 34703
-Buying_8_Cost 100
 // detonator
-Buying_9_ID 1240
-Buying_9_Cost 500
-// demo
-Buying_10_ID 1241
-Buying_10_Cost 50
+Buying_1_ID 1240
+Buying_1_Cost 500
 // Ptrs
-Buying_11_ID 24013
-Buying_11_Cost 1500
+Buying_2_ID 24013
+Buying_2_Cost 1500
 
 
 Selling 15
@@ -52,11 +25,11 @@ Selling_1_Cost 8000
 
 // Stielhandgranate
 Selling_2_ID 24011
-Selling_2_Cost 20
+Selling_2_Cost 70
 
 // SchuMine
 Selling_3_ID 34700
-Selling_3_Cost 20
+Selling_3_Cost 80
 
 // Detonator
 Selling_4_ID 1240
@@ -76,7 +49,7 @@ Selling_7_Cost 800
 
 // Tellermine
 Selling_8_ID 34702
-Selling_8_Cost 50
+Selling_8_Cost 130
 
 // Sticky nade H3
 Selling_9_ID 41642
@@ -84,11 +57,11 @@ Selling_9_Cost 500
 
 // S-mine v2
 Selling_10_ID 41646
-Selling_10_Cost 25
+Selling_10_Cost 90
 
 // Holzmine
 Selling_11_ID 34701
-Selling_11_Cost 30
+Selling_11_Cost 100
 
 // remote charge
 Selling_12_ID 34706
