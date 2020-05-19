@@ -54,7 +54,7 @@ Selling_5_Cost 10
 
 // Bar
 Selling_6_ID 19103
-Selling_6_Cost 800
+Selling_6_Cost 1200
 // Bar Mag
 Selling_7_ID 19152
 Selling_7_Cost 10
@@ -68,7 +68,7 @@ Selling_9_Cost 10
 
 // M2 Carbine
 Selling_10_ID 19110
-Selling_10_Cost 500
+Selling_10_Cost 1100
 // M2 Carbine Mag
 Selling_11_ID 19162
 Selling_11_Cost 10
