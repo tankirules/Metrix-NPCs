@@ -47,7 +47,7 @@ Selling_4_Cost 200
 
 // 20mm Ammunition
 Selling_5_ID 41301
-Selling_5_Cost 200
+Selling_5_Cost 100
 
 // 1000kg bomb
 Selling_6_ID 41401
