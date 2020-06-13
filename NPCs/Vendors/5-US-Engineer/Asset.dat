@@ -13,7 +13,7 @@ Buying_1_Cost 50
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 20
+Selling 21
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -33,7 +33,7 @@ Selling_4_Cost 20
 Selling_5_ID 386
 Selling_5_Cost 25
 // Mounted MG
-Selling_6_ID 34205
+Selling_6_ID 35709
 Selling_6_Cost 1000
 // Ghillie-netting
 Selling_7_ID 1396
@@ -74,4 +74,7 @@ Selling_18_Cost 200
 // bwire
 Selling_19_ID 386
 Selling_19_Cost 35
+// diving tank
+Selling_20_ID 1178
+Selling_20_Cost 500
 
