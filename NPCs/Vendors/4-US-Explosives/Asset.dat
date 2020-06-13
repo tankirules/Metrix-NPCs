@@ -30,7 +30,7 @@ Selling_2_Cost 70
 
 // M1A1 At mine
 Selling_3_ID 34703
-Selling_3_Cost 80
+Selling_3_Cost 180
 
 // Rifle nade
 Selling_4_ID 24200
@@ -50,7 +50,7 @@ Selling_7_Cost 800
 
 // M7 Mine
 Selling_8_ID 34704
-Selling_8_Cost 100
+Selling_8_Cost 200
 
 // Sticky nade
 Selling_9_ID 41643
@@ -58,11 +58,11 @@ Selling_9_Cost 500
 
 // M2A3 mine
 Selling_10_ID 41647
-Selling_10_Cost 90
+Selling_10_Cost 190
 
 // M19 mine
 Selling_11_ID 34705
-Selling_11_Cost 130
+Selling_11_Cost 230
 
 // remote charge
 Selling_12_ID 34706
