@@ -29,7 +29,7 @@ Selling_2_Cost 70
 
 // SchuMine
 Selling_3_ID 34700
-Selling_3_Cost 80
+Selling_3_Cost 180
 
 // Detonator
 Selling_4_ID 1240
@@ -49,7 +49,7 @@ Selling_7_Cost 800
 
 // Tellermine
 Selling_8_ID 34702
-Selling_8_Cost 130
+Selling_8_Cost 230
 
 // Sticky nade H3
 Selling_9_ID 41642
@@ -57,11 +57,11 @@ Selling_9_Cost 500
 
 // S-mine v2
 Selling_10_ID 41646
-Selling_10_Cost 90
+Selling_10_Cost 190
 
 // Holzmine
 Selling_11_ID 34701
-Selling_11_Cost 100
+Selling_11_Cost 200
 
 // remote charge
 Selling_12_ID 34706
