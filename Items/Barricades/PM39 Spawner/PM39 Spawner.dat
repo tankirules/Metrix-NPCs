@@ -1,0 +1,20 @@
+GUID b7870094045a47b490dbf3440eab249a
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Vehicle
+ID 39001
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Range 8
+Radius 0.5
+Offset 1.25
+
+Explosion 39001
+
+Bypass_Hash_Verification
+
+Exclude_From_Master_Bundle
