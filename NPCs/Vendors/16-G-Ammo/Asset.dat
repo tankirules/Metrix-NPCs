@@ -58,7 +58,7 @@ Buying_12_Cost 5
 Buying_13_ID 42101
 Buying_13_Cost 5
 
-Selling 19
+Selling 21
 
 // 7.7 Ammo
 Selling_0_ID 41201
@@ -66,19 +66,19 @@ Selling_0_Cost 200
 
 // 20mm - AP (clip)
 Selling_1_ID 40401
-Selling_1_Cost 20
+Selling_1_Cost 10
 
 // 20mm - HE (clip)
 Selling_2_ID 40402
-Selling_2_Cost 20
+Selling_2_Cost 10
 
 // 37mm - AP
 Selling_3_ID 40501
-Selling_3_Cost 30
+Selling_3_Cost 15
 
 // 37mm - HE
 Selling_4_ID 40502
-Selling_4_Cost 30
+Selling_4_Cost 15
 
 // LMG Clip
 Selling_5_ID 40001
@@ -90,19 +90,19 @@ Selling_6_Cost 15
 
 // 88mm - AP
 Selling_7_ID 40801
-Selling_7_Cost 60
+Selling_7_Cost 30
 
 // 88mm - HE
 Selling_8_ID 40802
-Selling_8_Cost 60
+Selling_8_Cost 30
 
 // 75mm - AP
 Selling_9_ID 40701
-Selling_9_Cost 40
+Selling_9_Cost 20
 
 // 75mm - HE
 Selling_10_ID 40702
-Selling_10_Cost 40
+Selling_10_Cost 20
 
 // Smoke Pouch
 Selling_11_ID 31939
@@ -118,23 +118,31 @@ Selling_13_Cost 200
 
 // 90mm AP
 Selling_14_ID 40811
-Selling_14_Cost 60
+Selling_14_Cost 30
 
 // 90mm HE
 Selling_15_ID 40812
-Selling_15_Cost 60
+Selling_15_Cost 30
 
 // 45mm AP
 Selling_16_ID 40601
-Selling_16_Cost 30
+Selling_16_Cost 15
 
 // 45mm HE
 Selling_17_ID 40602
-Selling_17_Cost 30
+Selling_17_Cost 15
 
 // Flamethrower mag
 Selling_18_ID 34710
 Selling_18_Cost 500
+
+// 20mm AP mag
+Selling_19_ID 39003
+Selling_19_Cost 15
+
+// 20mm HE mag
+Selling_20_ID 39004
+Selling_20_Cost 15
 
 
 
