@@ -2,7 +2,7 @@ GUID d036b8bf33fd4f3e87785474c32f3ecf
 Type Vendor
 ID 32821
 
-Selling 16
+Selling 17
 
 // M4 Tractor
 Selling_0_ID 19607
@@ -67,6 +67,10 @@ Selling_14_Cost 450
 // FordGPA
 Selling_15_ID 34923
 Selling_15_Cost 750
+
+// Pansarbil
+Selling_16_ID 39001
+Selling_16_Cost 2000
 
 
 
