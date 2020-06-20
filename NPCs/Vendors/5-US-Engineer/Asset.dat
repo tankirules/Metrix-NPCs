@@ -13,7 +13,7 @@ Buying_1_Cost 50
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 21
+Selling 22
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -77,4 +77,7 @@ Selling_19_Cost 35
 // diving tank
 Selling_20_ID 1178
 Selling_20_Cost 500
+// snorkel
+Selling_21_ID 1181
+Selling_21_Cost 100
 
