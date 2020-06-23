@@ -32,7 +32,7 @@ Buying_5_Cost 5
 Buying_6_ID 41602
 Buying_6_Cost 5
 
-Selling 8
+Selling 10
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 100
@@ -43,7 +43,7 @@ Selling_1_Cost 600
 Selling_2_ID 41602
 Selling_2_Cost 30
 // torpedo
-Selling_3_ID 41701
+Selling_3_ID 
 Selling_3_Cost 50
 
 // 127mm-AP-Shell artillery
@@ -61,4 +61,12 @@ Selling_6_Cost 200
 //105mm SAP
 Selling_7_ID 30147
 Selling_7_Cost 20
+
+// Torpedo boat
+Selling_8_ID 30168
+Selling_8_Cost 50
+
+// Torpedo plane
+Selling_9_ID 30155
+Selling_9_Cost 50
 

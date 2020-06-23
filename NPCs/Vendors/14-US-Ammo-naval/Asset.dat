@@ -15,7 +15,7 @@ Buying_2_Cost 7
 Buying_3_ID 41701
 Buying_3_Cost 15
 
-Selling 13
+Selling 15
 // 37mm - AC
 Selling_0_ID 40201
 Selling_0_Cost 15
@@ -33,7 +33,7 @@ Selling_3_ID 41301
 Selling_3_Cost 100
 
 // Torpedo
-Selling_4_ID 41701
+Selling_4_ID 
 Selling_4_Cost 50
 
 // 5 127mm 
@@ -68,5 +68,12 @@ Selling_11_Cost 30
 Selling_12_ID 30147
 Selling_12_Cost 20
 
+// Torpedo boat
+Selling_13_ID 30168
+Selling_13_Cost 50
+
+// Torpedo plane
+Selling_14_ID 30155
+Selling_14_Cost 50
 
 

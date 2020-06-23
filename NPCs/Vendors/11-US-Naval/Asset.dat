@@ -2,7 +2,7 @@ GUID 7e2c4f0827c049afa48e4923c943ae9c
 Type Vendor
 ID 32824
 
-Selling 7
+Selling 8	
 //farragut
 Selling_0_ID 30144
 Selling_0_Cost 6500
@@ -12,7 +12,7 @@ Selling_1_ID 19680
 Selling_1_Cost 500
 
 //pt-6
-Selling_2_ID 19682
+Selling_2_ID 30170
 Selling_2_Cost 1500
 
 //Fletcher
@@ -30,6 +30,10 @@ Selling_5_Cost 3500
 //navy dauntless
 Selling_6_ID 19687
 Selling_6_Cost 6500
+
+//navy dauntless torpedo
+Selling_7_ID 30044
+Selling_7_Cost 6500
 
 
 

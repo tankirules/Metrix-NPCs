@@ -31,7 +31,7 @@ Buying_5_Cost 75
 Buying_6_ID 41401
 Buying_6_Cost 250
 
-Selling 7
+Selling 8
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 100
@@ -53,4 +53,8 @@ Selling_5_Cost 250
 // 13mm rounds
 Selling_6_ID 41211
 Selling_6_Cost 225
+
+// Torpedo plane
+Selling_7_ID 30155
+Selling_7_Cost 50
 

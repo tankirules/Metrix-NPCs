@@ -2,7 +2,7 @@ GUID fd30cbf2054e4d9a9b51bdf236013af5
 Type Vendor
 ID 32823
 
-Selling 8
+Selling 9
 // C-47 Skytrain
 Selling_0_ID 30060
 Selling_0_Cost 2000
@@ -34,5 +34,9 @@ Selling_6_Cost 9000
 // P-39
 Selling_7_ID 19655
 Selling_7_Cost 6800
+
+//navy dauntless torpedo
+Selling_8_ID 30044
+Selling_8_Cost 6500
 
 

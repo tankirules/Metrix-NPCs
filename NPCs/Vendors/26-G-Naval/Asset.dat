@@ -3,9 +3,9 @@ Type Vendor
 ID 32810
 
 
-Selling 6
+Selling 7
 // S-38 E-boat
-Selling_0_ID 29100
+Selling_0_ID 30169
 Selling_0_Cost 1500
 
 // Marinefahrprahm
@@ -27,5 +27,9 @@ Selling_4_Cost 6500
 // leo
 Selling_5_ID 30145
 Selling_5_Cost 6500
+
+// AR - 196 torpedo
+Selling_6_ID 30166
+Selling_6_Cost 6500
 
 // Selling Completed

@@ -2,7 +2,7 @@ GUID 5f16ec428df24fe2986019354b8ccd93
 Type Vendor
 ID 32809
 
-Selling 8
+Selling 9
 
 // Bf - 109 F4
 Selling_0_ID 29050
@@ -35,6 +35,10 @@ Selling_6_Cost 9000
 // FW190
 Selling_7_ID 21635
 Selling_7_Cost 6800
+
+// AR - 196 torpedo
+Selling_8_ID 30166
+Selling_8_Cost 6500
 
 
 

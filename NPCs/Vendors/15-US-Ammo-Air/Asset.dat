@@ -23,7 +23,7 @@ Buying_3_Cost 25
 Buying_4_ID 41203
 Buying_4_Cost 10
 
-Selling 8
+Selling 9
 
 // normans dual 50 cal box
 Selling_0_ID 42631
@@ -57,5 +57,7 @@ Selling_6_Cost 300
 Selling_7_ID 41311
 Selling_7_Cost 250
 
-
+// Torpedo plane
+Selling_8_ID 30155
+Selling_8_Cost 50
 
