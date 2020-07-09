@@ -26,10 +26,10 @@ Buying_6_ID 49102
 Buying_6_Cost 1000
 //maple 10 log
 Buying_7_ID 49117
-Buying_7_Cost 150
+Buying_7_Cost 100
 //pine 10 log
 Buying_8_ID 49119
-Buying_8_Cost 150
+Buying_8_Cost 100
 
 Selling 25
 // Red-smoke
@@ -104,7 +104,7 @@ Selling_18_Cost 75
 Selling_19_ID 59556
 Selling_19_Cost 300
 // Camp-axe
-Selling_20_ID 16
+Selling_20_ID 24502
 Selling_20_Cost 250
 // Pickaxe
 Selling_21_ID 1198
