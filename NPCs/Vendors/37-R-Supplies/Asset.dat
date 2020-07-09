@@ -4,123 +4,117 @@ ID 32836
 
 Buying 9
 // Scrap-metal
-Buying_0_ID 67
+Buying_0_ID 5
 Buying_0_Cost 10
 // Birch-log
 Buying_1_ID 37
-Buying_1_Cost 10
+Buying_1_Cost 5
 // Maple-log
 Buying_2_ID 39
-Buying_2_Cost 15
+Buying_2_Cost 5
 // Pine-log
 Buying_3_ID 41
-Buying_3_Cost 20
+Buying_3_Cost 5
 // Gas-can
 Buying_4_ID 28
 Buying_4_Cost 200
 // 10 metal scrap
 Buying_5_ID 49101
-Buying_5_Cost 125
+Buying_5_Cost 100
 //100 metal scrap
 Buying_6_ID 49102
-Buying_6_Cost 1250
+Buying_6_Cost 1000
 //maple 10 log
 Buying_7_ID 49117
-Buying_7_Cost 250
+Buying_7_Cost 100
 //pine 10 log
 Buying_8_ID 49119
-Buying_8_Cost 250
+Buying_8_Cost 100
 
-Selling 27
-// Gas-can
-Selling_0_ID 28
-Selling_0_Cost 250
-// Battery
-Selling_1_ID 1450
-Selling_1_Cost 100
-// Carjack
-Selling_2_ID 277
-Selling_2_Cost 200
-// Tire
-Selling_3_ID 1451
-Selling_3_Cost 60
+Selling 25
 // Red-smoke
-Selling_4_ID 266
-Selling_4_Cost 25
+Selling_0_ID 266
+Selling_0_Cost 25
 // Green-smoke
-Selling_5_ID 263
-Selling_5_Cost 25
+Selling_1_ID 263
+Selling_1_Cost 25
 // White-smoke
-Selling_6_ID 267
-Selling_6_Cost 25
+Selling_2_ID 267
+Selling_2_Cost 25
 // Flashlight
-Selling_7_ID 276
-Selling_7_Cost 10
-// Handcuffs
-Selling_8_ID 1195
-Selling_8_Cost 50
-// Key
-Selling_9_ID 1196
-Selling_9_Cost 25
+Selling_3_ID 276
+Selling_3_Cost 100
+
 // low-Military-ammo
-Selling_10_ID 43
-Selling_10_Cost 20
+Selling_4_ID 43
+Selling_4_Cost 20
 // High-Military-ammo
-Selling_11_ID 1192
-Selling_11_Cost 25
+Selling_5_ID 1192
+Selling_5_Cost 25
 // Civilian-ammo
-Selling_12_ID 44
-Selling_12_Cost 30
+Selling_6_ID 44
+Selling_6_Cost 30
 // Hammer
-Selling_13_ID 138
-Selling_13_Cost 150
+Selling_7_ID 138
+Selling_7_Cost 150
 
 //10 maple
-Selling_14_ID 49117
-Selling_14_Cost 750
+Selling_8_ID 49117
+Selling_8_Cost 450
 
 //10 pine
-Selling_15_ID 49119
-Selling_15_Cost 750
+Selling_9_ID 49119
+Selling_9_Cost 550
 
 //10 metal scraps
-
-Selling_16_ID 49101
-Selling_16_Cost 450
+Selling_10_ID 49101
+Selling_10_Cost 450
 
 // 1 Scrap-metal
-Selling_17_ID 67
-Selling_17_Cost 50
+Selling_11_ID 67
+Selling_11_Cost 50
 
 //100 metal scrap
-Selling_18_ID 49102
-Selling_18_Cost 4500
+Selling_12_ID 49102
+Selling_12_Cost 4500
 
 //10 cloths
-Selling_19_ID 49103
-Selling_19_Cost 200
+Selling_13_ID 49103
+Selling_13_Cost 200
 
 //10 bricks
-Selling_20_ID 49121
-Selling_20_Cost 500
+Selling_14_ID 49121
+Selling_14_Cost 500
 
 //100 cloths
-Selling_21_ID 49104
-Selling_21_Cost 1800
+Selling_15_ID 49104
+Selling_15_Cost 1800
 
+//low cal ranger
+Selling_16_ID 119
+Selling_16_Cost 20
+//hi cal ranger
+Selling_17_ID 1193
+Selling_17_Cost 25
+//bino
+Selling_18_ID 333
+Selling_18_Cost 75
+
+//Supply crate
+Selling_19_ID 59556
+Selling_19_Cost 300
+// Camp-axe
+Selling_20_ID 24502
+Selling_20_Cost 250
+// Pickaxe
+Selling_21_ID 1198
+Selling_21_Cost 250
 //chainsaw
 Selling_22_ID 490
 Selling_22_Cost 500
 //jackhammer
 Selling_23_ID 1475
 Selling_23_Cost 500
-
-//low cal ranger
-Selling_24_ID 119
-Selling_24_Cost 20
-//hi cal ranger
-Selling_25_ID 1193
-Selling_25_Cost 25
-//bino
-Selling_26_ID 333
-Selling_26_Cost 75
+//jerrycan
+Selling_24_ID 1116
+Selling_24_Cost 3000
