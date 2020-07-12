@@ -2,38 +2,39 @@ GUID 5df4b40f52cd4cac9165400adb315db5
 Type Vendor
 ID 32802
 Buying 8
-// Thompson M1A1
-Buying_0_ID 19100
+// PPSh
+Buying_0_ID 24003
 Buying_0_Cost 200
 
-// Bar
+// Bren
 Buying_1_ID 19103
-Buying_1_Cost 350
+Buying_1_Cost 400
 
-// M2 Carbine
-Buying_2_ID 19110
+// Avtomat
+Buying_2_ID 24028
 Buying_2_Cost 400
 
-// M3A1 Grease Gun
-Buying_3_ID 19108
+// PPS
+Buying_3_ID 24016
 Buying_3_Cost 150
 
-// Browning 30.Cal M1919
-Buying_4_ID 19107
+// DP - 28
+Buying_4_ID 24004
 Buying_4_Cost 450
 
-// Bren
-Buying_5_ID 30075
+// M50
+Buying_5_ID 24023
 Buying_5_Cost 400
 
-// Johnson
-Buying_6_ID 19111
+// AVS
+Buying_6_ID 24027
 Buying_6_Cost 200
-// sten
-Buying_7_ID 30113
-Buying_7_Cost 150
 
-Selling 14
+// PPD 40
+Buying_7_ID 24021
+Buying_7_Cost 350
+
+Selling 17
 
 // MP34
 Selling_0_ID 24014
@@ -75,12 +76,12 @@ Selling_8_Cost 10
 Selling_9_ID 18934
 Selling_9_Cost 10
 
-// breda
-Selling_10_ID 30096
+// MG13
+Selling_10_ID 24026
 Selling_10_Cost 1300
 
-// breda mag
-Selling_11_ID 30097
+// MG13 mag
+Selling_11_ID 24126
 Selling_11_Cost 10
 
 // FG42
@@ -89,6 +90,17 @@ Selling_12_Cost 1000
 // FG42 mag
 Selling_13_ID 18936
 Selling_13_Cost 10
+
+// Beretta Modello
+Selling_14_ID 24025
+Selling_14_Cost 1200
+// Beretta mag
+Selling_15_ID 24125
+Selling_15_Cost 10
+
+// Flamethrower mag
+Selling_16_ID 34710
+Selling_16_Cost 500
 
 
 
