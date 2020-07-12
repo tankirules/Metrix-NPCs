@@ -7,13 +7,13 @@ Buying 3
 Buying_0_ID 1240
 Buying_0_Cost 500
 // Camp-axe
-Buying_1_ID 16
+Buying_1_ID 24302
 Buying_1_Cost 50
 // Pickaxe
 Buying_2_ID 1198
 Buying_2_Cost 50
 
-Selling 22
+Selling 21
 // Walkie
 Selling_0_ID 1445
 Selling_0_Cost 250
@@ -31,7 +31,7 @@ Selling_4_ID 382
 Selling_4_Cost 20
 // Barbed-wire
 Selling_5_ID 386
-Selling_5_Cost 25
+Selling_5_Cost 35
 // Mounted MG
 Selling_6_ID 35709
 Selling_6_Cost 1000
@@ -71,12 +71,9 @@ Selling_17_Cost 200
 // Climbing rope
 Selling_18_ID 34708
 Selling_18_Cost 200
-// bwire
-Selling_19_ID 386
-Selling_19_Cost 35
 // diving tank
-Selling_20_ID 1178
-Selling_20_Cost 500
+Selling_19_ID 1178
+Selling_19_Cost 500
 // snorkel
-Selling_21_ID 1181
-Selling_21_Cost 100
+Selling_20_ID 1181
+Selling_20_Cost 100
