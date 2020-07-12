@@ -43,7 +43,7 @@ Selling_2_ID 267
 Selling_2_Cost 25
 // Flashlight
 Selling_3_ID 276
-Selling_3_Cost 100
+Selling_3_Cost 150
 
 // low-Military-ammo
 Selling_4_ID 43
@@ -104,7 +104,7 @@ Selling_18_Cost 75
 Selling_19_ID 59556
 Selling_19_Cost 300
 // Camp-axe
-Selling_20_ID 24502
+Selling_20_ID 24302
 Selling_20_Cost 250
 // Pickaxe
 Selling_21_ID 1198
