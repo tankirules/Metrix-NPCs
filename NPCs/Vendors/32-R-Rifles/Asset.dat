@@ -2,51 +2,67 @@ GUID d7a224bad59f478ca0ab71904ac6aa69
 Type Vendor
 ID 32831
 
-Buying 11
-// Kar98k
-Buying_0_ID 24006
-Buying_0_Cost 15
-// Kar98k-Clip
-Buying_1_ID 24106
-Buying_1_Cost 5
-// Gewehr 43
-Buying_2_ID 24007
-Buying_2_Cost 25
-// Gewehr-Mag
-Buying_3_ID 24107
-Buying_3_Cost 5
-// PzB 39
-Buying_4_ID 24012
-Buying_4_Cost 3000
-// PzB Bullet
-Buying_5_ID 24112
-Buying_5_Cost 75
-// PTRS-41
-Buying_6_ID 24013
-Buying_6_Cost 3000
-// PTRS-Clip
-Buying_7_ID 24113
-Buying_7_Cost 75
-// Kar98k SCoped
-Buying_8_ID 30001
-Buying_8_Cost 300
-// vz24
-Buying_9_ID 27800
-Buying_9_Cost 200
-// m1941
-Buying_10_ID 27802
-Buying_10_Cost 900
+Buying 7
+// Luger P08
+Buying_0_ID 24008
+Buying_0_Cost 100
 
-Selling 4
+// Carcano
+Buying_1_ID 30034
+Buying_1_Cost 10
+
+// Kar98
+Buying_2_ID 24006
+Buying_2_Cost 10
+
+// Gewehr 43
+Buying_3_ID 24007
+Buying_3_Cost 15
+
+// double barrel
+Buying_4_ID 30079
+Buying_4_Cost 15
+
+// descout
+Buying_5_ID 30038
+Buying_5_Cost 150
+
+// desniperplus
+Buying_6_ID 30098
+Buying_6_Cost 300
+
+Selling 11
 // Mosin-Nagant
 Selling_0_ID 24000
-Selling_0_Cost 25
+Selling_0_Cost 50
 // Mosin-Clip
 Selling_1_ID 24100
 Selling_1_Cost 5
 // SVT-40
 Selling_2_ID 24001
-Selling_2_Cost 50
+Selling_2_Cost 125
 // SVT-Mag
 Selling_3_ID 24101
-Selling_3_Cost 10
+Selling_3_Cost 5
+// Springfield
+Selling_4_ID 19105
+Selling_4_Cost 50
+// Springfield clip
+Selling_5_ID 19154
+Selling_5_Cost 5
+// Springfield clip OLD
+Selling_6_ID 30029
+Selling_6_Cost 5
+// Trench Gun
+Selling_7_ID 30078
+Selling_7_Cost 400
+// gauge shells
+Selling_8_ID 113
+Selling_8_Cost 5
+// Tokarev T33
+Selling_9_ID 24002
+Selling_9_Cost 350
+// Tokarev Mag
+Selling_10_ID 24102
+Selling_10_Cost 5
+
