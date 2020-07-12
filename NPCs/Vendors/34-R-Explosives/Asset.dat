@@ -2,33 +2,76 @@ GUID fecd913d01514a4bb61453c309249512
 Type Vendor
 ID 32833
 
-Buying 5
-// Kar98k-Grenade
-Buying_0_ID 24206
-Buying_0_Cost 800
-// Pzschreck
-Buying_1_ID 24015
-Buying_1_Cost 7500
-//Pz Rocket
-Buying_2_ID 24115
-Buying_2_Cost 850
-//Stielhandgrenade
-Buying_3_ID 24011
-Buying_3_Cost 250
+Buying 4
+// Panzerschrek
+Buying_0_ID 24015
+Buying_0_Cost 5000
+// detonator
+Buying_1_ID 1240
+Buying_1_Cost 500
+// Panzerbüchse
+Buying_2_ID 24012
+Buying_2_Cost 1000
 
-Selling 5
-// Mosin-Grenade
-Selling_0_ID 24200
-Selling_0_Cost 1000
-// Bazooka
-Selling_1_ID 24017
-Selling_1_Cost 7500
-//m1 Rocket
-Selling_2_ID 24117
-Selling_2_Cost 850
-//grenade rgd
-Selling_3_ID 24005
-Selling_3_Cost 250
-//molotov
-Selling_4_ID 15220
-Selling_4_Cost 750
+
+
+Selling 15
+// M1 Bazooka
+Selling_0_ID 19109
+Selling_0_Cost 8000
+
+// Detonator
+Selling_1_ID 1240
+Selling_1_Cost 1500
+
+// mk ii grenade
+Selling_2_ID 59553
+Selling_2_Cost 70
+
+// M1A1 At mine
+Selling_3_ID 34703
+Selling_3_Cost 180
+
+// Rifle nade
+Selling_4_ID 24200
+Selling_4_Cost 100
+
+// Ptrs
+Selling_5_ID 24013
+Selling_5_Cost 3000
+
+// Ptrs mag
+Selling_6_ID 24113
+Selling_6_Cost 60
+
+// Bazooka rocket
+Selling_7_ID 19161
+Selling_7_Cost 800
+
+// M7 Mine
+Selling_8_ID 34704
+Selling_8_Cost 200
+
+// Sticky nade
+Selling_9_ID 41643
+Selling_9_Cost 500
+
+// M2A3 mine
+Selling_10_ID 41647
+Selling_10_Cost 190
+
+// M19 mine
+Selling_11_ID 34705
+Selling_11_Cost 230
+
+// remote charge
+Selling_12_ID 34706
+Selling_12_Cost 250
+
+// Fliegerfaust ammo
+Selling_13_ID 24513
+Selling_13_Cost 150
+
+// Fliegerfaust capt
+Selling_14_ID 24514
+Selling_14_Cost 3000
