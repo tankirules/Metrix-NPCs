@@ -2,43 +2,38 @@ GUID 5f16ec428df24fe2986019354b8ccd93
 Type Vendor
 ID 32809
 
-Selling 9
+Selling 7
+// BF110
+Selling_0_ID 21632
+Selling_0_Cost 500
 
 // Bf - 109 F4
-Selling_0_ID 29050
-Selling_0_Cost 4500
+Selling_1_ID 29050
+Selling_1_Cost 1800
 
 // Ju - 52 
-Selling_1_ID 30061
-Selling_1_Cost 2000
+Selling_2_ID 30061
+Selling_2_Cost 2000
 
 // Me410
-Selling_2_ID 21634
-Selling_2_Cost 3000
-
-// HE 112
-Selling_3_ID 21630
-Selling_3_Cost 800
-
-// Stuka
-Selling_4_ID 29051
-Selling_4_Cost 6500
-
-// Ju - 88
-Selling_5_ID 21634
-Selling_5_Cost 7500
-
-// Heinkel He 177 Greif
-Selling_6_ID 24503
-Selling_6_Cost 9000
+Selling_3_ID 21638
+Selling_3_Cost 3000
 
 // FW190
-Selling_7_ID 21635
-Selling_7_Cost 6800
+Selling_4_ID 21635 
+Selling_4_Cost 6000
 
-// AR - 196 torpedo
-Selling_8_ID 30166
-Selling_8_Cost 6500
+// Stuka
+Selling_5_ID 29051
+Selling_5_Cost 6500
+
+// Ju - 88
+Selling_6_ID 21634
+Selling_6_Cost 8000
+
+
+
+
 
 
 
