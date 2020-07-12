@@ -4,7 +4,7 @@ ID 32807
 
 
 
-Selling 17
+Selling 19
 // Kubelwagen
 Selling_0_ID 29000
 Selling_0_Cost 150
@@ -74,4 +74,11 @@ Selling_15_Cost 750
 Selling_16_ID 39000
 Selling_16_Cost 2000
 
+// Sdkfz222 20mm
+Selling_17_ID 21611
+Selling_17_Cost 1200
+
+// Leichte Feldhaubitze
+Selling_18_ID 21622
+Selling_18_Cost 2000
 
