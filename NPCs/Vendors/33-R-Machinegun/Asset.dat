@@ -3,32 +3,39 @@ Type Vendor
 ID 32832
 
 Buying 8
-// Mp40
-Buying_0_ID 24009
-Buying_0_Cost 900
-// Mp40-Mag
-Buying_1_ID 24109
-Buying_1_Cost 10
-// MG-42
-Buying_2_ID 24010
-Buying_2_Cost 2500
-// MG-42-drum
-Buying_3_ID 24110
-Buying_3_Cost 25
-// MP-34
-Buying_4_ID 24014
-Buying_4_Cost 900
-// MP-34 mag
-Buying_5_ID 24114
-Buying_5_Cost 7
-// kp31
-Buying_6_ID 24020
-Buying_6_Cost 1250
-// kp31mag
-Buying_7_ID 24120
-Buying_7_Cost 30
+// MP34
+Buying_0_ID 24014
+Buying_0_Cost 150
+ 
+// MP40
+Buying_1_ID 24009
+Buying_1_Cost 200
 
-Selling 8
+// KP31
+Buying_2_ID 24020
+Buying_2_Cost 350
+
+// MG42
+Buying_3_ID 24010
+Buying_3_Cost 450
+
+// FG42 
+Buying_4_ID 18935
+Buying_4_Cost 200
+
+// StG44
+Buying_5_ID 18933
+Buying_5_Cost 400
+
+// MG13
+Buying_6_ID 24026
+Buying_6_Cost 400
+
+// Beretta
+Buying_7_ID 24025
+Buying_7_Cost 400
+
+Selling 17
 // PPSh-41
 Selling_0_ID 24003
 Selling_0_Cost 1000
@@ -37,10 +44,10 @@ Selling_1_ID 24103
 Selling_1_Cost 15
 // DP-28
 Selling_2_ID 24004
-Selling_2_Cost 2000
+Selling_2_Cost 1500
 // DP-28-pan
 Selling_3_ID 24104
-Selling_3_Cost 100
+Selling_3_Cost 10
 // PPS43
 Selling_4_ID 24016
 Selling_4_Cost 1000
@@ -49,7 +56,34 @@ Selling_5_ID 24116
 Selling_5_Cost 15
 // PPD40
 Selling_6_ID 24021
-Selling_6_Cost 1500
+Selling_6_Cost 800
 // PPD40 mag
 Selling_7_ID 24120
-Selling_7_Cost 50
+Selling_7_Cost 10
+// Actomat
+Selling_8_ID 24028
+Selling_8_Cost 1100
+// Avtomat mag
+Selling_9_ID 24128
+Selling_9_Cost 10
+// Bren
+Selling_10_ID 24024
+Selling_10_Cost 1300
+// Bren mag
+Selling_11_ID 24124
+Selling_11_Cost 10
+// AVS36
+Selling_12_ID 24027
+Selling_12_Cost 1000
+// AVS mag
+Selling_13_ID 24127
+Selling_13_Cost 10
+// M50 Raising
+Selling_14_ID 24023
+Selling_14_Cost 1200
+// M50 mag
+Selling_15_ID 24123
+Selling_15_Cost 10
+// Flamethrower mag
+Selling_16_ID 34710
+Selling_16_Cost 500
