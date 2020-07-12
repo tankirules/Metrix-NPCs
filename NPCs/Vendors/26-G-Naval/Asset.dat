@@ -20,16 +20,16 @@ Selling_2_Cost 7500
 Selling_3_ID 30081
 Selling_3_Cost 10000
 
-// AR - 196
-Selling_4_ID 30040
+// leo
+Selling_4_ID 30145
 Selling_4_Cost 6500
 
-// leo
-Selling_5_ID 30145
+// AR - 196 torpedo
+Selling_5_ID 30166
 Selling_5_Cost 6500
 
-// AR - 196 torpedo
-Selling_6_ID 30166
-Selling_6_Cost 6500
+//R-301
+Selling_6_ID random plox make
+Selling_6_Cost 3500
 
 // Selling Completed
