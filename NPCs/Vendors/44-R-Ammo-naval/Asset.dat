@@ -2,36 +2,77 @@ GUID b4dcfed85c264e4dad0fd31cc0c471ed
 Type Vendor
 ID 32843
 
-Buying 6
-// 20mm-AP-Clip
-Buying_0_ID 40401
-Buying_0_Cost 50
-// 20mm-HE-Clip
-Buying_1_ID 40402
-Buying_1_Cost 60
-// Torpedo-4
-Buying_2_ID 41701
-Buying_2_Cost 200
+Buying 4
 // 20mm-Bullet
-Buying_3_ID 41301
-Buying_3_Cost 100
+Buying_0_ID 41301
+Buying_0_Cost 10
 // 127mm-AP-Shell
-Buying_4_ID 41601
-Buying_4_Cost 30
+Buying_1_ID 41601
+Buying_1_Cost 7
 // 127mm-HE-Shell
-Buying_5_ID 41602
-Buying_5_Cost 40
+Buying_2_ID 41602
+Buying_2_Cost 7
+// Torpedo
+Buying_3_ID 41701
+Buying_3_Cost 15
 
-Selling 4
-// 20mm-Bullet
-Selling_0_ID 41301
-Selling_0_Cost 200
-// Torpedo-4
-Selling_1_ID 41701
-Selling_1_Cost 300
-// 127mm-AP-Shell
-Selling_2_ID 41601
-Selling_2_Cost 40
-// 127mm-HE-Shell
-Selling_3_ID 41602
-Selling_3_Cost 50
+Selling 15
+// 37mm - AC
+Selling_0_ID 40201
+Selling_0_Cost 15
+
+// 40mm AA Box
+Selling_1_ID 42701
+Selling_1_Cost 20
+
+// .50Cal - Dual
+Selling_2_ID 42631
+Selling_2_Cost 20
+
+// 20mm X 150
+Selling_3_ID 41301
+Selling_3_Cost 100
+
+// Torpedo
+Selling_4_ID 
+Selling_4_Cost 50
+
+// 5 127mm 
+Selling_5_ID 30148
+Selling_5_Cost 600
+
+// 127mm - HE
+Selling_6_ID 41602
+Selling_6_Cost 30
+
+//127mm AP artillery
+Selling_7_ID 30092
+Selling_7_Cost 30
+
+//127mm HE artillery
+Selling_8_ID 30093
+Selling_8_Cost 30
+
+//artillery dual 50 cal
+Selling_9_ID 30101
+Selling_9_Cost 30
+
+// 40mmac 
+Selling_10_ID 40211
+Selling_10_Cost 20
+
+//SC 50 cal
+Selling_11_ID 40103
+Selling_11_Cost 30
+
+//105mm SAP
+Selling_12_ID 30147
+Selling_12_Cost 20
+
+// Torpedo boat
+Selling_13_ID 30168
+Selling_13_Cost 50
+
+// Torpedo plane
+Selling_14_ID 30155
+Selling_14_Cost 50
