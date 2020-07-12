@@ -2,21 +2,32 @@ GUID c7b7da99861d4710b9d21f23359db581
 Type Vendor
 ID 32840
 
-Buying 2
-// S-38
-Buying_0_ID 29100
-Buying_0_Cost 1000
-// 1934-Class-Destroyer
-Buying_1_ID 29101
-Buying_1_Cost 4000
 
-Selling 3
+Selling 7
 // G-5
 Selling_0_ID 29300
-Selling_0_Cost 2000
+Selling_0_Cost 1500
+
 // Gnevny-Class-Destroyer
 Selling_1_ID 29301
-Selling_1_Cost 5000
+Selling_1_Cost 7500
+
 // R tranpsort
 Selling_2_ID 29302
-Selling_2_Cost 1000
+Selling_2_Cost 500
+
+//farragut
+Selling_3_ID 30144
+Selling_3_Cost 6500
+
+//Fletcher artillery
+Selling_4_ID 30080
+Selling_4_Cost 10000
+
+//navy dauntless torpedo
+Selling_5_ID 30044
+Selling_5_Cost 6500
+
+//BMO
+Selling_6_ID random plox make
+Selling_6_Cost 3500
