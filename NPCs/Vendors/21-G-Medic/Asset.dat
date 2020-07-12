@@ -15,13 +15,13 @@ Buying_2_Cost 10
 
 Selling 9
 // Dressing
-Selling_0_ID 24501
+Selling_0_ID 24301
 Selling_0_Cost 10
 // Splint
 Selling_1_ID 96
 Selling_1_Cost 15
 // Medkit
-Selling_2_ID 24500
+Selling_2_ID 24300
 Selling_2_Cost 110
 // Bloodbag
 Selling_3_ID 395
