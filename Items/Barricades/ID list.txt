@@ -51,6 +51,7 @@ M1937 AT gun - 29209
 Harley Davidson - 29210
 ^ with sidecar - 29211
 
+
 t-20 - 29212
 BA-10 - 29213
 t-26 29214
@@ -58,6 +59,9 @@ t-34 winter 29215
 su-76 29216
 m26 pershing 29217
 ba-11 29218
+
+m3 scout car 29219
+KhT-26 29220
 
 -Allied Air-
 LaGG-3 - 29250
