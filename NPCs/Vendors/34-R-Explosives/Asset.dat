@@ -17,7 +17,7 @@ Buying_2_Cost 1000
 
 Selling 15
 // M1 Bazooka
-Selling_0_ID 19109
+Selling_0_ID 24017
 Selling_0_Cost 8000
 
 // Detonator
@@ -45,7 +45,7 @@ Selling_6_ID 24113
 Selling_6_Cost 60
 
 // Bazooka rocket
-Selling_7_ID 19161
+Selling_7_ID 24117
 Selling_7_Cost 800
 
 // M7 Mine
