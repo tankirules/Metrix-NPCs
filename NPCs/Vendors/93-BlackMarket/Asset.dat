@@ -3,7 +3,7 @@ GUID abc480c7407b4805a24763c096bf4f84
 Type Vendor
 ID 30831
 
-Buying 5
+Buying 6
 
 // Gasmask
 Buying_0_ID 1270
@@ -14,8 +14,8 @@ Buying_1_ID 30039
 Buying_1_Cost 800
 
 // Flamethrower
-Buying_2_ID 34709
-Buying_2_Cost 3000
+Buying_2_ID 24516
+Buying_2_Cost 2000
 
 // Mortar
 Buying_3_ID 30109
@@ -25,20 +25,24 @@ Buying_3_Cost 2000
 Buying_4_ID 30038
 Buying_4_Cost 800
 
+// Flamethrower
+Buying_5_ID 24517
+Buying_5_Cost 2000
 
-Selling 9
+
+Selling 10
 
 // Gasmask
 Selling_0_ID 1270
 Selling_0_Cost 100000
 
 // Flamethrower
-Selling_1_ID 34709
-Selling_1_Cost 10000
+Selling_1_ID 24516
+Selling_1_Cost 4000
 
 // NapalmTank
-Selling_2_ID 34710
-Selling_2_Cost 800
+Selling_2_ID 24515
+Selling_2_Cost 500
 
 // HE Mortar
 Selling_3_ID 30110
@@ -50,19 +54,23 @@ Selling_4_Cost 100
 
 // WC
 Selling_5_ID 47178
-Selling_5_Cost 4000
+Selling_5_Cost 400
 
 // Ale Barrel
 Selling_6_ID 42241
-Selling_6_Cost 600
+Selling_6_Cost 500
 
 // Mead Barrel
 Selling_7_ID 42242
-Selling_7_Cost 600
+Selling_7_Cost 500
 
 // T17
 Selling_8_ID 18945
-Selling_8_Cost 25000
+Selling_8_Cost 8000
+
+// Flamethrower
+Selling_9_ID 24517
+Selling_9_Cost 4000
 
 
 
