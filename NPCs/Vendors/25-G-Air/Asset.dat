@@ -2,7 +2,7 @@ GUID 5f16ec428df24fe2986019354b8ccd93
 Type Vendor
 ID 32809
 
-Selling 7
+Selling 8
 // BF110
 Selling_0_ID 21632
 Selling_0_Cost 500
@@ -21,7 +21,7 @@ Selling_3_Cost 3000
 
 // FW190
 Selling_4_ID 21635 
-Selling_4_Cost 6000
+Selling_4_Cost 4500
 
 // Stuka
 Selling_5_ID 29051
@@ -30,6 +30,10 @@ Selling_5_Cost 6500
 // Ju - 88
 Selling_6_ID 21634
 Selling_6_Cost 8000
+
+// He - 177
+Selling_7_ID 24503
+Selling_7_Cost 10000
 
 
 
