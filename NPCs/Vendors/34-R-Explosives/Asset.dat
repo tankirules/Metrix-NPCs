@@ -15,7 +15,7 @@ Buying_2_Cost 1000
 
 
 
-Selling 15
+Selling 12
 // M1 Bazooka
 Selling_0_ID 24017
 Selling_0_Cost 8000
@@ -28,50 +28,38 @@ Selling_1_Cost 1500
 Selling_2_ID 59553
 Selling_2_Cost 70
 
-// M1A1 At mine
-Selling_3_ID 34703
-Selling_3_Cost 180
-
 // Rifle nade
-Selling_4_ID 24200
-Selling_4_Cost 100
+Selling_3_ID 24200
+Selling_3_Cost 100
 
 // Ptrs
-Selling_5_ID 24013
-Selling_5_Cost 3000
+Selling_4_ID 24013
+Selling_4_Cost 3000
 
 // Ptrs mag
-Selling_6_ID 24113
-Selling_6_Cost 60
+Selling_5_ID 24113
+Selling_5_Cost 60
 
 // Bazooka rocket
-Selling_7_ID 24117
-Selling_7_Cost 800
-
-// M7 Mine
-Selling_8_ID 34704
-Selling_8_Cost 200
+Selling_6_ID 24117
+Selling_6_Cost 800
 
 // Sticky nade
-Selling_9_ID 41643
-Selling_9_Cost 500
+Selling_7_ID 41643
+Selling_7_Cost 500
 
 // M2A3 mine
-Selling_10_ID 41647
-Selling_10_Cost 190
-
-// M19 mine
-Selling_11_ID 34705
-Selling_11_Cost 230
+Selling_8_ID 41647
+Selling_8_Cost 190
 
 // remote charge
-Selling_12_ID 34706
-Selling_12_Cost 250
+Selling_9_ID 1241
+Selling_9_Cost 250
 
 // Fliegerfaust ammo
-Selling_13_ID 24513
-Selling_13_Cost 150
+Selling_10_ID 24513
+Selling_10_Cost 150
 
 // Fliegerfaust capt
-Selling_14_ID 24514
-Selling_14_Cost 3000
+Selling_11_ID 24514
+Selling_11_Cost 3000
