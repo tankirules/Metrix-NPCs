@@ -3,7 +3,7 @@ Type Vendor
 ID 32839
 
 
-Selling 7
+Selling 8
 //Pe-3 
 Selling_0_ID 29253
 Selling_0_Cost 500
@@ -22,7 +22,7 @@ Selling_3_Cost 3000
 
 // P-39
 Selling_4_ID 20635
-Selling_4_Cost 6000
+Selling_4_Cost 4500
 
 // IL-2
 Selling_5_ID 29251
@@ -31,4 +31,9 @@ Selling_5_Cost 6500
 // Tu-2
 Selling_6_ID 29252
 Selling_6_Cost 8000
+
+// B-29
+Selling_7_ID 29252
+Selling_7_Cost 10000
+
 
