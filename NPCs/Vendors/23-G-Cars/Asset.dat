@@ -15,15 +15,15 @@ Selling_1_Cost 250
 
 // 	AA Truck
 Selling_2_ID 30052
-Selling_2_Cost 3500
+Selling_2_Cost 2200
 
 // Flak - 38
 Selling_3_ID 29008 
-Selling_3_Cost 3000
+Selling_3_Cost 1600
 
 // Pak - 36
 Selling_4_ID 29009
-Selling_4_Cost 400
+Selling_4_Cost 1000
 
 // BMW - R75
 Selling_5_ID 29010
@@ -47,7 +47,7 @@ Selling_9_Cost 450
 
 // SdKfz - 6 / 2
 Selling_10_ID 29003
-Selling_10_Cost 3500
+Selling_10_Cost 2000
 
 // sdkfz 222
 Selling_11_ID 29013
