@@ -1,0 +1,13 @@
+GUID a61b163fa1f54cdba5dafbcd3e364c22
+
+Type Dialogue
+ID 34000
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+
+Response_0_Dialogue 34001
+
+Response_1_Dialogue 

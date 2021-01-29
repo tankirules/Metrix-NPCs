@@ -1,0 +1,84 @@
+
+Type Vendor
+ID 30903
+Selling 18
+
+// Pine flag
+Selling_0_ID 1233
+Selling_0_Cost 5
+
+// Pine pillar
+Selling_1_ID 54
+Selling_1_Cost 130
+
+// roof
+Selling_2_ID 56
+Selling_2_Cost 135
+
+// wall
+Selling_3_ID 58
+Selling_3_Cost 135
+
+// window
+Selling_4_ID 60
+Selling_4_Cost 135
+
+// stairs
+Selling_5_ID 317
+Selling_5_Cost 135
+
+// hole
+Selling_6_ID 320
+Selling_6_Cost 135
+
+// ladder
+Selling_7_ID 327
+Selling_7_Cost 50
+
+// crate
+Selling_8_ID 368
+Selling_8_Cost 90
+
+// spikes
+Selling_9_ID 385
+Selling_9_Cost 30
+
+// plate
+Selling_10_ID 1071
+Selling_10_Cost 80
+
+// large plate
+Selling_11_ID 1070
+Selling_11_Cost 90
+
+// floor
+Selling_12_ID 52
+Selling_12_Cost 135
+
+// trifloor
+Selling_13_ID 1264
+Selling_13_Cost 135
+
+// triroof
+Selling_14_ID 1268
+Selling_14_Cost 135
+
+// barricade
+Selling_15_ID 46
+Selling_15_Cost 20
+
+// fortification
+Selling_16_ID 48
+Selling_16_Cost 20
+
+// log
+Selling_17_ID 41
+Selling_17_Cost 50
+
+
+
+
+
+
+
+
