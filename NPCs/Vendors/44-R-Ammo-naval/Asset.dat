@@ -16,7 +16,7 @@ Buying_2_Cost 7
 Buying_3_ID 41701
 Buying_3_Cost 15
 
-Selling 14
+Selling 15
 // 37mm - AC
 Selling_0_ID 40201
 Selling_0_Cost 15
@@ -72,4 +72,8 @@ Selling_12_Cost 20
 // Torpedo boat
 Selling_13_ID 30168
 Selling_13_Cost 50
+
+//127mm naval ap shell
+Selling_14_ID 41601
+Selling_14_Cost 30
 
