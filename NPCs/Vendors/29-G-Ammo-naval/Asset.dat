@@ -32,7 +32,7 @@ Buying_5_Cost 5
 Buying_6_ID 41602
 Buying_6_Cost 5
 
-Selling 10
+Selling 9
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 100
@@ -42,16 +42,17 @@ Selling_1_Cost 600
 // 127mm-HE-Shell
 Selling_2_ID 41602
 Selling_2_Cost 30
-// torpedo
-Selling_3_ID 
+// Torpedo plane
+Selling_3_ID 30155
 Selling_3_Cost 50
 
-// 127mm-AP-Shell artillery
-Selling_4_ID 42801
+
+// 127mm naval ap shell
+Selling_4_ID 41601
 Selling_4_Cost 30
 
-// 127mm-HE-Shell artillery
-Selling_5_ID 42802
+// 2x 127mm he shell artillery
+Selling_5_ID 30173
 Selling_5_Cost 30
 
 // 40mm box
@@ -66,7 +67,4 @@ Selling_7_Cost 20
 Selling_8_ID 30168
 Selling_8_Cost 50
 
-// Torpedo plane
-Selling_9_ID 30155
-Selling_9_Cost 50
 
