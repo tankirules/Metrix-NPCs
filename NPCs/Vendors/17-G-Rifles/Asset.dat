@@ -1,7 +1,7 @@
 GUID e1bad118459a42d580d1968c646d7235
 Type Vendor
 ID 32801
-Buying 9
+Buying 11
 // Tokarev T33
 Buying_0_ID 24002
 Buying_0_Cost 100
@@ -37,6 +37,14 @@ Buying_7_Cost 150
 // ussniperplus
 Buying_8_ID 30099
 Buying_8_Cost 300
+
+// lee enfield no 4
+Buying_9_ID 30099
+Buying_9_Cost 25
+
+// SMLE
+Buying_10_ID 30099
+Buying_10_Cost 25
 
 
 Selling 11

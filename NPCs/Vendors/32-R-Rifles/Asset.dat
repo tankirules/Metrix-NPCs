@@ -31,7 +31,7 @@ Buying_5_Cost 150
 Buying_6_ID 30098
 Buying_6_Cost 300
 
-Selling 11
+Selling 14
 // Mosin-Nagant
 Selling_0_ID 24000
 Selling_0_Cost 50
@@ -65,4 +65,15 @@ Selling_9_Cost 350
 // Tokarev Mag
 Selling_10_ID 24102
 Selling_10_Cost 5
+// Lee enfield no 4 mk 1
+Selling_11_ID 30030
+Selling_11_Cost 100
+// SMLE
+Selling_12_ID 30033
+Selling_12_Cost 85
+// 10 round lee .303
+Selling_13_ID 30031
+Selling_13_Cost 10
+
+
 
