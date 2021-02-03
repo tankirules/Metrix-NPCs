@@ -59,7 +59,7 @@ Buying_12_Cost 5
 Buying_13_ID 42101
 Buying_13_Cost 5
 
-Selling 25
+Selling 27
 
 // LMG Clip
 Selling_0_ID 40001
@@ -160,3 +160,11 @@ Selling_23_Cost 150
 // flame mag
 Selling_24_ID 41861
 Selling_24_Cost 200
+
+// 85mm AP
+Selling_25_ID 40821
+Selling_25_Cost 250
+
+// 85mm HE
+Selling_26_ID 40822
+Selling_26_Cost 25
