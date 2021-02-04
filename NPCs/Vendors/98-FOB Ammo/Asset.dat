@@ -3,7 +3,7 @@ GUID abc480c7407b4805a24763c096bf4f84
 Type Vendor
 ID 30904
 
-Selling 2
+Selling 6
 
 // lmg clip
 Selling_0_ID 40001
@@ -12,6 +12,22 @@ Selling_0_Cost 60
 // 37mm ac
 Selling_1_ID 40201
 Selling_1_Cost 25
+
+// 90mm ap
+Selling_2_ID 40811
+Selling_2_Cost 40
+
+// 90mm he
+Selling_3_ID 40812
+Selling_3_Cost 40
+
+// 122mm ap
+Selling_4_ID 40901
+Selling_4_Cost 50
+
+// 122mm he
+Selling_5_ID 40902
+Selling_5_Cost 50
 
 
 
