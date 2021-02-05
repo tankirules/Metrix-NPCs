@@ -31,7 +31,7 @@ Buying_5_Cost 150
 Buying_6_ID 30098
 Buying_6_Cost 300
 
-Selling 14
+Selling 15
 // Mosin-Nagant
 Selling_0_ID 24000
 Selling_0_Cost 50
@@ -74,6 +74,9 @@ Selling_12_Cost 85
 // 10 round lee .303
 Selling_13_ID 30031
 Selling_13_Cost 10
+// kar scope
+Selling_14_ID 24306
+Selling_14_Cost 500
 
 
 
