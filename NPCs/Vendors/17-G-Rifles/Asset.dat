@@ -47,7 +47,7 @@ Buying_10_ID 30099
 Buying_10_Cost 25
 
 
-Selling 12
+Selling 11
 
 // Luger P08
 Selling_0_ID 24008
@@ -89,9 +89,6 @@ Selling_9_Cost 400
 Selling_10_ID 381
 Selling_10_Cost 5
 
-// kar scope
-Selling_11_ID 24306
-Selling_11_Cost 500
 
 
 
