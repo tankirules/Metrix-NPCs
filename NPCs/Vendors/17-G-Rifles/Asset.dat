@@ -30,8 +30,8 @@ Buying_5_Cost 15
 Buying_6_ID 30078
 Buying_6_Cost 15
 
-// usscout
-Buying_7_ID 30039
+// ruscout
+Buying_7_ID 30000
 Buying_7_Cost 150
 
 // ussniperplus
@@ -39,11 +39,11 @@ Buying_8_ID 30099
 Buying_8_Cost 300
 
 // lee enfield no 4
-Buying_9_ID 30099
+Buying_9_ID 30030
 Buying_9_Cost 25
 
 // SMLE
-Buying_10_ID 30099
+Buying_10_ID 30033
 Buying_10_Cost 25
 
 
@@ -78,8 +78,8 @@ Selling_7_ID 24107
 Selling_7_Cost 5
 
 
-//Kar98 Clip Old
-Selling_8_ID 30027
+//Kar98 Clip double caliber
+Selling_8_ID 30258
 Selling_8_Cost 5
 
 // double barrel

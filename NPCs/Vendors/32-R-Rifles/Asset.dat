@@ -24,7 +24,7 @@ Buying_4_ID 30079
 Buying_4_Cost 15
 
 // descout
-Buying_5_ID 30038
+Buying_5_ID 30001
 Buying_5_Cost 150
 
 // desniperplus
@@ -36,7 +36,7 @@ Selling 14
 Selling_0_ID 24000
 Selling_0_Cost 50
 // Mosin-Clip
-Selling_1_ID 24100
+Selling_1_ID 30259
 Selling_1_Cost 5
 // SVT-40
 Selling_2_ID 24001
