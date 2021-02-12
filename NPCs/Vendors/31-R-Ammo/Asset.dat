@@ -59,7 +59,7 @@ Buying_12_Cost 5
 Buying_13_ID 42101
 Buying_13_Cost 5
 
-Selling 27
+Selling 29
 
 // LMG Clip
 Selling_0_ID 40001
@@ -168,3 +168,12 @@ Selling_25_Cost 25
 // 85mm HE
 Selling_26_ID 40822
 Selling_26_Cost 25
+
+// 122mm ap
+Selling_27_ID 40901
+Selling_27_Cost 30
+
+// 122mm he
+Selling_28_ID 40902
+Selling_28_Cost 30
+
