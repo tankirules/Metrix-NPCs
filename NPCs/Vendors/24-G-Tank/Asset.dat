@@ -4,7 +4,7 @@ ID 32808
 
 
 
-Selling 8
+Selling 9
 // Pz - II 
 Selling_0_ID 29005
 Selling_0_Cost 800
@@ -19,15 +19,15 @@ Selling_2_Cost 3000
 
 // Pz - IV 
 Selling_3_ID 29006
-Selling_3_Cost 4200
+Selling_3_Cost 4000
 
 // Panther
 Selling_4_ID 18940
-Selling_4_Cost 6500
+Selling_4_Cost 6000
 
 // Tiger - 1
 Selling_5_ID 29007
-Selling_5_Cost 8500
+Selling_5_Cost 8000
 
 // flammpanzer
 Selling_6_ID 21657
@@ -35,5 +35,9 @@ Selling_6_Cost 3000
 
 // Wespe
 Selling_7_ID 21656
-Selling_7_Cost 3000
+Selling_7_Cost 4500
+
+// Tiger - 2
+Selling_8_ID 24500
+Selling_8_Cost 9500
 

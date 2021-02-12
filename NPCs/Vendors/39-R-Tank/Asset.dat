@@ -2,19 +2,19 @@ GUID 74a43de4b8054c8984e393942fc59dd2
 Type Vendor
 ID 32838
 
-Selling 8
+Selling 9
 // T-60
 Selling_0_ID 29205
 Selling_0_Cost 800
 // T-34 (1942) 
 Selling_1_ID 29206
-Selling_1_Cost 4200
+Selling_1_Cost 4000
 // KV-1 (ZiS-5)
 Selling_2_ID 29207
-Selling_2_Cost 8500
+Selling_2_Cost 8000
 // SU122
 Selling_3_ID 20656
-Selling_3_Cost 6000
+Selling_3_Cost 4500
 //KHT
 Selling_4_ID 29220
 Selling_4_Cost 3000
@@ -23,7 +23,10 @@ Selling_5_ID
 Selling_5_Cost 1600
 //T-34-85
 Selling_6_ID 18944
-Selling_6_Cost 6500
+Selling_6_Cost 6000
 //su76
 Selling_7_ID 29216
 Selling_7_Cost 3000
+//IS2
+Selling_8_ID 29216
+Selling_8_Cost 9500
