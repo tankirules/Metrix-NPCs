@@ -1,7 +1,7 @@
 GUID e1bad118459a42d580d1968c646d7235
 Type Vendor
 ID 32801
-Buying 11
+Buying 12
 // Tokarev T33
 Buying_0_ID 24002
 Buying_0_Cost 100
@@ -46,8 +46,12 @@ Buying_9_Cost 25
 Buying_10_ID 30033
 Buying_10_Cost 25
 
+// pobolt
+Buying_11_ID 28200
+Buying_11_Cost 10
 
-Selling 11
+
+Selling 13
 
 // Luger P08
 Selling_0_ID 24008
@@ -88,6 +92,14 @@ Selling_9_Cost 400
 // 20 gauge
 Selling_10_ID 381
 Selling_10_Cost 5
+
+// robolt
+Selling_11_ID 27800
+Selling_11_Cost 50
+// ammo
+Selling_12_ID 27801
+Selling_12_Cost 5
+
 
 
 

@@ -1,7 +1,7 @@
 GUID 5df4b40f52cd4cac9165400adb315db5
 Type Vendor
 ID 32802
-Buying 8
+Buying 9
 // PPSh
 Buying_0_ID 24003
 Buying_0_Cost 200
@@ -34,7 +34,12 @@ Buying_6_Cost 200
 Buying_7_ID 24021
 Buying_7_Cost 350
 
-Selling 17
+// poassault
+Buying_8_ID 28202
+Buying_8_Cost 350
+
+
+Selling 19
 
 // MP34
 Selling_0_ID 24014
@@ -101,6 +106,13 @@ Selling_15_Cost 10
 // Flamethrower mag
 Selling_16_ID 24515
 Selling_16_Cost 500
+
+// roassault
+Selling_17_ID 27802
+Selling_17_Cost 800
+// ammo
+Selling_18_ID 27803
+Selling_18_Cost 10
 
 
 

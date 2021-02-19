@@ -2,7 +2,7 @@ GUID d7a224bad59f478ca0ab71904ac6aa69
 Type Vendor
 ID 32831
 
-Buying 7
+Buying 8
 // Luger P08
 Buying_0_ID 24008
 Buying_0_Cost 100
@@ -31,7 +31,11 @@ Buying_5_Cost 150
 Buying_6_ID 30098
 Buying_6_Cost 300
 
-Selling 14
+// robolt
+Buying_7_ID 27800
+Buying_7_Cost 10
+
+Selling 16
 // Mosin-Nagant
 Selling_0_ID 24000
 Selling_0_Cost 50
@@ -74,6 +78,12 @@ Selling_12_Cost 85
 // 10 round lee .303
 Selling_13_ID 30031
 Selling_13_Cost 10
+// pobolt
+Selling_14_ID 28200
+Selling_14_Cost 50
+// ammo
+Selling_15_ID 28201
+Selling_15_Cost 5
 
 
 

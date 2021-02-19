@@ -2,7 +2,7 @@ GUID e25d37c7364945ce800013ccbdf60395
 Type Vendor
 ID 32832
 
-Buying 8
+Buying 9
 // MP34
 Buying_0_ID 24014
 Buying_0_Cost 150
@@ -34,6 +34,10 @@ Buying_6_Cost 400
 // Beretta
 Buying_7_ID 24025
 Buying_7_Cost 400
+
+// Beretta Modello
+Buying_8_ID 27802
+Buying_8_Cost 350
 
 Selling 17
 // PPSh-41
@@ -87,3 +91,9 @@ Selling_15_Cost 10
 // Flamethrower mag
 Selling_16_ID 24515
 Selling_16_Cost 500
+// poassault
+Selling_17_ID 28202
+Selling_17_Cost 800
+// ammo
+Selling_18_ID 28203
+Selling_18_Cost 10
