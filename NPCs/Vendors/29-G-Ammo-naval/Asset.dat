@@ -32,7 +32,7 @@ Buying_5_Cost 5
 Buying_6_ID 41602
 Buying_6_Cost 5
 
-Selling 9
+Selling 12
 // 20mm-Bullet
 Selling_0_ID 41301
 Selling_0_Cost 100
@@ -66,5 +66,17 @@ Selling_7_Cost 20
 // Torpedo boat
 Selling_8_ID 30168
 Selling_8_Cost 50
+
+//203mm shell
+Selling_9_ID 46002
+Selling_9_Cost 50
+
+//127mm shell (fish)
+Selling_10_ID 46004
+Selling_10_Cost 30
+
+//114mm shell
+Selling_11_ID 46006
+Selling_11_Cost 25
 
 

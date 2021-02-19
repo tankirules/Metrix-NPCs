@@ -16,7 +16,7 @@ Buying_2_Cost 7
 Buying_3_ID 41701
 Buying_3_Cost 15
 
-Selling 15
+Selling 18
 // 37mm - AC
 Selling_0_ID 40201
 Selling_0_Cost 15
@@ -76,4 +76,16 @@ Selling_13_Cost 50
 //127mm naval ap shell
 Selling_14_ID 41601
 Selling_14_Cost 30
+
+//203mm shell
+Selling_15_ID 46002
+Selling_15_Cost 50
+
+//127mm shell (fish)
+Selling_16_ID 46004
+Selling_16_Cost 30
+
+//114mm shell
+Selling_17_ID 46006
+Selling_17_Cost 25
 
