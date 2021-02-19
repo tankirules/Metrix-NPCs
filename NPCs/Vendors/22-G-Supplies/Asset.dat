@@ -31,7 +31,7 @@ Buying_7_Cost 100
 Buying_8_ID 49119
 Buying_8_Cost 100
 
-Selling 25
+Selling 24
 // Red-smoke
 Selling_0_ID 266
 Selling_0_Cost 25
@@ -112,12 +112,9 @@ Selling_21_Cost 250
 //chainsaw
 Selling_22_ID 490
 Selling_22_Cost 500
-//jackhammer
-Selling_23_ID 1475
-Selling_23_Cost 500
 //jerrycan
-Selling_24_ID 1116
-Selling_24_Cost 3000
+Selling_23_ID 1116
+Selling_23_Cost 3000
 
 
 
