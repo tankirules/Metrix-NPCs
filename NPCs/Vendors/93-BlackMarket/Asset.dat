@@ -30,7 +30,7 @@ Buying_5_ID 24517
 Buying_5_Cost 2000
 
 
-Selling 10
+Selling 11
 
 // Gasmask
 Selling_0_ID 1270
@@ -46,7 +46,7 @@ Selling_2_Cost 500
 
 // HE Mortar
 Selling_3_ID 30110
-Selling_3_Cost 500
+Selling_3_Cost 800
 
 // Filter
 Selling_4_ID 1271
@@ -71,6 +71,10 @@ Selling_8_Cost 8000
 // Flamethrower
 Selling_9_ID 24517
 Selling_9_Cost 4000
+
+// Thumper ammo
+Selling_10_ID 51402
+Selling_10_Cost 800
 
 
 
