@@ -4,62 +4,62 @@ ID 32802
 Buying 9
 // PPSh
 Buying_0_ID 24003
-Buying_0_Cost 200
+Buying_0_Cost 100
 
 // Bren
 Buying_1_ID 19103
-Buying_1_Cost 400
+Buying_1_Cost 200
 
 // Avtomat
 Buying_2_ID 24028
-Buying_2_Cost 400
+Buying_2_Cost 200
 
 // PPS
 Buying_3_ID 24016
-Buying_3_Cost 150
+Buying_3_Cost 75
 
 // DP - 28
 Buying_4_ID 24004
-Buying_4_Cost 450
+Buying_4_Cost 225
 
 // M50
 Buying_5_ID 24023
-Buying_5_Cost 400
+Buying_5_Cost 200
 
 // AVS
 Buying_6_ID 24027
-Buying_6_Cost 200
+Buying_6_Cost 100
 
 // PPD 40
 Buying_7_ID 24021
-Buying_7_Cost 350
+Buying_7_Cost 175
 
 // poassault
 Buying_8_ID 28202
-Buying_8_Cost 350
+Buying_8_Cost 175
 
 
 Selling 19
 
 // MP34
 Selling_0_ID 24014
-Selling_0_Cost 500
+Selling_0_Cost 250
  
 // MP40
 Selling_1_ID 24009
-Selling_1_Cost 600
+Selling_1_Cost 300
 
 // KP31
 Selling_2_ID 24020
-Selling_2_Cost 800
+Selling_2_Cost 400
 
 // MG42
 Selling_3_ID 24010
-Selling_3_Cost 1500
+Selling_3_Cost 750
 
 // StG44
 Selling_4_ID 18933
-Selling_4_Cost 1100
+Selling_4_Cost 550
 
 // mp34 mag
 Selling_5_ID 24114
@@ -83,7 +83,7 @@ Selling_9_Cost 10
 
 // MG13
 Selling_10_ID 24026
-Selling_10_Cost 1300
+Selling_10_Cost 750
 
 // MG13 mag
 Selling_11_ID 24126
@@ -91,25 +91,25 @@ Selling_11_Cost 10
 
 // FG42
 Selling_12_ID 18935
-Selling_12_Cost 1000
+Selling_12_Cost 500
 // FG42 mag
 Selling_13_ID 18936
 Selling_13_Cost 10
 
 // Beretta Modello
 Selling_14_ID 24025
-Selling_14_Cost 1200
+Selling_14_Cost 300
 // Beretta mag
 Selling_15_ID 24125
 Selling_15_Cost 10
 
 // Flamethrower mag
 Selling_16_ID 24515
-Selling_16_Cost 500
+Selling_16_Cost 300
 
 // roassault
 Selling_17_ID 27802
-Selling_17_Cost 800
+Selling_17_Cost 300
 // ammo
 Selling_18_ID 27803
 Selling_18_Cost 10

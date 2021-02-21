@@ -4,7 +4,7 @@ ID 32807
 
 
 
-Selling 19
+Selling 18
 // Kubelwagen
 Selling_0_ID 29000
 Selling_0_Cost 150
@@ -66,19 +66,15 @@ Selling_13_Cost 1500
 Selling_14_ID 34453
 Selling_14_Cost 450
 
-// Schwimmwagen
-Selling_15_ID 35501
-Selling_15_Cost 750
+// Sdkfz222 20mm
+Selling_15_ID 39000
+Selling_15_Cost 2000
 
 // Sdkfz222 20mm
-Selling_16_ID 39000
-Selling_16_Cost 2000
-
-// Sdkfz222 20mm
-Selling_17_ID 21611
-Selling_17_Cost 1200
+Selling_16_ID 21611
+Selling_16_Cost 1200
 
 // Leichte Feldhaubitze
-Selling_18_ID 21622
-Selling_18_Cost 2500
+Selling_17_ID 21622
+Selling_17_Cost 2500
 
